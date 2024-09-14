@@ -1,0 +1,3001 @@
+Building_Age,Number_of_Floors,Total_Area,Number_of_Windows,Insulation_Type,Heating_System,Cooling_System,Energy_Consumption
+56,33,16880,153,Polyurethane,Heat Pump,Window Units,799466.74
+88,4,39051,210,Cellulose,Geothermal,None,1637312.69
+25,33,93415,27,Spray Foam,Geothermal,None,2009154.0
+41,30,72015,170,Cellulose,Geothermal,Central AC,3025257.99
+46,47,57045,267,Spray Foam,Geothermal,Central AC,2482095.44
+77,9,73575,45,Spray Foam,Geothermal,Evaporative,3919095.42
+17,48,1638,477,Fiberglass,Geothermal,Heat Pump,61817.13
+44,42,62319,391,Cellulose,Geothermal,Central AC,4154267.92
+48,38,58997,403,Mineral Wool,Heat Pump,Central AC,2658720.03
+12,38,34162,354,Mineral Wool,Heat Pump,None,527818.09
+90,1,34476,286,Cellulose,Forced Air,Window Units,2477278.58
+32,36,33393,276,Mineral Wool,Radiant,Heat Pump,922324.57
+48,37,59884,356,Cellulose,Forced Air,None,3043976.26
+17,4,86829,316,Fiberglass,Boiler,Evaporative,3855817.07
+86,37,47094,101,Polyurethane,Boiler,Evaporative,3835517.64
+14,7,43568,58,Spray Foam,Heat Pump,Window Units,1488778.31
+82,2,3651,271,Cellulose,Radiant,Central AC,218242.26
+94,14,77513,62,Fiberglass,Geothermal,Evaporative,2125462.56
+74,9,28037,431,Spray Foam,Heat Pump,None,2094361.32
+98,19,39981,445,Spray Foam,Forced Air,Evaporative,609735.98
+29,18,28701,231,Polyurethane,Heat Pump,Evaporative,924385.88
+93,8,47323,301,Spray Foam,Forced Air,None,1042914.5
+83,20,34362,325,Fiberglass,Geothermal,None,2112970.5
+38,13,57999,36,Polyurethane,Geothermal,Heat Pump,2919241.33
+89,40,74041,224,Mineral Wool,Radiant,Heat Pump,6903429.93
+37,5,15787,431,Spray Foam,Geothermal,Window Units,169308.83
+75,19,13062,129,Spray Foam,Boiler,Window Units,657503.11
+3,6,96406,257,Spray Foam,Radiant,None,1625229.54
+12,11,20228,205,Mineral Wool,Radiant,Window Units,414054.39
+69,28,26902,367,Spray Foam,Boiler,Window Units,1104764.71
+52,40,31779,196,Cellulose,Radiant,Evaporative,1165296.57
+71,13,82791,244,Fiberglass,Forced Air,None,5465648.41
+50,26,95856,100,Cellulose,Geothermal,None,2649660.13
+60,21,38429,25,Polyurethane,Heat Pump,Evaporative,2431402.27
+62,25,13227,272,Cellulose,Radiant,None,886643.45
+20,15,9629,106,Spray Foam,Heat Pump,None,163139.57
+64,43,57659,405,Mineral Wool,Heat Pump,Central AC,625856.58
+85,42,13154,170,Spray Foam,Radiant,None,161484.19
+6,34,82254,250,Mineral Wool,Boiler,Central AC,2592271.62
+24,19,13622,402,Mineral Wool,Boiler,Central AC,150890.12
+59,15,79612,297,Polyurethane,Forced Air,Window Units,5466805.35
+27,40,54829,264,Fiberglass,Radiant,Central AC,1300013.21
+51,37,79211,179,Mineral Wool,Heat Pump,Window Units,5590366.08
+1,20,84536,340,Polyurethane,Heat Pump,Central AC,1247119.64
+58,20,48921,490,Fiberglass,Boiler,Window Units,3369069.42
+83,28,42398,208,Mineral Wool,Heat Pump,None,2533342.23
+7,19,88280,228,Spray Foam,Heat Pump,Central AC,2520993.81
+37,50,67654,57,Mineral Wool,Geothermal,Central AC,3194852.01
+85,45,74526,199,Fiberglass,Radiant,None,4031289.67
+63,49,69962,176,Spray Foam,Geothermal,Evaporative,3212254.69
+30,49,45106,61,Fiberglass,Forced Air,Evaporative,970307.55
+97,18,91177,115,Spray Foam,Forced Air,Window Units,3870676.43
+73,10,97266,220,Spray Foam,Radiant,Central AC,5428813.4
+58,5,42700,95,Cellulose,Heat Pump,Heat Pump,3056873.72
+24,2,90340,135,Cellulose,Forced Air,Evaporative,3595959.83
+91,16,89245,62,Cellulose,Heat Pump,Heat Pump,1421074.04
+84,23,27490,175,Polyurethane,Geothermal,Window Units,289879.7
+33,33,39926,177,Fiberglass,Boiler,Heat Pump,820106.44
+99,12,10952,476,Cellulose,Radiant,Evaporative,122347.75
+33,37,49448,116,Polyurethane,Forced Air,None,1621954.55
+33,3,21916,206,Polyurethane,Geothermal,Window Units,1454947.54
+16,46,86633,322,Fiberglass,Forced Air,None,2682140.86
+42,35,29719,55,Polyurethane,Radiant,Window Units,1763811.4
+56,6,81058,236,Mineral Wool,Geothermal,Window Units,5322036.28
+16,38,15408,472,Fiberglass,Heat Pump,Central AC,423488.53
+93,32,86532,289,Cellulose,Heat Pump,Heat Pump,4748096.33
+89,48,78544,215,Fiberglass,Forced Air,Heat Pump,5403431.67
+95,30,81629,383,Fiberglass,Boiler,Heat Pump,3513961.54
+4,20,35296,302,Fiberglass,Geothermal,None,1063948.03
+92,27,73790,220,Fiberglass,Heat Pump,Central AC,6590451.37
+76,37,15420,154,Cellulose,Boiler,Central AC,340964.36
+38,37,95981,280,Mineral Wool,Radiant,Evaporative,5779515.88
+40,9,6292,69,Cellulose,Forced Air,Central AC,393573.71
+5,22,32739,372,Fiberglass,Boiler,Heat Pump,1321791.34
+38,23,5881,198,Fiberglass,Radiant,Heat Pump,61634.17
+90,32,20881,279,Cellulose,Geothermal,None,753587.31
+45,27,52216,408,Spray Foam,Geothermal,None,2193845.71
+2,3,40924,398,Spray Foam,Geothermal,Central AC,1256235.76
+66,20,89650,41,Fiberglass,Geothermal,Central AC,2903790.42
+50,2,50394,386,Spray Foam,Boiler,None,3481031.36
+19,31,31080,487,Fiberglass,Forced Air,Heat Pump,294025.67
+5,34,69821,373,Polyurethane,Geothermal,Heat Pump,2902245.53
+87,41,94271,423,Polyurethane,Boiler,Central AC,2106755.75
+88,32,9706,354,Mineral Wool,Heat Pump,Central AC,358986.23
+95,43,36596,17,Mineral Wool,Forced Air,None,3228660.94
+61,49,12231,264,Cellulose,Boiler,None,902699.25
+38,26,79619,489,Polyurethane,Forced Air,None,1396031.88
+96,5,30998,295,Cellulose,Boiler,Evaporative,2256871.96
+79,7,86192,401,Cellulose,Heat Pump,None,5742694.98
+69,48,91294,178,Polyurethane,Boiler,Window Units,1581312.98
+97,30,58687,175,Polyurethane,Forced Air,None,2324707.87
+2,44,33188,94,Polyurethane,Boiler,Evaporative,1452363.05
+44,26,99203,157,Cellulose,Boiler,Window Units,5220396.09
+33,44,42764,343,Cellulose,Radiant,Evaporative,2302918.23
+6,11,20293,133,Polyurethane,Radiant,Heat Pump,884132.63
+27,1,79909,12,Fiberglass,Heat Pump,Heat Pump,3947045.83
+83,48,8801,159,Spray Foam,Heat Pump,Window Units,696361.16
+58,39,69078,80,Polyurethane,Geothermal,Evaporative,1136097.75
+83,14,84290,23,Fiberglass,Heat Pump,None,4183180.93
+5,10,91027,303,Spray Foam,Boiler,None,1758302.99
+78,50,38756,12,Cellulose,Boiler,Heat Pump,1858138.75
+29,39,75164,474,Fiberglass,Boiler,Heat Pump,2169419.33
+1,49,7655,144,Polyurethane,Boiler,Heat Pump,329460.71
+58,39,64397,423,Polyurethane,Heat Pump,Heat Pump,4939444.63
+33,22,1210,55,Polyurethane,Geothermal,Evaporative,8927.7
+93,37,17978,304,Spray Foam,Forced Air,Heat Pump,1209215.37
+75,46,8217,27,Spray Foam,Radiant,Window Units,535276.61
+53,1,83224,174,Spray Foam,Geothermal,None,2540254.11
+48,6,93063,74,Fiberglass,Boiler,Window Units,1439390.72
+87,24,44206,435,Mineral Wool,Boiler,Window Units,2609583.69
+2,22,94675,381,Mineral Wool,Geothermal,None,1168862.04
+14,30,35874,349,Polyurethane,Forced Air,Heat Pump,1545340.27
+36,40,42453,293,Fiberglass,Radiant,Heat Pump,447681.2
+3,20,89163,336,Mineral Wool,Radiant,Central AC,4341856.85
+55,39,35794,210,Polyurethane,Geothermal,Central AC,1799089.96
+79,38,78239,158,Fiberglass,Boiler,Evaporative,5341762.83
+2,33,66766,94,Cellulose,Forced Air,Central AC,891121.94
+58,43,3923,24,Spray Foam,Forced Air,Central AC,224454.99
+57,9,80081,151,Mineral Wool,Geothermal,Evaporative,5594119.44
+30,13,62214,88,Polyurethane,Heat Pump,Central AC,1637333.09
+22,25,36308,176,Polyurethane,Boiler,Heat Pump,1789467.51
+25,35,84819,434,Cellulose,Radiant,Evaporative,1073461.07
+2,29,94083,89,Fiberglass,Boiler,Central AC,2838238.29
+80,22,76379,485,Fiberglass,Heat Pump,Window Units,6402510.93
+18,5,80054,465,Mineral Wool,Geothermal,Evaporative,4119541.65
+32,26,34308,396,Spray Foam,Forced Air,Evaporative,1920492.47
+31,37,86249,33,Polyurethane,Forced Air,None,2739385.48
+48,22,15026,46,Polyurethane,Forced Air,Central AC,509323.45
+33,41,64480,162,Fiberglass,Forced Air,Central AC,2245513.51
+99,43,94211,428,Cellulose,Radiant,Heat Pump,4240841.85
+25,36,64018,334,Polyurethane,Geothermal,Evaporative,2461692.61
+3,8,64143,458,Fiberglass,Radiant,None,1282883.33
+99,9,97908,65,Mineral Wool,Forced Air,Heat Pump,5063015.78
+13,18,53951,440,Polyurethane,Geothermal,Window Units,524760.45
+100,8,48040,289,Spray Foam,Geothermal,Central AC,927965.37
+26,7,12312,60,Spray Foam,Geothermal,None,227384.58
+74,32,78942,388,Mineral Wool,Heat Pump,Heat Pump,5479583.31
+49,7,97321,25,Mineral Wool,Boiler,Window Units,3820868.75
+8,19,53491,178,Fiberglass,Geothermal,Central AC,2189588.11
+83,25,35511,397,Cellulose,Boiler,None,595565.81
+27,18,36001,409,Mineral Wool,Forced Air,Heat Pump,2218703.94
+8,3,91333,260,Fiberglass,Forced Air,Heat Pump,3759624.23
+84,42,39111,372,Polyurethane,Boiler,Heat Pump,3403671.37
+87,11,90944,425,Fiberglass,Radiant,Evaporative,7818969.73
+37,49,15778,205,Mineral Wool,Boiler,Heat Pump,979831.54
+90,19,44157,292,Fiberglass,Geothermal,Evaporative,3972034.08
+76,44,16331,395,Mineral Wool,Boiler,Evaporative,884103.44
+52,27,44207,370,Mineral Wool,Geothermal,Central AC,2281052.84
+6,10,17157,339,Fiberglass,Heat Pump,Window Units,215078.25
+49,38,91557,15,Fiberglass,Heat Pump,Window Units,2903701.65
+89,41,12502,176,Mineral Wool,Forced Air,Evaporative,373494.23
+48,27,24890,109,Mineral Wool,Geothermal,Heat Pump,1574363.09
+89,12,99158,255,Polyurethane,Forced Air,Central AC,2493332.24
+72,26,88729,131,Spray Foam,Heat Pump,None,6107102.79
+89,48,83547,362,Fiberglass,Heat Pump,None,806089.94
+65,2,34581,461,Mineral Wool,Heat Pump,Heat Pump,1216056.9
+36,38,31058,257,Cellulose,Boiler,Evaporative,1335882.05
+43,48,53070,25,Cellulose,Geothermal,Central AC,1119585.74
+12,23,86196,458,Fiberglass,Geothermal,Heat Pump,3296299.22
+17,46,83090,66,Cellulose,Radiant,Central AC,725265.18
+22,27,92667,300,Cellulose,Geothermal,None,1558891.22
+83,28,97769,109,Fiberglass,Heat Pump,Heat Pump,8689702.17
+100,2,20418,342,Polyurethane,Heat Pump,Evaporative,355111.32
+42,44,99473,480,Fiberglass,Boiler,None,6879726.55
+13,10,96319,53,Cellulose,Radiant,None,2141451.53
+42,48,43692,209,Cellulose,Radiant,Central AC,553718.87
+19,25,92929,56,Fiberglass,Forced Air,None,1178137.6
+87,50,9499,137,Fiberglass,Geothermal,Evaporative,651272.51
+100,50,3080,119,Mineral Wool,Radiant,Evaporative,240706.77
+79,26,37777,435,Cellulose,Boiler,Central AC,2086363.23
+70,48,42860,448,Polyurethane,Geothermal,None,1836371.25
+38,44,89014,81,Mineral Wool,Geothermal,Heat Pump,3576715.27
+6,5,40030,279,Mineral Wool,Forced Air,Heat Pump,1669194.48
+83,16,32025,324,Mineral Wool,Radiant,None,641849.55
+58,12,63580,215,Polyurethane,Boiler,Central AC,2647983.11
+44,3,5342,229,Cellulose,Heat Pump,Window Units,126120.23
+71,6,77535,422,Fiberglass,Geothermal,Evaporative,1551749.69
+43,5,9609,146,Polyurethane,Geothermal,None,323623.25
+95,35,82599,46,Spray Foam,Geothermal,Central AC,6122599.57
+100,13,44739,411,Mineral Wool,Boiler,Evaporative,1551328.45
+14,21,34384,363,Fiberglass,Radiant,Heat Pump,1869492.62
+7,32,47555,412,Spray Foam,Forced Air,Window Units,1223973.58
+77,2,74500,365,Polyurethane,Geothermal,Heat Pump,2037707.36
+21,32,85803,282,Fiberglass,Radiant,None,1868990.92
+48,44,73931,92,Spray Foam,Forced Air,None,1477196.63
+78,46,98155,488,Spray Foam,Boiler,None,8561848.26
+25,35,81419,75,Cellulose,Geothermal,None,4125723.84
+92,50,81494,279,Mineral Wool,Radiant,Central AC,7286928.81
+100,39,13171,445,Spray Foam,Boiler,Central AC,374543.52
+28,25,88976,107,Polyurethane,Radiant,Heat Pump,1557837.69
+32,21,17620,243,Fiberglass,Radiant,Evaporative,930195.78
+28,33,8252,154,Spray Foam,Forced Air,Window Units,340682.56
+1,11,6723,361,Fiberglass,Geothermal,None,307957.53
+42,21,9684,400,Fiberglass,Boiler,Evaporative,567506.07
+100,11,85865,414,Spray Foam,Heat Pump,Heat Pump,2527045.77
+75,49,55239,227,Cellulose,Boiler,Central AC,2758206.09
+43,35,54635,58,Cellulose,Geothermal,Window Units,1311978.25
+10,20,55521,236,Cellulose,Radiant,Central AC,2621845.33
+72,39,65436,421,Polyurethane,Boiler,Heat Pump,3883336.81
+3,21,2349,158,Mineral Wool,Forced Air,Central AC,37742.73
+81,34,92922,228,Spray Foam,Geothermal,Evaporative,2711394.52
+48,33,13986,67,Fiberglass,Heat Pump,Evaporative,179416.53
+29,20,16680,382,Spray Foam,Heat Pump,Heat Pump,627470.05
+45,44,9361,414,Polyurethane,Heat Pump,Heat Pump,170685.65
+31,6,36470,460,Mineral Wool,Geothermal,Evaporative,2204277.28
+5,8,47727,175,Mineral Wool,Radiant,None,389274.64
+35,20,63392,142,Fiberglass,Geothermal,Central AC,603002.15
+11,14,62108,464,Fiberglass,Boiler,None,1748133.57
+90,47,25581,239,Cellulose,Heat Pump,None,267188.3
+58,19,88583,372,Fiberglass,Heat Pump,Central AC,4385438.68
+95,34,84472,94,Polyurethane,Boiler,Central AC,8111857.88
+54,37,66887,107,Mineral Wool,Radiant,Window Units,3562920.42
+10,11,60167,441,Fiberglass,Geothermal,Heat Pump,2307760.47
+89,38,8658,59,Polyurethane,Boiler,None,263081.81
+76,24,35134,100,Polyurethane,Geothermal,Evaporative,2094182.72
+10,18,49669,362,Mineral Wool,Geothermal,Window Units,573724.83
+67,20,18753,258,Spray Foam,Geothermal,Evaporative,717832.31
+86,48,11651,475,Mineral Wool,Radiant,Window Units,500067.59
+98,48,66754,169,Spray Foam,Radiant,None,3266290.41
+40,15,30775,153,Fiberglass,Radiant,Central AC,1928434.83
+57,14,21017,249,Cellulose,Geothermal,Evaporative,417384.8
+52,30,95132,166,Polyurethane,Forced Air,Evaporative,5891346.42
+46,8,45767,400,Mineral Wool,Boiler,None,1457243.04
+54,27,61032,178,Spray Foam,Heat Pump,None,2870316.19
+39,37,20998,353,Spray Foam,Boiler,Window Units,655977.72
+47,15,24832,83,Spray Foam,Radiant,Heat Pump,918293.86
+39,11,85348,132,Cellulose,Radiant,Central AC,913535.43
+91,33,68772,47,Fiberglass,Boiler,None,4260557.94
+66,36,26865,368,Polyurethane,Radiant,Heat Pump,1648714.75
+75,25,60451,493,Mineral Wool,Heat Pump,None,3656656.28
+87,12,74330,196,Mineral Wool,Boiler,Window Units,5037790.01
+48,41,18411,18,Mineral Wool,Heat Pump,Central AC,528665.95
+15,41,90864,471,Cellulose,Radiant,None,5038688.28
+78,14,83657,165,Polyurethane,Heat Pump,Central AC,4668130.58
+18,38,2271,475,Spray Foam,Geothermal,Central AC,17642.96
+10,29,6835,400,Polyurethane,Radiant,Evaporative,197009.48
+84,2,33112,59,Mineral Wool,Heat Pump,Evaporative,1704002.62
+11,3,97319,491,Spray Foam,Radiant,Window Units,4981438.46
+21,1,55599,141,Polyurethane,Forced Air,Central AC,1249129.9
+49,39,44436,337,Polyurethane,Geothermal,Central AC,487571.51
+26,4,53090,484,Fiberglass,Geothermal,Heat Pump,933019.3
+24,48,38761,40,Fiberglass,Heat Pump,Central AC,1890882.09
+4,49,26442,80,Mineral Wool,Heat Pump,Window Units,1211136.7
+64,6,15539,80,Cellulose,Geothermal,Evaporative,317504.74
+48,17,70275,283,Cellulose,Boiler,None,4913626.49
+79,1,22746,462,Fiberglass,Heat Pump,Central AC,526189.23
+91,1,37794,379,Cellulose,Forced Air,Heat Pump,1025106.06
+17,45,36057,34,Fiberglass,Geothermal,None,322580.1
+64,2,58594,379,Spray Foam,Geothermal,Central AC,1899065.91
+77,47,41652,194,Cellulose,Geothermal,Evaporative,991526.35
+65,42,19126,83,Spray Foam,Heat Pump,Window Units,706496.89
+8,18,38520,430,Fiberglass,Forced Air,Heat Pump,1746012.18
+46,12,47000,165,Cellulose,Radiant,Central AC,2489613.0
+6,26,62306,466,Polyurethane,Geothermal,Heat Pump,3011495.48
+7,39,6270,355,Fiberglass,Boiler,Evaporative,106717.73
+70,32,31366,460,Polyurethane,Radiant,Window Units,826577.71
+81,47,31972,156,Polyurethane,Heat Pump,Window Units,2531295.56
+92,42,40112,226,Spray Foam,Geothermal,Window Units,1723955.14
+41,16,58833,158,Fiberglass,Heat Pump,Heat Pump,1949946.03
+18,4,32326,343,Fiberglass,Geothermal,Central AC,773333.41
+95,10,11061,147,Spray Foam,Geothermal,Evaporative,614226.56
+73,2,3213,361,Cellulose,Boiler,Evaporative,270336.65
+29,40,76752,79,Cellulose,Boiler,None,2103374.47
+54,45,85811,145,Cellulose,Boiler,Evaporative,4937989.99
+66,38,84558,47,Spray Foam,Heat Pump,None,3875895.55
+58,7,61509,146,Cellulose,Radiant,Central AC,3317237.31
+48,48,33543,149,Mineral Wool,Boiler,Window Units,1922515.77
+96,37,56230,414,Spray Foam,Geothermal,Window Units,1728413.73
+76,17,19462,91,Mineral Wool,Forced Air,Central AC,353969.24
+10,29,1350,373,Fiberglass,Forced Air,Evaporative,64579.79
+52,15,91616,163,Fiberglass,Heat Pump,Window Units,2178128.47
+19,29,22319,157,Cellulose,Boiler,Central AC,1110267.04
+83,47,73152,153,Fiberglass,Forced Air,Central AC,2287201.68
+18,5,43219,342,Mineral Wool,Boiler,Window Units,275181.46
+79,38,49352,163,Cellulose,Heat Pump,Heat Pump,494813.23
+12,2,58772,483,Mineral Wool,Forced Air,Heat Pump,501050.31
+35,6,39298,466,Fiberglass,Forced Air,Evaporative,1581481.99
+79,45,79307,33,Fiberglass,Boiler,Evaporative,2566581.76
+21,6,50013,352,Mineral Wool,Boiler,Heat Pump,1234685.7
+39,9,88814,491,Cellulose,Boiler,Window Units,1503276.54
+82,43,59940,496,Polyurethane,Forced Air,Central AC,5136229.0
+48,21,20026,223,Fiberglass,Forced Air,None,813808.32
+46,35,84371,269,Cellulose,Radiant,Heat Pump,2320253.23
+68,20,7141,191,Cellulose,Radiant,Window Units,226485.54
+45,9,13823,285,Polyurethane,Geothermal,Window Units,855238.22
+10,14,32947,216,Cellulose,Forced Air,None,712514.45
+45,40,85116,207,Spray Foam,Forced Air,None,2525285.13
+30,7,69607,230,Spray Foam,Heat Pump,None,2588175.55
+70,37,20389,253,Mineral Wool,Radiant,Window Units,190977.59
+96,2,79045,140,Polyurethane,Heat Pump,Window Units,6244043.47
+86,34,33528,201,Cellulose,Forced Air,None,1537128.18
+92,1,86940,317,Cellulose,Forced Air,None,5319040.19
+52,34,74294,71,Cellulose,Boiler,Central AC,911465.44
+16,24,34842,127,Mineral Wool,Boiler,None,1559634.87
+88,28,19312,329,Fiberglass,Heat Pump,Window Units,696182.54
+83,48,4013,280,Spray Foam,Forced Air,Central AC,132002.9
+5,28,93178,415,Polyurethane,Boiler,Heat Pump,3055373.84
+23,49,31024,207,Polyurethane,Geothermal,Evaporative,772520.91
+74,34,63101,392,Fiberglass,Radiant,Central AC,3299714.24
+4,31,62430,68,Mineral Wool,Heat Pump,Window Units,2222624.03
+78,30,3694,364,Spray Foam,Radiant,Window Units,228579.88
+14,6,82878,475,Spray Foam,Forced Air,Heat Pump,2263187.78
+1,18,50281,223,Fiberglass,Heat Pump,Heat Pump,1944985.07
+77,7,9093,124,Cellulose,Radiant,Central AC,727524.77
+48,50,18943,496,Mineral Wool,Boiler,Evaporative,357897.08
+12,43,56265,158,Fiberglass,Boiler,Evaporative,1516574.58
+97,24,47657,124,Fiberglass,Geothermal,Window Units,2211612.4
+91,33,58432,265,Cellulose,Heat Pump,None,4683369.78
+10,46,11268,210,Mineral Wool,Geothermal,Evaporative,483632.49
+63,10,29748,465,Polyurethane,Geothermal,None,1927617.38
+79,21,66560,451,Cellulose,Radiant,Heat Pump,5246496.25
+40,12,73939,101,Cellulose,Geothermal,Central AC,4151029.07
+82,16,84795,282,Fiberglass,Geothermal,Central AC,4168030.99
+33,21,24066,477,Cellulose,Boiler,Central AC,582252.36
+69,13,78058,104,Polyurethane,Heat Pump,Heat Pump,1444251.42
+24,21,96754,251,Polyurethane,Forced Air,None,5236122.79
+72,29,77716,376,Cellulose,Forced Air,Central AC,3217873.94
+2,45,19538,96,Fiberglass,Geothermal,Central AC,796535.7
+8,38,42873,212,Spray Foam,Boiler,Window Units,763553.41
+81,47,34154,88,Fiberglass,Radiant,Window Units,2974969.45
+18,12,90346,104,Polyurethane,Radiant,None,1959922.4
+50,14,8911,466,Cellulose,Boiler,Window Units,382588.12
+34,23,65405,289,Cellulose,Geothermal,None,869143.31
+29,25,89721,394,Mineral Wool,Radiant,Central AC,4622618.91
+19,22,9093,187,Mineral Wool,Radiant,Heat Pump,323658.58
+54,2,44771,449,Cellulose,Geothermal,Central AC,1804071.43
+40,17,62029,355,Mineral Wool,Radiant,Heat Pump,3556878.67
+2,8,83580,36,Mineral Wool,Forced Air,Central AC,1403413.63
+61,31,24996,56,Mineral Wool,Forced Air,None,1900147.9
+80,32,35523,34,Polyurethane,Heat Pump,Evaporative,2235713.88
+75,14,92030,399,Spray Foam,Boiler,None,6308328.76
+36,33,66227,435,Fiberglass,Radiant,Central AC,2440080.18
+30,2,66218,186,Mineral Wool,Geothermal,None,3729824.88
+65,5,73243,160,Cellulose,Boiler,None,2904096.51
+52,22,84161,59,Cellulose,Forced Air,Window Units,752696.53
+17,5,81460,145,Fiberglass,Forced Air,Heat Pump,1395561.57
+30,24,96718,127,Fiberglass,Boiler,Heat Pump,3212348.84
+82,50,81494,242,Mineral Wool,Geothermal,Evaporative,4661692.61
+89,7,7937,50,Spray Foam,Heat Pump,None,547396.65
+23,16,96672,96,Cellulose,Geothermal,Heat Pump,5389700.32
+93,7,4408,255,Fiberglass,Forced Air,None,219216.85
+99,16,79785,351,Cellulose,Radiant,Window Units,6488646.24
+36,30,71184,428,Cellulose,Forced Air,Evaporative,2124912.21
+72,39,29528,305,Spray Foam,Forced Air,Evaporative,1672335.02
+60,23,11191,67,Polyurethane,Radiant,Heat Pump,853721.33
+100,4,46895,235,Fiberglass,Boiler,None,4649576.43
+48,28,51254,30,Polyurethane,Forced Air,Central AC,892722.35
+45,21,79267,427,Cellulose,Boiler,Window Units,3589120.39
+87,5,33752,196,Spray Foam,Geothermal,Heat Pump,1115259.82
+92,25,27884,346,Cellulose,Boiler,Evaporative,429014.45
+65,26,29003,318,Spray Foam,Heat Pump,Evaporative,501972.88
+92,6,29066,121,Fiberglass,Forced Air,Evaporative,358973.52
+90,32,83824,238,Spray Foam,Boiler,None,6635705.93
+49,36,73085,205,Cellulose,Heat Pump,Heat Pump,4508543.74
+68,39,69493,144,Cellulose,Geothermal,None,1022148.14
+36,33,18917,191,Polyurethane,Radiant,Heat Pump,1162333.43
+32,8,45177,284,Cellulose,Boiler,Evaporative,1860353.07
+52,18,46448,265,Mineral Wool,Geothermal,None,729436.77
+29,42,17683,190,Mineral Wool,Forced Air,None,326049.64
+13,27,90340,352,Polyurethane,Forced Air,Window Units,4337648.36
+55,31,97599,333,Mineral Wool,Forced Air,Central AC,1335151.48
+35,50,7775,410,Cellulose,Geothermal,None,127804.18
+14,9,26205,483,Polyurethane,Boiler,Evaporative,1173594.71
+97,28,37059,363,Mineral Wool,Geothermal,Heat Pump,2635496.3
+35,1,78417,309,Mineral Wool,Radiant,None,1395138.84
+97,27,3125,482,Cellulose,Heat Pump,Central AC,270028.95
+85,25,16299,72,Fiberglass,Heat Pump,Central AC,573942.06
+17,25,71336,312,Mineral Wool,Heat Pump,Central AC,3093349.04
+88,5,14755,394,Fiberglass,Forced Air,Heat Pump,724620.44
+58,22,83984,347,Fiberglass,Heat Pump,None,5493837.74
+69,2,82435,447,Cellulose,Forced Air,Heat Pump,2712237.64
+2,6,80088,208,Spray Foam,Heat Pump,Heat Pump,1303441.27
+84,14,47668,432,Fiberglass,Geothermal,Evaporative,2448566.82
+63,30,92092,42,Polyurethane,Boiler,None,3827356.65
+8,21,76785,395,Mineral Wool,Geothermal,Heat Pump,703700.39
+90,15,80318,29,Fiberglass,Radiant,None,6257886.1
+28,7,54798,240,Spray Foam,Radiant,Evaporative,2589822.69
+14,23,30870,402,Fiberglass,Geothermal,Central AC,304050.71
+100,26,27310,328,Fiberglass,Geothermal,None,2529341.11
+81,29,91961,124,Cellulose,Heat Pump,None,5881003.46
+82,47,99457,368,Fiberglass,Heat Pump,None,5584987.01
+50,43,44018,465,Mineral Wool,Geothermal,Window Units,2633615.06
+37,37,3530,377,Polyurethane,Geothermal,Evaporative,37678.91
+54,42,32967,318,Cellulose,Radiant,Central AC,459069.69
+28,7,53083,170,Mineral Wool,Heat Pump,Heat Pump,1929553.2
+63,47,86602,93,Fiberglass,Radiant,Evaporative,6307226.77
+66,12,56377,81,Cellulose,Radiant,Central AC,1150934.4
+8,23,31532,403,Fiberglass,Heat Pump,Window Units,1682302.2
+30,12,40810,438,Cellulose,Radiant,None,1632176.87
+22,2,7627,418,Polyurethane,Heat Pump,Central AC,190282.11
+46,6,5682,87,Fiberglass,Geothermal,Central AC,156958.77
+94,49,36400,483,Spray Foam,Radiant,Central AC,1214049.8
+36,44,65117,394,Mineral Wool,Heat Pump,Evaporative,3982222.71
+80,6,51673,274,Polyurethane,Radiant,Window Units,1195540.9
+55,21,18714,457,Spray Foam,Forced Air,Central AC,1213708.58
+35,34,3053,373,Fiberglass,Radiant,Evaporative,107244.0
+87,47,5997,78,Spray Foam,Heat Pump,Window Units,551806.02
+61,49,41659,287,Polyurethane,Geothermal,Central AC,2576154.35
+60,48,25525,275,Spray Foam,Boiler,Window Units,412735.71
+27,11,73951,465,Fiberglass,Radiant,Central AC,3754490.55
+95,32,74158,275,Mineral Wool,Boiler,Evaporative,3998752.43
+37,20,97683,159,Polyurethane,Heat Pump,Evaporative,1423635.58
+18,22,21420,498,Fiberglass,Radiant,Heat Pump,558565.76
+97,49,75182,242,Spray Foam,Forced Air,Central AC,6019555.82
+49,29,39650,356,Spray Foam,Radiant,Window Units,2284227.32
+40,1,2487,93,Fiberglass,Radiant,Heat Pump,18810.87
+59,4,97517,113,Fiberglass,Heat Pump,Evaporative,2835227.92
+22,21,17449,467,Polyurethane,Geothermal,None,351451.87
+22,23,76828,420,Cellulose,Radiant,Evaporative,4596321.65
+84,20,57208,121,Cellulose,Geothermal,Evaporative,2639154.38
+41,25,5732,445,Fiberglass,Boiler,Window Units,262845.64
+40,14,48789,340,Cellulose,Boiler,Heat Pump,3282427.9
+76,36,12999,460,Cellulose,Boiler,None,651012.64
+66,47,47702,85,Mineral Wool,Geothermal,None,425938.66
+88,33,87723,121,Mineral Wool,Geothermal,Evaporative,6928283.96
+5,27,10189,230,Cellulose,Boiler,Evaporative,347116.97
+57,3,7287,175,Fiberglass,Geothermal,Central AC,125736.79
+61,27,91151,275,Polyurethane,Forced Air,None,4881192.27
+93,4,73964,107,Cellulose,Geothermal,Evaporative,5098685.78
+2,32,35131,361,Fiberglass,Geothermal,None,1667995.76
+17,32,3785,369,Mineral Wool,Geothermal,Central AC,55747.52
+25,9,27971,180,Fiberglass,Radiant,Evaporative,1168444.77
+54,29,64850,107,Cellulose,Heat Pump,Heat Pump,3250696.58
+35,17,91621,148,Spray Foam,Radiant,Heat Pump,1206426.63
+13,21,85270,248,Cellulose,Forced Air,Central AC,2834332.75
+47,31,88953,230,Mineral Wool,Radiant,Heat Pump,5084147.64
+75,18,27508,440,Cellulose,Radiant,Evaporative,1128520.34
+61,18,69424,238,Cellulose,Forced Air,Heat Pump,3952662.58
+13,9,9911,10,Cellulose,Forced Air,Evaporative,274459.3
+40,27,37603,131,Polyurethane,Heat Pump,Heat Pump,2133624.56
+40,46,93070,126,Spray Foam,Geothermal,Central AC,3521759.28
+50,20,64874,499,Spray Foam,Radiant,None,3011584.0
+29,36,55990,160,Mineral Wool,Boiler,Evaporative,1146955.63
+76,41,54411,415,Spray Foam,Heat Pump,Evaporative,1226267.6
+53,33,96514,405,Polyurethane,Boiler,None,4918413.86
+17,30,41978,498,Spray Foam,Forced Air,Evaporative,2092940.7
+3,9,29523,70,Fiberglass,Forced Air,Evaporative,749535.53
+26,12,9755,13,Cellulose,Radiant,Central AC,106490.84
+73,14,49806,200,Spray Foam,Boiler,Window Units,3925733.25
+95,7,28135,275,Fiberglass,Boiler,Evaporative,2143215.65
+35,30,30763,322,Mineral Wool,Geothermal,Evaporative,2023487.43
+67,27,95642,105,Fiberglass,Heat Pump,None,2290471.19
+89,13,68189,353,Fiberglass,Radiant,Heat Pump,2958603.16
+92,26,81885,469,Polyurethane,Radiant,None,7532635.72
+98,36,96038,34,Fiberglass,Boiler,None,6258066.6
+64,38,74319,46,Cellulose,Heat Pump,Central AC,2417260.91
+20,30,84859,48,Fiberglass,Heat Pump,Central AC,2638100.28
+98,17,77384,481,Mineral Wool,Geothermal,Heat Pump,2393051.48
+94,48,10108,110,Polyurethane,Geothermal,Window Units,265639.48
+25,50,40260,496,Polyurethane,Forced Air,Central AC,1483278.55
+14,20,68319,282,Mineral Wool,Heat Pump,None,922134.25
+52,35,94449,166,Mineral Wool,Heat Pump,Evaporative,5250061.39
+46,48,23975,329,Cellulose,Boiler,Evaporative,198765.73
+6,15,56581,197,Cellulose,Radiant,Evaporative,2620476.31
+35,13,20736,282,Mineral Wool,Boiler,Central AC,296847.58
+29,20,14413,267,Fiberglass,Boiler,Heat Pump,903681.0
+7,16,14207,309,Mineral Wool,Radiant,Central AC,344324.43
+34,20,76184,134,Mineral Wool,Radiant,Evaporative,2248579.95
+60,42,11477,41,Spray Foam,Heat Pump,Heat Pump,652190.34
+14,39,79462,107,Mineral Wool,Heat Pump,Heat Pump,3484973.95
+84,12,23522,165,Fiberglass,Heat Pump,Evaporative,1760196.88
+27,43,70832,50,Spray Foam,Radiant,Evaporative,4473154.9
+62,9,91982,159,Mineral Wool,Forced Air,Evaporative,5879162.22
+65,20,26934,85,Fiberglass,Boiler,Window Units,266573.59
+2,22,24296,227,Fiberglass,Heat Pump,Heat Pump,959225.71
+65,41,10512,439,Mineral Wool,Geothermal,Window Units,692921.48
+92,49,8811,40,Mineral Wool,Geothermal,Heat Pump,283120.02
+29,8,52134,486,Cellulose,Boiler,Central AC,2363086.8
+95,40,9628,442,Mineral Wool,Boiler,Window Units,594337.16
+61,23,22723,141,Spray Foam,Radiant,Window Units,1692679.46
+66,34,38190,179,Cellulose,Geothermal,Central AC,336196.12
+26,13,31224,65,Fiberglass,Radiant,Central AC,1520566.6
+21,10,26879,29,Spray Foam,Boiler,Evaporative,632180.74
+13,6,45252,193,Fiberglass,Boiler,Window Units,1141568.42
+42,43,70059,296,Cellulose,Radiant,Window Units,4908265.98
+29,8,3080,194,Cellulose,Heat Pump,Evaporative,72149.87
+39,45,8708,374,Cellulose,Forced Air,Window Units,152131.83
+76,15,28908,423,Polyurethane,Heat Pump,Central AC,582918.76
+19,37,15535,133,Polyurethane,Geothermal,None,280174.11
+73,25,21294,35,Mineral Wool,Geothermal,None,1647428.41
+77,2,27932,175,Spray Foam,Radiant,Heat Pump,612684.23
+22,26,13881,161,Fiberglass,Boiler,Heat Pump,375910.11
+50,17,55382,135,Mineral Wool,Geothermal,Heat Pump,2018603.44
+39,32,60868,58,Cellulose,Radiant,None,832226.72
+32,25,31429,463,Fiberglass,Radiant,None,462653.07
+82,8,42888,492,Spray Foam,Radiant,None,2784046.73
+27,14,45535,475,Fiberglass,Boiler,Central AC,1137260.72
+37,42,2458,308,Spray Foam,Geothermal,Evaporative,40967.69
+77,45,6791,32,Cellulose,Radiant,None,458963.07
+53,29,76422,412,Polyurethane,Boiler,Evaporative,3461522.69
+76,43,50922,299,Spray Foam,Forced Air,Evaporative,4128562.54
+96,37,4764,60,Mineral Wool,Forced Air,None,243972.15
+62,21,55135,298,Polyurethane,Forced Air,Heat Pump,3324673.46
+15,48,58793,81,Cellulose,Geothermal,Heat Pump,2251731.0
+86,17,30054,398,Fiberglass,Geothermal,Evaporative,1505746.0
+1,27,94394,24,Spray Foam,Radiant,Evaporative,3510303.97
+91,49,55247,492,Fiberglass,Radiant,Evaporative,4904617.95
+76,18,75512,345,Fiberglass,Boiler,Window Units,6096518.51
+23,35,79762,177,Mineral Wool,Radiant,Window Units,2704574.62
+70,17,30582,91,Spray Foam,Geothermal,Window Units,2445553.85
+61,4,78778,373,Spray Foam,Heat Pump,Evaporative,3782348.7
+97,13,25891,298,Spray Foam,Forced Air,Evaporative,2129442.54
+3,48,81702,182,Fiberglass,Forced Air,None,485414.23
+1,47,40088,298,Cellulose,Heat Pump,Evaporative,455317.44
+37,39,98789,275,Cellulose,Geothermal,Central AC,3034123.97
+35,7,26707,303,Mineral Wool,Radiant,Window Units,1582635.74
+51,9,74895,345,Fiberglass,Boiler,Evaporative,602650.94
+75,38,38544,393,Polyurethane,Geothermal,Heat Pump,2620701.97
+31,17,74291,485,Spray Foam,Boiler,None,3922611.8
+94,49,89315,155,Fiberglass,Forced Air,Window Units,5064040.79
+75,26,5187,81,Fiberglass,Geothermal,None,48700.54
+10,20,84364,202,Polyurethane,Radiant,Central AC,3271068.73
+27,50,47041,295,Mineral Wool,Boiler,Central AC,2149687.98
+12,4,82418,455,Fiberglass,Heat Pump,Heat Pump,4356091.35
+87,23,82217,378,Fiberglass,Heat Pump,Central AC,7011824.6
+80,22,51281,101,Fiberglass,Forced Air,None,1379174.92
+89,14,20255,328,Polyurethane,Heat Pump,Window Units,199021.51
+7,36,99253,143,Mineral Wool,Heat Pump,Heat Pump,1440238.22
+5,23,77071,447,Polyurethane,Geothermal,Heat Pump,2136307.71
+48,33,1256,396,Spray Foam,Forced Air,Evaporative,87684.2
+88,36,26933,177,Fiberglass,Geothermal,None,1634506.86
+88,7,70679,360,Polyurethane,Boiler,Window Units,5046375.35
+19,25,84401,24,Spray Foam,Boiler,Evaporative,4190660.68
+85,26,48874,437,Polyurethane,Forced Air,Heat Pump,3010968.46
+51,45,48261,493,Spray Foam,Radiant,Evaporative,1912223.88
+17,19,92520,311,Fiberglass,Heat Pump,None,3710399.17
+96,39,44728,203,Polyurethane,Geothermal,Central AC,2516910.67
+72,25,61909,227,Spray Foam,Radiant,Evaporative,1658677.89
+5,46,94124,310,Fiberglass,Heat Pump,Central AC,4425910.56
+61,33,92937,468,Spray Foam,Radiant,Evaporative,3368535.39
+85,18,5106,329,Polyurethane,Boiler,Central AC,55075.14
+40,23,22601,124,Fiberglass,Boiler,None,754787.03
+46,33,60936,411,Mineral Wool,Radiant,Window Units,2029743.12
+52,15,94484,168,Mineral Wool,Heat Pump,Central AC,6743684.98
+12,27,14561,125,Polyurethane,Heat Pump,Window Units,512338.43
+100,45,20281,472,Cellulose,Radiant,Central AC,1958188.33
+60,3,81052,273,Mineral Wool,Heat Pump,Window Units,1801804.51
+57,3,30372,414,Mineral Wool,Radiant,Central AC,1655634.63
+46,37,69933,208,Mineral Wool,Radiant,Window Units,1806075.58
+82,37,15926,71,Mineral Wool,Geothermal,Window Units,851364.83
+9,48,69039,82,Spray Foam,Geothermal,Evaporative,1100804.61
+82,44,17316,56,Fiberglass,Boiler,Window Units,436354.95
+22,40,2754,490,Cellulose,Heat Pump,Central AC,31351.35
+25,22,51108,42,Fiberglass,Boiler,Evaporative,1477435.03
+79,25,61490,226,Mineral Wool,Geothermal,Heat Pump,2146148.67
+78,42,97601,222,Polyurethane,Forced Air,Window Units,5725527.96
+53,8,94334,103,Polyurethane,Boiler,Evaporative,2202792.42
+63,29,84895,429,Mineral Wool,Heat Pump,Window Units,2555245.46
+47,20,69844,296,Mineral Wool,Forced Air,Window Units,2844075.87
+72,40,64746,122,Spray Foam,Forced Air,Heat Pump,1318753.5
+76,6,98661,444,Cellulose,Geothermal,Window Units,7449411.28
+1,17,25131,79,Cellulose,Heat Pump,None,974802.88
+5,4,21003,470,Spray Foam,Geothermal,None,993338.77
+59,10,74548,80,Spray Foam,Radiant,Window Units,5820240.16
+55,44,52787,129,Cellulose,Boiler,Evaporative,2947812.79
+55,23,39065,114,Cellulose,Forced Air,Heat Pump,1177993.53
+68,33,35492,455,Cellulose,Radiant,Window Units,1466431.48
+32,43,66367,480,Polyurethane,Radiant,Window Units,4203322.69
+6,16,69495,59,Spray Foam,Heat Pump,Heat Pump,3002330.72
+14,39,20129,451,Spray Foam,Heat Pump,Evaporative,255558.8
+52,19,31004,111,Spray Foam,Heat Pump,Central AC,1696984.29
+17,31,82748,483,Cellulose,Heat Pump,Window Units,594245.33
+75,2,84057,496,Polyurethane,Boiler,Central AC,4130956.54
+53,28,6764,144,Mineral Wool,Forced Air,None,236327.7
+5,29,94255,310,Spray Foam,Radiant,None,910671.92
+19,45,72768,114,Mineral Wool,Radiant,Evaporative,2773155.07
+8,23,24523,60,Polyurethane,Radiant,Evaporative,744352.38
+3,49,15266,439,Fiberglass,Heat Pump,Central AC,262293.91
+54,5,99318,39,Spray Foam,Boiler,Evaporative,5974826.47
+29,29,18695,88,Mineral Wool,Forced Air,Heat Pump,1168798.38
+62,50,91640,101,Polyurethane,Boiler,Window Units,2257560.25
+13,42,14203,398,Polyurethane,Geothermal,None,216591.17
+59,43,10557,322,Polyurethane,Forced Air,Evaporative,146601.79
+92,4,63086,457,Cellulose,Forced Air,Evaporative,3063309.12
+80,36,46362,470,Mineral Wool,Geothermal,Heat Pump,4089380.98
+5,34,80495,152,Fiberglass,Geothermal,None,3729472.22
+34,7,26168,323,Spray Foam,Radiant,None,1358894.39
+27,34,33267,279,Spray Foam,Boiler,None,1047099.61
+98,4,9678,490,Polyurethane,Radiant,Central AC,599847.6
+6,7,52186,333,Spray Foam,Forced Air,Evaporative,1840700.85
+33,2,69224,460,Fiberglass,Forced Air,Evaporative,3633061.67
+33,14,63557,415,Mineral Wool,Radiant,Evaporative,3434183.4
+100,11,55622,181,Cellulose,Forced Air,Heat Pump,3011107.24
+26,35,39723,275,Mineral Wool,Heat Pump,None,887771.85
+96,39,89210,213,Polyurethane,Radiant,Evaporative,5179633.38
+81,35,83433,77,Spray Foam,Heat Pump,Central AC,1233933.64
+30,49,22808,435,Mineral Wool,Heat Pump,Heat Pump,440553.89
+74,26,68547,92,Cellulose,Radiant,Window Units,4070880.69
+3,7,21493,95,Cellulose,Heat Pump,Heat Pump,1010898.9
+54,47,8522,215,Cellulose,Forced Air,Evaporative,181877.08
+47,19,73878,443,Mineral Wool,Heat Pump,None,1545851.86
+42,8,10005,265,Mineral Wool,Boiler,None,277781.18
+26,24,36358,411,Spray Foam,Heat Pump,Central AC,1699979.17
+16,30,95390,390,Mineral Wool,Geothermal,Heat Pump,2527863.53
+61,6,7149,364,Spray Foam,Geothermal,Window Units,357724.93
+89,44,89771,130,Polyurethane,Forced Air,None,5887304.08
+35,28,7235,386,Spray Foam,Forced Air,Heat Pump,56918.95
+79,22,26224,492,Cellulose,Boiler,Window Units,709754.31
+83,7,73881,440,Spray Foam,Heat Pump,Heat Pump,2269843.24
+81,37,14772,92,Polyurethane,Forced Air,Heat Pump,855193.99
+39,15,50844,443,Spray Foam,Forced Air,Heat Pump,459424.31
+60,10,26375,440,Fiberglass,Geothermal,Heat Pump,1888444.91
+38,35,21983,422,Mineral Wool,Radiant,Window Units,828684.52
+14,32,38773,353,Mineral Wool,Boiler,Window Units,2060294.81
+39,43,97464,190,Fiberglass,Forced Air,Window Units,4745611.93
+54,2,87605,184,Polyurethane,Heat Pump,Window Units,2427010.02
+18,31,20617,24,Fiberglass,Geothermal,None,611307.24
+80,21,79779,147,Cellulose,Radiant,Central AC,3711301.58
+16,37,49155,111,Polyurethane,Heat Pump,Central AC,2103428.56
+40,14,70615,481,Fiberglass,Geothermal,Heat Pump,2393257.21
+45,3,53684,171,Cellulose,Boiler,Heat Pump,2899042.21
+15,4,3237,144,Cellulose,Boiler,Heat Pump,49323.99
+58,12,99801,286,Polyurethane,Heat Pump,Evaporative,1845056.3
+17,40,85579,304,Spray Foam,Boiler,Evaporative,2166306.6
+89,28,92602,234,Mineral Wool,Geothermal,Heat Pump,7214645.91
+68,7,10992,46,Cellulose,Heat Pump,Central AC,609389.34
+29,40,53604,133,Mineral Wool,Geothermal,Evaporative,1295965.86
+90,15,47303,322,Cellulose,Geothermal,Window Units,937222.03
+17,40,68531,322,Spray Foam,Radiant,Heat Pump,2349539.71
+74,38,4071,95,Mineral Wool,Forced Air,Central AC,178378.79
+24,26,70393,18,Fiberglass,Geothermal,Window Units,3623784.62
+83,45,30323,425,Spray Foam,Radiant,Heat Pump,2617101.56
+22,34,85633,30,Fiberglass,Geothermal,None,784303.58
+27,7,23013,481,Cellulose,Boiler,Heat Pump,878641.18
+26,3,18992,157,Mineral Wool,Geothermal,Window Units,1161494.57
+56,34,13839,433,Polyurethane,Geothermal,None,690385.86
+62,2,50588,450,Cellulose,Radiant,Central AC,2098125.19
+11,43,52521,112,Fiberglass,Forced Air,Central AC,445092.66
+56,24,54654,461,Spray Foam,Forced Air,Evaporative,3560438.44
+44,5,45366,316,Polyurethane,Geothermal,Window Units,524294.59
+19,21,58760,307,Polyurethane,Heat Pump,None,1545119.16
+6,37,70278,344,Spray Foam,Forced Air,Window Units,1533966.65
+15,50,63754,458,Cellulose,Forced Air,Window Units,1549893.92
+20,33,8877,382,Mineral Wool,Geothermal,None,325831.77
+34,1,54852,312,Fiberglass,Geothermal,Window Units,2631263.5
+45,33,63967,317,Mineral Wool,Geothermal,Central AC,2280108.9
+97,28,5845,429,Fiberglass,Geothermal,Window Units,465489.23
+29,4,54000,283,Polyurethane,Forced Air,Heat Pump,2000259.42
+74,29,80406,162,Spray Foam,Boiler,None,3847656.64
+21,17,46204,267,Cellulose,Radiant,Central AC,281608.47
+18,13,99311,269,Mineral Wool,Radiant,Evaporative,4689621.84
+16,17,35587,235,Mineral Wool,Geothermal,Heat Pump,1300905.79
+27,8,70857,347,Fiberglass,Forced Air,Heat Pump,1885271.36
+85,9,32851,47,Cellulose,Geothermal,Evaporative,1439758.71
+74,27,20927,164,Mineral Wool,Geothermal,None,597059.25
+71,42,32512,109,Cellulose,Geothermal,Evaporative,1376802.0
+90,44,96003,445,Cellulose,Geothermal,Central AC,1011421.33
+8,7,46819,384,Cellulose,Forced Air,Window Units,629104.73
+56,1,22343,111,Mineral Wool,Radiant,Evaporative,1069667.52
+58,7,46526,330,Fiberglass,Radiant,None,1318718.32
+88,16,15697,276,Polyurethane,Geothermal,Central AC,221321.54
+5,8,20932,500,Fiberglass,Heat Pump,Central AC,1076960.29
+27,9,21733,328,Polyurethane,Heat Pump,None,825959.78
+73,12,37917,396,Polyurethane,Boiler,Central AC,1583961.24
+9,38,81970,34,Fiberglass,Heat Pump,None,1552193.87
+8,14,65927,358,Polyurethane,Geothermal,Heat Pump,556363.67
+9,32,57907,380,Cellulose,Forced Air,None,3124162.03
+57,29,80299,141,Polyurethane,Boiler,Heat Pump,4615655.51
+66,1,10229,412,Cellulose,Geothermal,Window Units,290803.82
+26,41,89379,434,Spray Foam,Forced Air,None,3181742.22
+77,46,32698,81,Fiberglass,Forced Air,Window Units,1272518.44
+96,30,22446,243,Spray Foam,Heat Pump,None,1027215.45
+87,47,38654,499,Fiberglass,Geothermal,Window Units,1728469.93
+51,23,87389,41,Polyurethane,Heat Pump,Evaporative,5666053.89
+49,27,33919,392,Mineral Wool,Radiant,Evaporative,2314281.88
+60,10,14402,140,Cellulose,Forced Air,Evaporative,846511.08
+97,37,15657,436,Cellulose,Heat Pump,Central AC,1162486.53
+72,35,68120,177,Fiberglass,Heat Pump,Evaporative,5471816.27
+84,3,91889,185,Polyurethane,Geothermal,Window Units,1934375.1
+21,33,93519,62,Fiberglass,Boiler,Central AC,2811831.15
+23,4,9789,262,Spray Foam,Heat Pump,None,71357.22
+88,7,94017,362,Mineral Wool,Boiler,Window Units,2226372.52
+10,42,89001,270,Cellulose,Heat Pump,Evaporative,3537090.38
+76,14,58152,281,Spray Foam,Geothermal,Central AC,2160883.86
+25,32,73481,194,Mineral Wool,Forced Air,Heat Pump,4465388.47
+49,7,93061,22,Spray Foam,Radiant,Evaporative,1965382.11
+80,32,3327,188,Polyurethane,Boiler,Heat Pump,51114.37
+79,34,10300,23,Fiberglass,Boiler,Window Units,213107.06
+3,38,44016,286,Fiberglass,Geothermal,Heat Pump,431751.71
+10,6,84287,104,Polyurethane,Forced Air,Central AC,912022.7
+28,37,9579,180,Mineral Wool,Geothermal,Heat Pump,310175.24
+64,21,97580,174,Polyurethane,Geothermal,Central AC,5070268.35
+35,2,90685,115,Mineral Wool,Geothermal,Heat Pump,1224903.48
+65,35,45423,74,Mineral Wool,Heat Pump,Window Units,3295228.62
+91,37,71680,84,Polyurethane,Forced Air,Window Units,5569919.83
+53,13,67201,209,Cellulose,Geothermal,Central AC,1508382.86
+38,16,54363,255,Spray Foam,Forced Air,None,2511864.92
+36,32,37614,386,Spray Foam,Heat Pump,Heat Pump,1664588.45
+93,2,77637,473,Cellulose,Forced Air,Evaporative,5112914.62
+16,24,54701,204,Spray Foam,Heat Pump,Evaporative,602045.56
+26,48,34325,239,Fiberglass,Boiler,Window Units,1480371.42
+53,38,41806,39,Mineral Wool,Forced Air,Heat Pump,2233681.26
+24,48,87322,272,Fiberglass,Boiler,None,4282066.99
+61,19,82617,130,Fiberglass,Radiant,Central AC,4405380.35
+53,10,48742,231,Cellulose,Geothermal,Heat Pump,1491877.36
+40,15,26236,398,Spray Foam,Boiler,None,1241463.67
+34,7,40565,381,Mineral Wool,Boiler,Window Units,915054.86
+62,27,18874,72,Fiberglass,Boiler,Window Units,585827.46
+1,41,17286,224,Mineral Wool,Radiant,Window Units,664627.21
+57,23,28152,98,Fiberglass,Heat Pump,None,785202.97
+96,22,93157,17,Fiberglass,Geothermal,Window Units,7028978.43
+72,9,36678,70,Polyurethane,Heat Pump,Central AC,2993462.96
+38,36,66273,28,Mineral Wool,Boiler,Central AC,2456800.3
+9,15,52432,405,Fiberglass,Radiant,Heat Pump,1139443.99
+92,48,6863,261,Spray Foam,Forced Air,None,298623.24
+73,26,81258,389,Fiberglass,Boiler,Window Units,2496082.72
+64,19,30793,327,Fiberglass,Radiant,Heat Pump,1162680.77
+84,13,9958,114,Cellulose,Radiant,None,672560.17
+94,30,58859,242,Cellulose,Forced Air,Evaporative,3474636.64
+91,18,75159,104,Mineral Wool,Geothermal,Central AC,5731743.39
+64,17,42930,178,Polyurethane,Heat Pump,Evaporative,3477330.36
+86,8,29095,192,Spray Foam,Boiler,Heat Pump,1396254.35
+55,40,72358,422,Fiberglass,Forced Air,Central AC,5374291.85
+15,35,52523,239,Mineral Wool,Radiant,Heat Pump,2422562.83
+74,39,79017,228,Cellulose,Heat Pump,Evaporative,3255102.26
+65,20,76449,437,Polyurethane,Radiant,Window Units,6103793.05
+88,37,65950,172,Fiberglass,Geothermal,Heat Pump,4116008.74
+92,41,52543,286,Polyurethane,Heat Pump,Window Units,1995151.65
+53,3,24875,147,Polyurethane,Geothermal,Window Units,462304.33
+40,11,69933,131,Cellulose,Heat Pump,None,1151945.26
+34,17,31943,442,Polyurethane,Heat Pump,Window Units,497451.4
+26,25,80111,173,Mineral Wool,Geothermal,Heat Pump,2718389.37
+1,41,10150,244,Cellulose,Boiler,Evaporative,404445.06
+79,30,77944,228,Polyurethane,Geothermal,Heat Pump,4864130.48
+18,37,9397,36,Polyurethane,Forced Air,Evaporative,91903.17
+58,19,79968,319,Polyurethane,Radiant,Central AC,5710366.33
+25,37,66473,491,Mineral Wool,Geothermal,Window Units,2459438.69
+13,48,79547,93,Polyurethane,Boiler,Evaporative,1834116.54
+31,33,67354,123,Cellulose,Geothermal,Evaporative,3883619.31
+75,48,58114,83,Fiberglass,Geothermal,Central AC,3771840.78
+9,17,61542,266,Fiberglass,Forced Air,Central AC,2323222.67
+16,48,3341,310,Polyurethane,Geothermal,None,185805.24
+39,3,7119,355,Fiberglass,Geothermal,None,398745.85
+98,11,33502,400,Polyurethane,Forced Air,Central AC,1754702.31
+69,32,4313,200,Mineral Wool,Radiant,None,351597.82
+46,1,29110,355,Mineral Wool,Geothermal,Window Units,1226798.24
+83,44,43432,174,Spray Foam,Heat Pump,Central AC,3668940.72
+3,10,6134,124,Spray Foam,Boiler,Evaporative,280172.39
+92,26,95471,467,Mineral Wool,Radiant,None,8390710.16
+19,44,19038,162,Fiberglass,Radiant,Window Units,563560.2
+89,18,73367,436,Polyurethane,Boiler,Window Units,2969557.23
+68,33,50314,59,Spray Foam,Geothermal,Heat Pump,3861803.35
+28,9,74211,293,Fiberglass,Forced Air,Window Units,2456951.31
+74,48,35900,452,Cellulose,Forced Air,Heat Pump,2923003.44
+72,19,73708,121,Polyurethane,Boiler,Evaporative,2180528.85
+81,4,86521,349,Polyurethane,Radiant,Window Units,5473634.34
+71,28,79415,228,Cellulose,Heat Pump,Evaporative,1632138.2
+2,27,9561,359,Spray Foam,Radiant,Central AC,186078.6
+34,40,54760,473,Cellulose,Heat Pump,Central AC,563996.48
+41,11,53560,144,Cellulose,Radiant,None,2328220.5
+68,7,31611,282,Fiberglass,Boiler,Evaporative,1937980.96
+27,41,14032,423,Cellulose,Heat Pump,Central AC,263058.96
+78,36,9133,131,Fiberglass,Boiler,Heat Pump,90230.54
+67,5,91492,254,Mineral Wool,Geothermal,Window Units,7602966.33
+22,45,23809,473,Polyurethane,Boiler,Window Units,210298.33
+4,18,29142,233,Fiberglass,Boiler,Evaporative,1339916.07
+47,1,4733,500,Polyurethane,Heat Pump,Evaporative,240614.98
+75,23,81873,353,Polyurethane,Heat Pump,Evaporative,3904810.48
+38,2,88279,57,Mineral Wool,Geothermal,None,883096.09
+11,1,35841,94,Spray Foam,Boiler,Evaporative,1679209.04
+1,20,62556,251,Fiberglass,Radiant,Central AC,1337215.43
+87,24,54158,414,Polyurethane,Radiant,Heat Pump,1333969.07
+69,39,85673,223,Polyurethane,Forced Air,Heat Pump,947408.53
+2,32,47715,182,Polyurethane,Heat Pump,Heat Pump,638000.05
+2,34,77602,286,Cellulose,Forced Air,Window Units,2861982.22
+4,7,99834,212,Cellulose,Geothermal,Heat Pump,2872638.1
+20,31,43229,187,Polyurethane,Radiant,Central AC,2583180.52
+56,31,92529,413,Fiberglass,Heat Pump,Evaporative,738236.11
+35,8,16520,343,Mineral Wool,Geothermal,Evaporative,665585.45
+100,47,1717,294,Mineral Wool,Boiler,Heat Pump,170812.79
+87,2,35646,155,Fiberglass,Boiler,Heat Pump,1235912.41
+19,34,91116,491,Mineral Wool,Geothermal,Evaporative,3839943.72
+79,33,19368,317,Mineral Wool,Heat Pump,Window Units,1609466.4
+12,45,13371,99,Cellulose,Geothermal,None,377655.83
+4,16,86509,80,Mineral Wool,Boiler,Central AC,2230808.27
+98,37,24683,36,Fiberglass,Radiant,Heat Pump,1396434.94
+98,27,8158,476,Fiberglass,Geothermal,None,748444.98
+18,1,75049,198,Mineral Wool,Boiler,None,1999864.75
+61,1,53277,252,Fiberglass,Heat Pump,Window Units,2808689.23
+88,26,49370,499,Spray Foam,Radiant,Evaporative,4144673.65
+15,36,89218,419,Mineral Wool,Geothermal,Heat Pump,4204332.39
+88,36,84385,300,Fiberglass,Heat Pump,Heat Pump,1518878.8
+57,32,2045,283,Polyurethane,Boiler,Evaporative,56113.37
+100,21,1350,410,Polyurethane,Geothermal,Evaporative,133335.02
+6,21,91071,236,Spray Foam,Forced Air,None,1858020.71
+31,28,90654,486,Cellulose,Forced Air,Central AC,3139833.43
+96,37,26059,424,Polyurethane,Forced Air,Heat Pump,1746553.44
+91,47,82615,486,Mineral Wool,Forced Air,None,2086557.1
+9,34,50959,438,Cellulose,Heat Pump,None,2252583.62
+45,35,14910,404,Spray Foam,Radiant,Heat Pump,740822.44
+10,16,43796,305,Mineral Wool,Forced Air,Heat Pump,705203.31
+62,35,14558,196,Polyurethane,Geothermal,Window Units,253890.91
+29,36,85544,203,Cellulose,Radiant,Evaporative,2107455.98
+69,1,5649,32,Cellulose,Radiant,Evaporative,451823.24
+37,42,77599,321,Polyurethane,Geothermal,Evaporative,2244786.09
+75,35,92554,362,Mineral Wool,Radiant,None,2857887.91
+81,43,8018,43,Cellulose,Geothermal,Central AC,671147.24
+14,21,63063,14,Polyurethane,Forced Air,Window Units,374039.97
+20,41,99101,380,Mineral Wool,Geothermal,Central AC,3639827.47
+6,38,48959,431,Polyurethane,Heat Pump,Heat Pump,1801246.85
+37,43,67493,332,Spray Foam,Forced Air,Evaporative,2826346.93
+50,22,69585,171,Cellulose,Geothermal,Window Units,1998330.09
+4,33,60561,257,Fiberglass,Radiant,Evaporative,2091136.86
+41,35,52093,10,Mineral Wool,Boiler,Central AC,2845889.03
+34,42,19307,99,Polyurethane,Forced Air,Window Units,820975.31
+95,2,93717,334,Mineral Wool,Geothermal,Heat Pump,5201499.38
+50,43,7223,380,Fiberglass,Radiant,Window Units,348647.69
+47,18,91234,44,Mineral Wool,Radiant,Window Units,4762903.77
+94,21,50743,280,Mineral Wool,Heat Pump,Window Units,2392530.6
+36,43,74001,84,Cellulose,Heat Pump,Heat Pump,571520.43
+38,43,94941,288,Spray Foam,Radiant,Heat Pump,2466638.27
+31,5,97651,362,Cellulose,Forced Air,None,3959123.74
+50,46,67786,479,Fiberglass,Forced Air,Evaporative,1602466.11
+20,34,34715,467,Spray Foam,Heat Pump,None,2053777.2
+79,2,21973,155,Spray Foam,Geothermal,None,272084.69
+71,40,15018,165,Mineral Wool,Radiant,Heat Pump,1020798.11
+24,45,38778,210,Mineral Wool,Heat Pump,Central AC,595440.11
+76,13,38457,338,Fiberglass,Geothermal,Window Units,1331572.62
+30,7,63962,46,Fiberglass,Boiler,Window Units,3017298.64
+46,30,5179,330,Spray Foam,Radiant,None,322589.11
+38,33,84010,417,Cellulose,Heat Pump,None,2234890.16
+65,10,43925,66,Mineral Wool,Geothermal,Central AC,2264867.91
+68,21,12954,93,Fiberglass,Forced Air,Central AC,307697.86
+84,2,71288,404,Cellulose,Radiant,Evaporative,6096695.0
+33,27,74343,128,Polyurethane,Geothermal,Evaporative,2065886.05
+80,1,2463,145,Cellulose,Radiant,Evaporative,182656.87
+33,12,25412,106,Cellulose,Boiler,Evaporative,1285525.61
+78,16,20896,378,Fiberglass,Boiler,None,927523.81
+55,43,92984,38,Spray Foam,Geothermal,None,2412658.22
+77,36,5492,198,Cellulose,Boiler,Heat Pump,442279.18
+23,25,56191,401,Cellulose,Forced Air,Heat Pump,1332853.18
+90,3,81377,89,Fiberglass,Radiant,Central AC,7699675.56
+81,24,74797,136,Spray Foam,Radiant,Heat Pump,1677304.37
+96,18,67009,112,Spray Foam,Radiant,Window Units,3621401.49
+16,10,26414,250,Fiberglass,Geothermal,Window Units,1048501.33
+93,21,14369,73,Mineral Wool,Radiant,Central AC,1239116.07
+25,46,41567,311,Cellulose,Forced Air,Evaporative,2553131.12
+69,8,6103,274,Mineral Wool,Heat Pump,Window Units,51662.29
+1,9,25427,218,Fiberglass,Forced Air,Window Units,649889.75
+83,4,93123,250,Mineral Wool,Boiler,Central AC,2647372.46
+28,39,23542,287,Cellulose,Radiant,Heat Pump,1474823.36
+51,35,60598,409,Mineral Wool,Heat Pump,Evaporative,537607.13
+17,41,23989,215,Polyurethane,Boiler,Window Units,752362.09
+78,16,58443,198,Cellulose,Forced Air,Heat Pump,3559919.45
+18,5,85164,41,Mineral Wool,Radiant,Window Units,3285663.3
+82,45,84681,416,Cellulose,Geothermal,None,854625.63
+35,13,58811,224,Polyurethane,Radiant,Window Units,399662.14
+34,40,25542,415,Polyurethane,Heat Pump,Central AC,875387.94
+88,35,25725,150,Fiberglass,Boiler,None,698093.39
+53,3,12232,442,Mineral Wool,Geothermal,Evaporative,347006.69
+60,7,60277,129,Mineral Wool,Geothermal,Heat Pump,997893.89
+74,23,85891,411,Cellulose,Radiant,Window Units,4554542.31
+23,39,79167,357,Spray Foam,Radiant,Evaporative,3374751.28
+89,24,73419,34,Polyurethane,Boiler,Central AC,6209218.74
+16,35,71065,311,Spray Foam,Boiler,None,3345172.29
+95,14,5688,127,Spray Foam,Radiant,Window Units,412915.0
+27,44,54776,159,Polyurethane,Radiant,None,1678577.83
+20,21,75098,409,Mineral Wool,Radiant,Central AC,3795615.31
+35,40,58021,426,Fiberglass,Geothermal,Heat Pump,3844793.64
+90,24,62509,483,Fiberglass,Radiant,Heat Pump,4403177.51
+11,27,71643,33,Spray Foam,Forced Air,Central AC,2204699.42
+63,40,39733,485,Fiberglass,Radiant,Heat Pump,1863703.34
+42,50,93183,407,Polyurethane,Radiant,Window Units,1985183.53
+50,31,94596,202,Polyurethane,Radiant,Heat Pump,4275385.94
+29,18,14236,28,Spray Foam,Geothermal,None,695637.69
+64,34,31759,79,Fiberglass,Geothermal,Window Units,1275616.76
+30,50,54469,209,Spray Foam,Radiant,Central AC,731314.1
+24,24,73570,262,Fiberglass,Radiant,None,2553339.72
+29,28,69277,230,Spray Foam,Geothermal,Heat Pump,1497546.31
+95,15,21275,133,Cellulose,Geothermal,Window Units,264123.91
+83,48,46685,34,Fiberglass,Boiler,Window Units,3565006.56
+100,33,49488,188,Polyurethane,Heat Pump,Central AC,3657517.48
+70,27,22352,417,Polyurethane,Geothermal,Heat Pump,561346.49
+68,48,22742,346,Spray Foam,Forced Air,Heat Pump,1107150.53
+36,9,74681,290,Fiberglass,Geothermal,Heat Pump,4920858.22
+13,42,80975,450,Spray Foam,Geothermal,None,2820864.15
+71,31,15254,340,Cellulose,Geothermal,Window Units,214733.74
+70,45,12688,336,Spray Foam,Forced Air,Evaporative,877944.38
+1,19,18616,374,Cellulose,Radiant,Heat Pump,918934.98
+38,3,6689,147,Polyurethane,Radiant,Window Units,218670.73
+26,4,51369,434,Polyurethane,Boiler,Central AC,1188314.17
+15,4,25350,104,Mineral Wool,Radiant,Central AC,732162.42
+75,35,4641,77,Fiberglass,Heat Pump,Central AC,189437.94
+13,46,37490,299,Spray Foam,Boiler,Window Units,437961.28
+32,12,43421,26,Fiberglass,Boiler,Evaporative,2246418.44
+66,17,49580,140,Fiberglass,Radiant,Heat Pump,3986662.03
+2,30,35186,449,Mineral Wool,Boiler,None,478838.88
+83,3,28229,123,Cellulose,Radiant,Evaporative,1127134.19
+10,43,93016,278,Mineral Wool,Heat Pump,Central AC,1867612.81
+86,43,57407,144,Fiberglass,Forced Air,None,2565125.8
+49,13,97309,38,Fiberglass,Forced Air,Window Units,7062557.02
+5,50,52207,262,Polyurethane,Heat Pump,Window Units,1739078.76
+87,11,70742,133,Mineral Wool,Forced Air,Heat Pump,1221138.38
+10,13,45126,490,Cellulose,Radiant,Central AC,1220899.76
+72,21,20074,467,Cellulose,Boiler,Central AC,1384119.72
+50,28,91218,307,Polyurethane,Boiler,Window Units,1753733.17
+34,50,8667,238,Spray Foam,Forced Air,Heat Pump,333851.86
+99,1,40692,403,Fiberglass,Boiler,Evaporative,1179770.7
+2,31,31440,207,Spray Foam,Heat Pump,Heat Pump,444885.45
+1,11,80666,164,Polyurethane,Forced Air,Heat Pump,3657940.79
+85,23,48144,311,Mineral Wool,Geothermal,Heat Pump,578338.62
+44,46,83796,297,Cellulose,Geothermal,Window Units,981023.47
+33,49,69476,471,Cellulose,Heat Pump,None,3093930.21
+15,4,2505,10,Cellulose,Geothermal,Central AC,40200.6
+14,1,51647,271,Polyurethane,Heat Pump,Window Units,738825.85
+52,42,84307,384,Cellulose,Radiant,Central AC,5331041.4
+19,49,15815,347,Mineral Wool,Radiant,Heat Pump,431539.6
+36,28,49870,192,Fiberglass,Radiant,Central AC,2073079.7
+36,19,68521,104,Polyurethane,Boiler,Heat Pump,3499039.93
+82,16,26828,15,Spray Foam,Forced Air,Central AC,1995956.42
+83,42,66093,85,Spray Foam,Forced Air,Heat Pump,2640571.7
+77,34,56419,62,Fiberglass,Boiler,None,645377.97
+81,31,66065,25,Fiberglass,Boiler,Window Units,5271217.13
+86,32,4923,265,Spray Foam,Heat Pump,Heat Pump,175316.38
+70,25,49201,318,Fiberglass,Radiant,Central AC,3783097.62
+21,12,61402,197,Mineral Wool,Radiant,Evaporative,1631247.48
+45,42,92386,457,Spray Foam,Geothermal,None,6057508.85
+59,19,56247,113,Cellulose,Geothermal,Evaporative,1517838.4
+83,22,50700,50,Fiberglass,Radiant,Heat Pump,3272253.21
+86,16,90616,25,Mineral Wool,Radiant,Heat Pump,2037900.35
+34,32,85580,411,Polyurethane,Forced Air,Central AC,641013.09
+97,43,59158,220,Fiberglass,Boiler,Heat Pump,3997817.65
+80,13,35620,146,Spray Foam,Radiant,Heat Pump,1313229.58
+85,3,61749,478,Mineral Wool,Forced Air,None,3244364.68
+37,22,84817,197,Mineral Wool,Heat Pump,Evaporative,978166.32
+34,32,78029,344,Mineral Wool,Radiant,Window Units,2580214.58
+15,19,27992,408,Polyurethane,Geothermal,Heat Pump,753214.01
+73,8,5560,210,Mineral Wool,Boiler,Central AC,379040.9
+65,31,49462,195,Fiberglass,Boiler,Window Units,545092.0
+85,13,11484,218,Polyurethane,Boiler,Central AC,1016211.36
+29,45,80415,187,Mineral Wool,Boiler,Heat Pump,3526851.17
+59,31,2018,270,Spray Foam,Forced Air,None,56610.81
+91,2,60909,122,Polyurethane,Geothermal,None,3872730.6
+58,50,19476,32,Fiberglass,Heat Pump,Central AC,1520197.12
+87,29,88819,74,Polyurethane,Radiant,Heat Pump,1639175.59
+61,13,85311,479,Spray Foam,Geothermal,None,4461291.3
+11,7,85681,500,Polyurethane,Boiler,Central AC,3715578.02
+12,48,75303,132,Cellulose,Geothermal,None,2139939.43
+58,3,75030,494,Mineral Wool,Boiler,Heat Pump,5738705.88
+31,48,22176,372,Cellulose,Forced Air,Window Units,181609.16
+16,34,64502,321,Mineral Wool,Geothermal,Window Units,2121045.38
+42,32,99226,140,Mineral Wool,Boiler,Window Units,4885081.24
+84,40,27491,495,Spray Foam,Radiant,Evaporative,1367605.57
+55,1,49075,29,Mineral Wool,Forced Air,Heat Pump,505066.47
+43,47,59269,124,Cellulose,Forced Air,Window Units,936642.86
+58,5,76391,259,Fiberglass,Boiler,None,617962.0
+31,7,32008,293,Polyurethane,Forced Air,None,1714045.4
+26,49,22080,331,Spray Foam,Heat Pump,Heat Pump,169699.11
+15,6,50423,491,Cellulose,Heat Pump,Heat Pump,1555230.99
+29,24,13238,328,Cellulose,Forced Air,Evaporative,795672.78
+57,2,42645,447,Fiberglass,Radiant,Central AC,2101446.35
+26,10,79886,221,Cellulose,Heat Pump,Heat Pump,4021604.12
+56,2,29536,206,Spray Foam,Boiler,Evaporative,2242267.37
+67,40,62980,64,Polyurethane,Radiant,Evaporative,4486828.51
+73,19,41563,249,Fiberglass,Boiler,Window Units,1638929.74
+39,9,25895,355,Polyurethane,Geothermal,Heat Pump,1407772.61
+24,32,26569,244,Mineral Wool,Boiler,Central AC,1277728.74
+75,36,36898,194,Cellulose,Boiler,Evaporative,1931225.45
+49,35,4780,176,Fiberglass,Geothermal,Heat Pump,221384.38
+40,30,52082,465,Cellulose,Forced Air,Central AC,2314047.35
+3,36,22781,354,Polyurethane,Geothermal,Central AC,374305.86
+36,31,71585,469,Polyurethane,Forced Air,None,544256.6
+62,5,64421,138,Spray Foam,Radiant,Heat Pump,1998655.54
+86,44,75646,327,Spray Foam,Radiant,Evaporative,3769772.13
+76,10,18850,427,Fiberglass,Radiant,None,296672.72
+50,46,22304,407,Cellulose,Boiler,Evaporative,1547967.27
+47,10,45700,438,Polyurethane,Geothermal,Window Units,1221498.95
+56,12,29418,45,Polyurethane,Radiant,Window Units,1817843.75
+12,22,86331,75,Spray Foam,Heat Pump,Evaporative,2044174.56
+55,45,80656,408,Spray Foam,Heat Pump,None,5834731.39
+77,13,55161,343,Mineral Wool,Heat Pump,Window Units,1142865.61
+21,25,82854,410,Mineral Wool,Boiler,Heat Pump,640651.58
+33,37,17934,167,Polyurethane,Geothermal,Evaporative,914628.43
+57,42,10619,337,Fiberglass,Boiler,None,749572.27
+77,28,31884,160,Polyurethane,Heat Pump,Central AC,1456654.91
+39,26,29285,279,Spray Foam,Heat Pump,None,1306596.71
+32,31,44317,191,Fiberglass,Forced Air,None,1566105.64
+76,48,21531,408,Polyurethane,Heat Pump,Window Units,1193673.61
+59,3,15478,305,Spray Foam,Geothermal,Evaporative,1196452.33
+87,32,34386,58,Cellulose,Geothermal,Heat Pump,2756740.39
+27,25,6233,205,Cellulose,Geothermal,Central AC,275198.88
+8,13,76664,284,Cellulose,Forced Air,Central AC,2271470.22
+60,3,71853,309,Polyurethane,Geothermal,Window Units,2072954.12
+55,33,67213,276,Cellulose,Forced Air,Central AC,2584958.17
+40,42,21837,410,Polyurethane,Radiant,Window Units,526722.04
+9,37,63991,203,Spray Foam,Geothermal,None,1180003.28
+94,40,8793,398,Cellulose,Forced Air,Central AC,338297.19
+80,14,95053,92,Spray Foam,Radiant,Central AC,2718371.2
+56,11,82663,231,Cellulose,Geothermal,Evaporative,5994436.71
+88,4,3685,365,Polyurethane,Radiant,Window Units,287972.46
+12,33,50335,77,Fiberglass,Boiler,None,2228414.07
+87,11,10373,25,Mineral Wool,Radiant,Central AC,308231.04
+55,20,99081,103,Cellulose,Heat Pump,None,6485896.71
+1,20,25764,321,Fiberglass,Geothermal,Heat Pump,1103484.45
+4,38,74722,97,Spray Foam,Geothermal,Evaporative,1434981.65
+69,43,53437,350,Cellulose,Boiler,Window Units,2292933.28
+58,18,89710,318,Spray Foam,Radiant,Heat Pump,6699420.01
+1,18,38147,236,Mineral Wool,Heat Pump,Heat Pump,1127157.65
+67,44,85366,349,Spray Foam,Geothermal,None,2325572.38
+26,24,39163,236,Polyurethane,Radiant,Evaporative,1820915.94
+83,23,18210,22,Fiberglass,Heat Pump,Evaporative,1407450.71
+99,44,15913,469,Mineral Wool,Boiler,Evaporative,356744.44
+70,25,16896,202,Polyurethane,Forced Air,Heat Pump,401663.15
+76,36,75608,226,Spray Foam,Forced Air,Evaporative,3312145.14
+78,43,41662,255,Mineral Wool,Boiler,Central AC,1074932.75
+59,21,51859,36,Fiberglass,Geothermal,None,2588050.36
+16,45,35197,143,Fiberglass,Boiler,Window Units,1346939.32
+43,48,67600,89,Fiberglass,Boiler,None,2971901.65
+37,10,39162,89,Spray Foam,Forced Air,Heat Pump,1296594.68
+72,33,88029,84,Cellulose,Heat Pump,Central AC,5172614.18
+13,29,47922,453,Spray Foam,Geothermal,Window Units,2295236.44
+35,28,87546,94,Spray Foam,Radiant,Window Units,5066498.34
+54,34,25835,148,Mineral Wool,Radiant,None,1798522.05
+56,23,41140,72,Mineral Wool,Heat Pump,Heat Pump,459772.84
+99,4,92409,48,Mineral Wool,Radiant,None,5063648.6
+11,18,11082,348,Mineral Wool,Radiant,None,293658.23
+79,12,78298,240,Mineral Wool,Heat Pump,Central AC,4722284.89
+18,22,70791,196,Polyurethane,Forced Air,Evaporative,2139958.65
+92,30,17032,229,Polyurethane,Forced Air,Window Units,1300038.47
+18,21,92199,65,Cellulose,Geothermal,Evaporative,4385779.67
+50,45,71981,46,Fiberglass,Boiler,Heat Pump,4267144.59
+100,32,20453,438,Cellulose,Boiler,Window Units,1327754.42
+7,26,25716,354,Fiberglass,Heat Pump,Heat Pump,698619.17
+11,23,76871,345,Fiberglass,Radiant,Heat Pump,2373968.27
+29,42,56081,34,Cellulose,Forced Air,Evaporative,1796385.56
+87,45,53452,388,Cellulose,Boiler,Window Units,1506628.91
+71,12,48684,249,Polyurethane,Radiant,Window Units,3303242.65
+58,18,43781,370,Cellulose,Heat Pump,Window Units,1299649.8
+93,41,43403,285,Polyurethane,Geothermal,Central AC,1020370.36
+66,29,9492,386,Cellulose,Geothermal,None,455395.75
+58,8,86388,165,Fiberglass,Geothermal,Central AC,3937772.34
+7,40,56652,436,Cellulose,Radiant,Evaporative,1477358.88
+74,4,48874,459,Mineral Wool,Radiant,None,641696.78
+16,34,49253,182,Polyurethane,Boiler,Window Units,659919.26
+55,28,97593,232,Cellulose,Radiant,Window Units,4116694.52
+16,18,49614,291,Polyurethane,Heat Pump,Central AC,575039.41
+42,45,4359,408,Spray Foam,Heat Pump,Evaporative,260099.94
+93,21,81601,448,Fiberglass,Heat Pump,None,3125581.97
+43,27,37890,366,Cellulose,Radiant,Evaporative,584433.99
+38,26,74506,51,Fiberglass,Heat Pump,Window Units,1669375.81
+64,8,85887,389,Spray Foam,Forced Air,None,4261106.62
+48,44,72135,138,Mineral Wool,Boiler,Evaporative,1231613.88
+40,16,28175,303,Polyurethane,Boiler,Central AC,694723.43
+7,31,90569,141,Cellulose,Geothermal,Central AC,1235228.19
+83,1,88026,194,Mineral Wool,Geothermal,None,3771508.12
+1,13,47406,38,Cellulose,Heat Pump,None,380085.69
+34,29,92051,377,Spray Foam,Geothermal,Window Units,3640193.0
+33,1,26734,83,Polyurethane,Forced Air,None,1456549.45
+15,11,82954,20,Spray Foam,Radiant,Window Units,1057834.39
+50,21,74989,23,Mineral Wool,Radiant,Heat Pump,5384140.35
+81,8,51518,126,Spray Foam,Geothermal,Central AC,2218676.15
+30,33,2158,77,Polyurethane,Radiant,Evaporative,123627.02
+13,39,68299,44,Cellulose,Boiler,Evaporative,2260936.79
+94,29,65740,193,Fiberglass,Forced Air,Evaporative,2289415.98
+74,14,5110,426,Mineral Wool,Heat Pump,Window Units,139638.33
+44,40,22989,463,Mineral Wool,Radiant,Central AC,1218684.64
+89,28,50889,69,Spray Foam,Forced Air,Central AC,2348354.56
+53,13,83773,453,Cellulose,Heat Pump,Heat Pump,1559380.25
+7,28,64345,118,Cellulose,Boiler,Window Units,939417.1
+99,33,67907,108,Fiberglass,Geothermal,Central AC,2990227.61
+62,9,57269,329,Cellulose,Geothermal,Evaporative,910296.48
+17,26,69948,131,Fiberglass,Geothermal,Heat Pump,1654111.53
+48,20,83428,91,Mineral Wool,Radiant,None,691844.71
+6,45,1569,131,Polyurethane,Heat Pump,Central AC,66379.83
+99,47,70356,265,Spray Foam,Heat Pump,Window Units,5278226.25
+60,45,95242,456,Cellulose,Forced Air,Central AC,2420342.53
+81,21,21965,323,Fiberglass,Heat Pump,Window Units,1464448.72
+64,28,91030,119,Spray Foam,Heat Pump,Central AC,3820903.1
+59,1,6489,380,Spray Foam,Heat Pump,Evaporative,130862.67
+4,46,64125,59,Cellulose,Boiler,Window Units,2798650.48
+46,40,32225,344,Cellulose,Boiler,None,918463.12
+93,4,31676,171,Fiberglass,Forced Air,None,653728.41
+19,20,85494,75,Cellulose,Geothermal,Heat Pump,4121007.66
+89,13,38458,301,Spray Foam,Geothermal,None,1507119.38
+61,11,69175,164,Mineral Wool,Radiant,None,2578163.82
+10,1,75405,472,Mineral Wool,Boiler,Central AC,824050.46
+31,26,68504,238,Mineral Wool,Forced Air,Window Units,3431666.62
+22,16,73078,444,Fiberglass,Boiler,Heat Pump,1222778.96
+4,20,84896,437,Fiberglass,Forced Air,Evaporative,3255644.01
+19,6,72340,109,Spray Foam,Heat Pump,None,1898490.19
+66,33,26186,355,Polyurethane,Boiler,Central AC,583507.42
+12,8,11688,483,Polyurethane,Radiant,Heat Pump,512454.4
+2,34,95021,197,Fiberglass,Heat Pump,None,3879367.39
+36,15,62171,155,Spray Foam,Boiler,Evaporative,3041660.84
+15,47,25115,167,Fiberglass,Geothermal,None,1064376.45
+27,38,67623,345,Cellulose,Heat Pump,Evaporative,2752931.9
+94,19,11190,219,Mineral Wool,Geothermal,Central AC,595315.59
+14,50,37865,92,Spray Foam,Geothermal,Evaporative,1550365.07
+62,36,89566,380,Spray Foam,Boiler,Heat Pump,5863481.68
+75,43,72614,34,Fiberglass,Boiler,Central AC,2752454.34
+65,15,85111,467,Mineral Wool,Radiant,Central AC,1375028.46
+62,15,80971,301,Spray Foam,Forced Air,Central AC,829140.09
+30,6,47059,249,Polyurethane,Heat Pump,Window Units,1061662.82
+17,1,56432,205,Fiberglass,Radiant,Window Units,1939025.07
+38,17,59584,282,Spray Foam,Boiler,Evaporative,2304199.41
+23,35,8352,437,Fiberglass,Radiant,Heat Pump,262912.89
+49,23,15567,34,Polyurethane,Heat Pump,Heat Pump,766495.48
+22,50,88488,466,Mineral Wool,Radiant,Central AC,1288958.6
+46,15,79915,422,Spray Foam,Geothermal,None,5222512.13
+40,37,33343,120,Spray Foam,Forced Air,Heat Pump,1835306.7
+13,44,56862,470,Fiberglass,Forced Air,Heat Pump,2614962.9
+31,43,19248,32,Cellulose,Geothermal,Evaporative,818062.38
+52,43,53974,416,Polyurethane,Forced Air,Evaporative,2491389.44
+51,7,21415,482,Mineral Wool,Boiler,Window Units,298314.66
+19,39,40487,497,Spray Foam,Radiant,Heat Pump,1400851.7
+66,46,79592,374,Spray Foam,Boiler,Central AC,3801982.87
+79,21,99072,381,Polyurethane,Forced Air,Window Units,6081485.72
+75,10,59689,439,Polyurethane,Boiler,Central AC,3652059.41
+40,8,27629,500,Mineral Wool,Radiant,Window Units,1146149.61
+78,29,22754,283,Polyurethane,Radiant,Heat Pump,1892522.5
+86,17,23163,444,Fiberglass,Heat Pump,Central AC,2085258.05
+55,17,4437,74,Mineral Wool,Heat Pump,Heat Pump,36487.7
+75,11,87783,236,Cellulose,Forced Air,None,3239294.29
+54,17,40279,82,Polyurethane,Radiant,Central AC,885705.67
+46,23,81395,107,Polyurethane,Heat Pump,Heat Pump,3666042.12
+59,10,47582,174,Spray Foam,Forced Air,Central AC,2840416.56
+1,42,25700,188,Fiberglass,Boiler,Central AC,1206184.44
+46,21,77225,56,Fiberglass,Heat Pump,Window Units,3615044.65
+89,47,64679,191,Polyurethane,Forced Air,Central AC,4275052.96
+59,38,38927,153,Polyurethane,Forced Air,Heat Pump,2139046.85
+84,31,85240,273,Spray Foam,Boiler,Central AC,3619583.06
+8,29,26259,261,Polyurethane,Forced Air,None,989511.61
+15,35,1852,38,Cellulose,Geothermal,None,79157.59
+56,3,79141,262,Spray Foam,Geothermal,Evaporative,1902071.4
+63,48,76926,155,Fiberglass,Heat Pump,Central AC,5434611.37
+36,9,98321,274,Cellulose,Heat Pump,Evaporative,1653630.94
+59,39,40122,142,Spray Foam,Geothermal,Window Units,1503713.43
+3,47,83861,81,Polyurethane,Boiler,Heat Pump,4247945.2
+31,26,39544,443,Spray Foam,Boiler,Central AC,1599846.14
+98,46,51843,443,Polyurethane,Boiler,None,1022982.17
+49,1,53201,227,Spray Foam,Radiant,Window Units,3463596.99
+64,46,33408,186,Mineral Wool,Radiant,Evaporative,941488.91
+32,23,86454,148,Polyurethane,Radiant,Window Units,2101336.97
+93,29,25623,249,Mineral Wool,Heat Pump,Heat Pump,1177303.4
+96,41,44318,67,Fiberglass,Boiler,Evaporative,3155188.51
+85,18,71214,317,Polyurethane,Heat Pump,Evaporative,1231334.96
+83,1,77779,218,Cellulose,Forced Air,Heat Pump,5399116.86
+8,30,31928,206,Fiberglass,Heat Pump,Central AC,173114.27
+70,1,85135,192,Cellulose,Heat Pump,None,4006198.4
+28,13,22832,97,Cellulose,Forced Air,Evaporative,266907.54
+75,27,4735,219,Mineral Wool,Heat Pump,Evaporative,342232.42
+27,44,63443,129,Cellulose,Radiant,Heat Pump,2459525.19
+74,39,67972,384,Polyurethane,Geothermal,Evaporative,4177078.44
+72,18,84745,485,Cellulose,Forced Air,Evaporative,2272871.54
+52,41,79732,345,Cellulose,Radiant,Central AC,5878589.78
+47,15,69427,197,Spray Foam,Boiler,Heat Pump,4555559.78
+21,3,85292,45,Spray Foam,Geothermal,None,2162427.58
+22,2,35466,164,Spray Foam,Forced Air,Central AC,654029.28
+19,38,43311,278,Fiberglass,Heat Pump,None,790354.04
+24,22,84311,310,Spray Foam,Geothermal,Heat Pump,2049694.3
+47,25,80703,64,Spray Foam,Heat Pump,Heat Pump,4721040.94
+88,35,62214,330,Mineral Wool,Forced Air,Evaporative,4694621.61
+32,35,66541,19,Fiberglass,Forced Air,Central AC,3925302.38
+15,12,2234,152,Spray Foam,Forced Air,Heat Pump,53903.05
+59,28,11356,120,Mineral Wool,Heat Pump,None,683176.57
+36,36,92266,419,Spray Foam,Forced Air,Evaporative,3596452.59
+29,38,77164,11,Polyurethane,Radiant,Evaporative,2243843.39
+93,30,53935,437,Fiberglass,Heat Pump,Heat Pump,1543922.51
+9,4,20878,108,Polyurethane,Heat Pump,Heat Pump,675916.3
+12,42,13207,197,Cellulose,Heat Pump,None,354081.14
+97,37,37464,458,Cellulose,Forced Air,None,891614.95
+17,16,49741,355,Polyurethane,Radiant,Central AC,1599900.79
+13,44,25175,416,Fiberglass,Forced Air,Central AC,982690.02
+12,17,26805,45,Spray Foam,Boiler,None,1342621.04
+16,12,82649,106,Mineral Wool,Boiler,Central AC,2012534.78
+64,16,80100,368,Cellulose,Geothermal,Evaporative,3210373.37
+37,30,32731,374,Spray Foam,Forced Air,Window Units,1125482.38
+57,32,76685,20,Fiberglass,Heat Pump,None,5097264.94
+93,24,75776,168,Cellulose,Forced Air,Evaporative,2651884.55
+93,14,44094,62,Polyurethane,Geothermal,Window Units,3328826.58
+47,48,7952,12,Polyurethane,Boiler,None,559699.8
+21,1,90734,191,Mineral Wool,Forced Air,Central AC,2184895.93
+59,15,87969,120,Fiberglass,Boiler,None,2924887.9
+9,41,91088,34,Polyurethane,Boiler,Evaporative,2981143.69
+95,14,78175,321,Spray Foam,Heat Pump,Central AC,4321496.29
+70,50,7442,301,Polyurethane,Forced Air,Central AC,175835.69
+69,44,12884,316,Mineral Wool,Boiler,Central AC,802745.07
+90,5,58522,178,Spray Foam,Radiant,None,1241222.39
+19,38,48909,491,Spray Foam,Heat Pump,Window Units,1834433.0
+96,20,6295,472,Cellulose,Radiant,Window Units,595998.72
+89,28,53318,188,Spray Foam,Radiant,Heat Pump,3863093.23
+19,7,39704,456,Spray Foam,Boiler,Window Units,1533954.05
+57,26,87612,40,Cellulose,Geothermal,Heat Pump,1259014.05
+85,36,66460,86,Spray Foam,Heat Pump,Window Units,4186913.19
+13,18,5947,409,Mineral Wool,Geothermal,Heat Pump,88069.63
+44,23,93408,182,Fiberglass,Geothermal,None,5989010.12
+27,46,68847,169,Fiberglass,Radiant,Window Units,950614.46
+29,17,15732,177,Polyurethane,Radiant,Window Units,154540.72
+49,46,53842,370,Polyurethane,Forced Air,Window Units,1528329.99
+63,34,42607,64,Mineral Wool,Boiler,None,3466147.63
+3,38,16445,453,Mineral Wool,Radiant,Heat Pump,110558.27
+30,21,42538,180,Cellulose,Geothermal,Heat Pump,1479472.84
+9,46,94543,351,Cellulose,Forced Air,Heat Pump,2872694.92
+36,27,44055,390,Polyurethane,Boiler,Window Units,2067263.99
+91,45,20037,125,Mineral Wool,Forced Air,Central AC,1674690.58
+69,48,87024,384,Mineral Wool,Boiler,None,2015699.24
+21,20,86624,376,Spray Foam,Boiler,Heat Pump,4337369.65
+27,28,62383,152,Mineral Wool,Geothermal,None,1885002.98
+61,49,13283,102,Polyurethane,Heat Pump,Heat Pump,358019.1
+3,26,62306,222,Fiberglass,Boiler,None,786923.09
+85,48,20731,149,Cellulose,Heat Pump,Central AC,1462495.16
+64,10,3786,231,Spray Foam,Boiler,Heat Pump,94933.67
+51,39,25998,340,Spray Foam,Heat Pump,Window Units,413521.33
+39,15,12745,212,Spray Foam,Heat Pump,Heat Pump,607455.42
+92,21,18973,209,Mineral Wool,Heat Pump,None,297911.86
+98,45,18619,131,Polyurethane,Forced Air,Heat Pump,1825338.42
+7,28,49599,414,Fiberglass,Boiler,Evaporative,1857900.78
+53,8,63379,27,Fiberglass,Heat Pump,Evaporative,2141409.06
+54,41,36932,500,Cellulose,Radiant,Heat Pump,2116086.16
+41,38,65108,132,Polyurethane,Boiler,Window Units,1873957.07
+35,37,83949,405,Cellulose,Heat Pump,Heat Pump,1317108.63
+92,29,17843,396,Mineral Wool,Heat Pump,Heat Pump,1534665.37
+98,9,11341,182,Spray Foam,Heat Pump,Central AC,1033213.32
+21,16,79968,500,Fiberglass,Radiant,Evaporative,626328.48
+90,29,90320,367,Cellulose,Boiler,Evaporative,2604536.51
+53,37,8537,246,Polyurethane,Heat Pump,Evaporative,461993.32
+21,3,50941,446,Spray Foam,Forced Air,Evaporative,774302.14
+31,12,90028,22,Polyurethane,Boiler,Heat Pump,1069030.42
+59,49,52352,237,Cellulose,Forced Air,Central AC,3049436.74
+78,38,4841,239,Polyurethane,Radiant,Evaporative,127723.43
+96,11,46844,423,Cellulose,Boiler,Window Units,3425656.59
+67,11,26802,447,Fiberglass,Geothermal,Central AC,1765227.38
+66,48,29315,242,Cellulose,Heat Pump,Window Units,1581165.5
+91,38,35378,467,Cellulose,Heat Pump,Evaporative,1353899.83
+91,32,46046,379,Cellulose,Radiant,Central AC,3809133.3
+45,5,49376,245,Spray Foam,Geothermal,Heat Pump,2689254.57
+59,20,41400,268,Fiberglass,Radiant,Central AC,3084307.46
+2,13,58027,97,Mineral Wool,Forced Air,Heat Pump,2364710.62
+9,23,20870,499,Fiberglass,Radiant,Window Units,805507.0
+42,24,6950,442,Fiberglass,Forced Air,Evaporative,376241.59
+35,39,63018,76,Polyurethane,Geothermal,None,3904989.38
+58,2,5177,261,Spray Foam,Heat Pump,Central AC,237415.51
+43,34,69202,328,Spray Foam,Boiler,None,4491994.58
+31,14,22150,151,Polyurethane,Geothermal,None,506212.25
+46,36,85557,314,Fiberglass,Radiant,None,3737819.22
+22,29,5040,16,Mineral Wool,Forced Air,None,217672.43
+86,23,43309,274,Cellulose,Radiant,Window Units,1766688.49
+85,42,19897,473,Fiberglass,Boiler,None,690884.3
+77,21,43060,63,Cellulose,Boiler,None,2650464.19
+87,24,57239,105,Mineral Wool,Heat Pump,Heat Pump,3019915.94
+37,6,25434,90,Spray Foam,Heat Pump,Central AC,1530029.53
+16,30,84986,296,Spray Foam,Boiler,None,2878261.96
+70,5,43207,480,Cellulose,Radiant,None,2432435.62
+51,31,31478,130,Cellulose,Heat Pump,Central AC,254326.84
+42,1,23494,476,Spray Foam,Boiler,Window Units,870289.05
+100,47,83491,434,Polyurethane,Boiler,Heat Pump,1675669.02
+12,29,75422,243,Cellulose,Boiler,Evaporative,972557.01
+100,26,59458,233,Polyurethane,Boiler,Window Units,3323079.65
+47,37,45535,306,Mineral Wool,Forced Air,Heat Pump,1918252.0
+89,35,46762,367,Fiberglass,Heat Pump,None,733949.22
+53,15,32021,125,Polyurethane,Boiler,Evaporative,1392033.8
+94,35,58588,388,Cellulose,Forced Air,Heat Pump,2299121.13
+39,25,59679,176,Fiberglass,Radiant,None,591052.38
+9,28,74939,115,Spray Foam,Forced Air,Heat Pump,3320272.54
+36,36,2176,455,Spray Foam,Forced Air,None,19712.4
+48,33,46187,277,Spray Foam,Heat Pump,Heat Pump,2586381.4
+13,5,10452,220,Fiberglass,Radiant,Window Units,516348.36
+15,21,43053,105,Fiberglass,Heat Pump,Evaporative,1583816.31
+22,45,4133,369,Polyurethane,Radiant,Heat Pump,58756.92
+32,33,2728,449,Polyurethane,Heat Pump,None,98665.16
+81,19,52270,80,Spray Foam,Geothermal,Evaporative,2160710.52
+79,7,94628,167,Mineral Wool,Geothermal,None,7653147.04
+27,31,8115,216,Spray Foam,Boiler,Evaporative,453688.79
+48,10,82243,369,Spray Foam,Forced Air,Central AC,5484169.44
+13,38,43176,170,Cellulose,Geothermal,Window Units,1894557.95
+16,19,83992,11,Spray Foam,Heat Pump,Evaporative,4484476.86
+18,3,49310,271,Mineral Wool,Geothermal,Evaporative,1918088.44
+6,2,51734,89,Polyurethane,Boiler,None,1227929.59
+12,41,90496,169,Spray Foam,Geothermal,Evaporative,4419006.25
+28,43,49102,18,Cellulose,Geothermal,Window Units,1941259.61
+93,40,48174,128,Fiberglass,Heat Pump,Window Units,3803022.77
+73,34,37054,440,Mineral Wool,Geothermal,Evaporative,1934322.51
+12,5,9502,202,Mineral Wool,Forced Air,Heat Pump,489481.6
+1,10,93251,86,Spray Foam,Heat Pump,Window Units,2420139.26
+54,5,51667,220,Polyurethane,Forced Air,Heat Pump,2865942.12
+100,3,21006,375,Cellulose,Geothermal,Window Units,697637.81
+27,14,24443,292,Polyurethane,Boiler,Central AC,653764.82
+98,21,85269,221,Mineral Wool,Boiler,Evaporative,7979350.17
+16,8,82386,33,Fiberglass,Heat Pump,Evaporative,1120935.23
+46,47,92264,319,Mineral Wool,Geothermal,Evaporative,4789246.35
+40,22,54611,358,Cellulose,Heat Pump,Central AC,1288601.85
+8,2,87772,163,Polyurethane,Heat Pump,None,2911935.74
+52,34,27842,128,Spray Foam,Forced Air,Heat Pump,1339589.01
+53,4,1437,213,Spray Foam,Heat Pump,Window Units,72874.78
+55,10,89575,393,Polyurethane,Radiant,Window Units,1563999.81
+56,11,64438,407,Cellulose,Geothermal,Evaporative,789130.5
+32,9,40586,81,Mineral Wool,Boiler,None,1891632.1
+2,39,65561,63,Cellulose,Heat Pump,Evaporative,976611.75
+67,29,12005,440,Fiberglass,Geothermal,None,943004.61
+88,33,56395,286,Polyurethane,Geothermal,Heat Pump,2405352.12
+13,8,82802,432,Mineral Wool,Heat Pump,None,933856.56
+6,11,35069,405,Spray Foam,Geothermal,None,471124.87
+35,25,77512,273,Cellulose,Geothermal,Window Units,1785865.67
+47,41,21106,340,Mineral Wool,Heat Pump,None,1033542.94
+36,32,47175,43,Mineral Wool,Heat Pump,Heat Pump,2373090.11
+3,45,70937,237,Spray Foam,Boiler,Central AC,2787396.68
+91,4,12916,176,Fiberglass,Geothermal,Heat Pump,201854.36
+75,13,75242,400,Polyurethane,Geothermal,None,3579100.92
+80,27,19920,29,Polyurethane,Boiler,Heat Pump,952696.28
+91,17,95926,172,Spray Foam,Boiler,Heat Pump,8760673.13
+2,24,11491,480,Spray Foam,Heat Pump,Central AC,410986.26
+96,20,3394,271,Mineral Wool,Radiant,None,126513.39
+53,28,67575,21,Fiberglass,Forced Air,None,2885344.48
+49,3,10444,405,Spray Foam,Radiant,None,556512.8
+70,31,71062,146,Fiberglass,Forced Air,Central AC,971980.63
+44,45,32425,445,Fiberglass,Heat Pump,None,769784.02
+44,5,18412,105,Cellulose,Geothermal,None,307607.18
+42,45,48778,155,Polyurethane,Boiler,None,1520532.91
+92,36,36150,196,Fiberglass,Heat Pump,None,2457844.89
+3,22,14992,305,Mineral Wool,Heat Pump,Window Units,350413.31
+39,24,52764,427,Polyurethane,Heat Pump,Window Units,481188.54
+84,28,64867,394,Mineral Wool,Boiler,None,812774.95
+70,23,58718,86,Spray Foam,Forced Air,Evaporative,2293203.75
+39,16,11150,267,Cellulose,Boiler,Window Units,513148.89
+86,3,50577,113,Mineral Wool,Geothermal,None,2691528.61
+34,13,90198,447,Mineral Wool,Forced Air,Evaporative,1318359.49
+62,27,6110,73,Polyurethane,Heat Pump,Central AC,305546.04
+21,48,41039,447,Fiberglass,Forced Air,None,2386961.31
+42,42,38989,150,Polyurethane,Boiler,None,970573.88
+37,20,5433,246,Fiberglass,Heat Pump,None,100561.28
+71,38,65501,456,Cellulose,Forced Air,Heat Pump,5032738.33
+73,8,58195,40,Polyurethane,Geothermal,Heat Pump,1367896.2
+62,48,43923,460,Spray Foam,Forced Air,Window Units,1670350.38
+90,13,77745,116,Spray Foam,Boiler,None,2546512.1
+78,14,13057,111,Polyurethane,Radiant,Central AC,450328.25
+56,25,88966,353,Fiberglass,Forced Air,Heat Pump,5474918.29
+75,8,22755,494,Cellulose,Heat Pump,Window Units,428124.08
+58,15,73399,15,Cellulose,Forced Air,Evaporative,777902.69
+67,23,5762,312,Cellulose,Forced Air,Heat Pump,66870.54
+47,37,77351,333,Fiberglass,Radiant,Evaporative,5131264.91
+20,18,1655,331,Polyurethane,Geothermal,None,84722.09
+5,11,62541,53,Spray Foam,Forced Air,Window Units,2664328.92
+78,1,29165,489,Fiberglass,Geothermal,Central AC,1962091.38
+99,23,66754,145,Polyurethane,Forced Air,Evaporative,6317916.97
+5,6,82075,494,Cellulose,Heat Pump,Heat Pump,3545977.11
+81,8,70959,75,Fiberglass,Geothermal,Window Units,6171905.14
+26,19,46728,332,Spray Foam,Radiant,Window Units,2665013.55
+80,26,92826,127,Fiberglass,Radiant,Evaporative,5776201.45
+40,44,6927,399,Cellulose,Boiler,Evaporative,137970.62
+37,37,93099,280,Polyurethane,Radiant,Evaporative,1814095.2
+97,24,63589,499,Cellulose,Boiler,None,850525.09
+64,34,43092,28,Spray Foam,Geothermal,Central AC,1525803.73
+80,48,46415,52,Fiberglass,Geothermal,Window Units,3339366.12
+27,34,35319,90,Polyurethane,Boiler,Evaporative,1147068.52
+95,9,96973,227,Cellulose,Geothermal,Window Units,4287731.37
+12,46,8624,444,Cellulose,Heat Pump,Central AC,292268.54
+11,22,34852,308,Polyurethane,Radiant,Window Units,1292418.55
+63,50,88511,158,Spray Foam,Boiler,None,1981557.26
+53,36,90812,469,Spray Foam,Forced Air,Central AC,5893111.69
+66,43,85921,76,Spray Foam,Forced Air,Central AC,3536965.49
+32,3,10219,389,Spray Foam,Radiant,Window Units,472441.93
+73,31,39148,106,Spray Foam,Boiler,Central AC,1670108.92
+34,29,67300,81,Cellulose,Heat Pump,None,1284373.57
+83,14,9909,21,Cellulose,Geothermal,Central AC,621427.24
+42,4,63774,430,Polyurethane,Radiant,Heat Pump,2097405.82
+41,39,51847,370,Polyurethane,Radiant,Window Units,708794.78
+89,41,26273,399,Fiberglass,Geothermal,Central AC,2108838.35
+94,16,30860,303,Fiberglass,Radiant,None,392952.22
+40,45,42681,392,Spray Foam,Forced Air,Window Units,408441.58
+32,43,61246,467,Spray Foam,Radiant,Evaporative,2792920.9
+42,43,37892,55,Fiberglass,Heat Pump,Evaporative,687311.81
+74,47,65468,19,Mineral Wool,Heat Pump,Window Units,4526045.84
+69,35,53812,381,Cellulose,Forced Air,None,1997045.29
+80,27,79318,204,Spray Foam,Radiant,Evaporative,1841390.03
+64,41,42411,353,Fiberglass,Forced Air,Heat Pump,3064499.87
+2,5,54928,186,Fiberglass,Forced Air,Heat Pump,327181.03
+67,14,42878,227,Spray Foam,Boiler,None,363961.1
+40,29,18442,96,Polyurethane,Heat Pump,Window Units,816156.1
+41,19,73682,148,Fiberglass,Radiant,Window Units,2072578.65
+60,37,76796,401,Mineral Wool,Heat Pump,None,3514374.12
+3,46,99806,393,Cellulose,Boiler,Window Units,4651775.07
+7,22,90206,485,Fiberglass,Forced Air,Heat Pump,3407444.57
+12,16,95797,150,Mineral Wool,Forced Air,Evaporative,4844793.88
+43,12,83993,408,Fiberglass,Heat Pump,Heat Pump,5347369.33
+56,50,43020,260,Spray Foam,Heat Pump,Heat Pump,3170607.24
+58,39,60091,236,Spray Foam,Boiler,None,996882.45
+89,7,19061,301,Polyurethane,Radiant,Central AC,826315.97
+50,40,84274,118,Polyurethane,Geothermal,Central AC,5314233.91
+82,13,28976,431,Polyurethane,Forced Air,Heat Pump,2226227.92
+96,15,81313,154,Cellulose,Heat Pump,Window Units,7025934.29
+83,49,47977,23,Fiberglass,Radiant,Window Units,1510756.55
+34,25,15847,255,Fiberglass,Forced Air,Central AC,264350.8
+47,9,61913,232,Fiberglass,Radiant,Heat Pump,2006637.4
+38,3,57698,440,Polyurethane,Geothermal,None,577949.83
+97,50,49097,411,Cellulose,Boiler,Central AC,2839688.22
+78,41,72865,347,Fiberglass,Geothermal,None,4670584.1
+45,25,66768,307,Spray Foam,Boiler,Window Units,489870.36
+98,15,67909,252,Fiberglass,Geothermal,Evaporative,5698419.08
+97,18,39281,211,Fiberglass,Boiler,None,2827363.15
+10,31,45840,371,Mineral Wool,Boiler,None,1987097.02
+29,2,30869,193,Cellulose,Radiant,Heat Pump,1091516.25
+47,29,55000,409,Polyurethane,Heat Pump,Window Units,3019360.22
+22,13,33616,462,Polyurethane,Boiler,None,1263508.19
+27,40,73783,357,Cellulose,Radiant,Window Units,3857441.96
+61,35,87183,362,Polyurethane,Heat Pump,Heat Pump,6548505.33
+15,40,13898,484,Mineral Wool,Radiant,Evaporative,594918.39
+40,48,31253,169,Polyurethane,Geothermal,Central AC,1362062.18
+70,30,10833,497,Mineral Wool,Radiant,Heat Pump,654797.32
+16,3,31355,163,Fiberglass,Geothermal,Window Units,551658.69
+23,43,90006,182,Mineral Wool,Boiler,Central AC,662771.79
+45,35,53095,219,Fiberglass,Forced Air,Heat Pump,3723701.41
+11,49,82195,340,Polyurethane,Heat Pump,None,3002405.51
+84,2,76070,255,Polyurethane,Heat Pump,Evaporative,5350862.61
+48,4,12363,221,Spray Foam,Heat Pump,Central AC,674531.13
+30,7,38150,89,Spray Foam,Boiler,Heat Pump,2092181.5
+25,31,5688,133,Polyurethane,Heat Pump,Evaporative,94041.75
+83,6,6648,25,Polyurethane,Radiant,None,197691.48
+39,15,75223,174,Spray Foam,Geothermal,None,802859.63
+13,23,95702,50,Fiberglass,Radiant,Central AC,2391419.66
+3,24,78010,491,Cellulose,Radiant,Evaporative,1767227.78
+22,8,14871,59,Spray Foam,Radiant,Heat Pump,890027.43
+75,46,36808,199,Polyurethane,Heat Pump,Central AC,903959.04
+47,21,24590,332,Fiberglass,Geothermal,Central AC,1083116.58
+16,12,66370,186,Mineral Wool,Forced Air,Central AC,789846.39
+19,25,75141,460,Fiberglass,Radiant,Central AC,3971270.25
+25,27,93231,147,Spray Foam,Heat Pump,None,5784669.78
+14,36,86385,301,Spray Foam,Heat Pump,Evaporative,1329575.83
+86,22,16419,99,Cellulose,Heat Pump,Heat Pump,1122253.17
+9,2,71527,71,Polyurethane,Heat Pump,None,2441263.3
+27,21,31797,406,Spray Foam,Geothermal,Heat Pump,519189.31
+41,31,2812,413,Cellulose,Geothermal,Central AC,106839.87
+30,34,15428,349,Polyurethane,Boiler,None,268857.3
+57,47,79122,144,Mineral Wool,Heat Pump,None,2503803.46
+91,28,14586,348,Spray Foam,Geothermal,None,602477.64
+32,7,4006,40,Mineral Wool,Radiant,None,115582.83
+98,35,47694,46,Cellulose,Geothermal,Evaporative,3800666.66
+86,20,72198,266,Polyurethane,Heat Pump,Heat Pump,6674697.11
+21,41,9868,330,Spray Foam,Radiant,Window Units,516682.92
+44,27,89827,42,Mineral Wool,Boiler,Window Units,3577374.76
+47,9,59837,493,Fiberglass,Boiler,Evaporative,2969418.4
+61,15,42990,192,Polyurethane,Radiant,Central AC,2128392.57
+12,25,9440,261,Spray Foam,Boiler,None,478312.74
+30,11,14336,68,Polyurethane,Boiler,Heat Pump,234848.37
+97,25,10050,268,Spray Foam,Geothermal,Window Units,763823.12
+30,11,48636,268,Mineral Wool,Geothermal,Central AC,1653113.72
+32,17,1900,79,Polyurethane,Forced Air,Heat Pump,45084.01
+96,9,21588,279,Cellulose,Forced Air,Heat Pump,695632.12
+15,27,28158,47,Mineral Wool,Heat Pump,Central AC,1049914.1
+71,5,14701,446,Fiberglass,Heat Pump,Window Units,1056907.84
+34,11,17055,327,Polyurethane,Forced Air,Window Units,202114.31
+53,32,64996,364,Polyurethane,Forced Air,Window Units,2641336.77
+49,47,3741,406,Spray Foam,Boiler,Window Units,186995.9
+8,36,93428,103,Cellulose,Heat Pump,Evaporative,4818638.78
+34,26,53995,474,Mineral Wool,Forced Air,Evaporative,2414889.52
+82,18,12603,425,Spray Foam,Geothermal,Central AC,775496.92
+34,13,11727,454,Polyurethane,Radiant,Evaporative,427156.07
+34,21,71838,134,Spray Foam,Radiant,Evaporative,2063315.59
+86,33,1606,260,Cellulose,Boiler,Central AC,71550.23
+6,31,87870,445,Mineral Wool,Heat Pump,None,3715860.08
+20,28,50640,225,Mineral Wool,Forced Air,Evaporative,2637645.74
+95,18,64633,68,Polyurethane,Radiant,None,2306769.15
+60,39,43077,478,Spray Foam,Boiler,None,1229104.58
+2,1,80509,240,Spray Foam,Boiler,Heat Pump,2337359.78
+78,6,28168,245,Polyurethane,Boiler,Heat Pump,810265.0
+31,25,8070,451,Cellulose,Radiant,Window Units,206308.47
+51,35,30044,171,Fiberglass,Boiler,Heat Pump,715438.29
+67,21,2512,53,Polyurethane,Radiant,Heat Pump,135135.47
+100,7,27481,460,Mineral Wool,Heat Pump,None,547714.87
+7,30,11639,246,Polyurethane,Forced Air,Central AC,285886.69
+29,35,53945,361,Cellulose,Forced Air,Evaporative,1605731.98
+71,25,79280,186,Polyurethane,Heat Pump,Evaporative,1611855.36
+55,31,50444,321,Mineral Wool,Geothermal,Heat Pump,1540178.13
+57,41,9157,229,Mineral Wool,Boiler,None,555040.14
+24,33,81129,448,Cellulose,Forced Air,Evaporative,3863086.61
+32,32,90965,59,Mineral Wool,Radiant,Central AC,5858792.84
+12,18,83247,194,Spray Foam,Radiant,Heat Pump,4528034.11
+33,43,44917,64,Fiberglass,Geothermal,Evaporative,2695339.28
+78,30,55377,165,Polyurethane,Geothermal,Evaporative,2847061.51
+56,8,81911,492,Mineral Wool,Heat Pump,None,2673882.51
+48,39,70578,431,Polyurethane,Radiant,Heat Pump,3638809.4
+4,9,6356,167,Spray Foam,Boiler,None,218626.49
+100,47,60777,90,Mineral Wool,Radiant,Window Units,3181048.66
+39,1,39330,429,Cellulose,Forced Air,Heat Pump,2050472.76
+69,43,94276,309,Polyurethane,Boiler,Central AC,2456174.78
+7,28,58060,79,Polyurethane,Forced Air,Window Units,2456398.66
+10,45,40274,78,Mineral Wool,Geothermal,Window Units,883011.96
+6,17,18144,105,Polyurethane,Forced Air,Window Units,811390.71
+89,27,84160,160,Mineral Wool,Forced Air,Window Units,6113348.41
+84,35,41327,290,Fiberglass,Radiant,Central AC,758239.35
+79,16,68571,122,Polyurethane,Geothermal,Evaporative,1173072.65
+93,11,84389,371,Fiberglass,Radiant,Evaporative,6384648.66
+17,24,94088,452,Cellulose,Forced Air,Central AC,832449.52
+54,41,2807,107,Spray Foam,Boiler,Heat Pump,147999.67
+82,43,77736,445,Mineral Wool,Boiler,Central AC,4628432.39
+49,37,6441,158,Cellulose,Radiant,Window Units,424118.35
+90,18,60183,311,Mineral Wool,Boiler,Window Units,743582.93
+56,35,16555,224,Mineral Wool,Radiant,None,981327.81
+68,19,26189,367,Mineral Wool,Boiler,Heat Pump,965187.64
+5,28,50790,451,Cellulose,Radiant,None,2267183.88
+87,48,21114,134,Cellulose,Radiant,Central AC,1231628.53
+48,15,56507,138,Mineral Wool,Heat Pump,Central AC,3674628.0
+98,5,24457,274,Fiberglass,Forced Air,Window Units,1380829.76
+84,19,12185,254,Spray Foam,Boiler,Window Units,861647.19
+34,49,58636,229,Mineral Wool,Heat Pump,None,1993526.16
+16,34,23582,153,Mineral Wool,Radiant,Window Units,1185860.75
+88,20,88406,98,Polyurethane,Radiant,Window Units,4822825.81
+22,35,15636,485,Fiberglass,Boiler,Heat Pump,351168.09
+80,9,51491,170,Fiberglass,Boiler,Heat Pump,4121239.59
+35,32,18643,142,Cellulose,Geothermal,Heat Pump,974902.06
+34,8,16562,338,Cellulose,Forced Air,Heat Pump,867910.75
+41,35,79461,119,Fiberglass,Geothermal,None,3353505.09
+3,49,87848,90,Cellulose,Radiant,None,1781029.1
+74,6,50161,220,Mineral Wool,Geothermal,None,2698323.54
+48,34,45896,424,Cellulose,Radiant,Heat Pump,2657432.74
+37,31,54397,29,Spray Foam,Forced Air,Window Units,1904434.66
+84,40,78747,377,Fiberglass,Forced Air,Central AC,4544638.51
+2,1,33483,113,Mineral Wool,Radiant,Central AC,1246649.75
+80,4,95734,40,Polyurethane,Radiant,Window Units,8339703.04
+98,18,83800,42,Polyurethane,Forced Air,Window Units,3065384.89
+52,26,46535,109,Spray Foam,Radiant,Heat Pump,1331506.35
+80,21,51082,257,Cellulose,Geothermal,Evaporative,801625.57
+45,47,87546,285,Cellulose,Radiant,Heat Pump,1548804.59
+30,36,61984,231,Spray Foam,Boiler,Evaporative,1603846.21
+11,34,32385,496,Mineral Wool,Heat Pump,None,1622132.7
+7,20,26825,486,Cellulose,Heat Pump,Evaporative,1214936.7
+75,40,46585,326,Cellulose,Forced Air,Central AC,3399157.22
+98,34,68097,286,Mineral Wool,Radiant,Window Units,4627947.53
+62,38,73945,497,Fiberglass,Radiant,Evaporative,767214.19
+93,18,91434,266,Polyurethane,Heat Pump,Central AC,4861722.46
+28,33,60432,270,Mineral Wool,Geothermal,Evaporative,2111809.81
+22,19,8079,165,Polyurethane,Radiant,Window Units,484306.78
+2,39,19798,267,Mineral Wool,Forced Air,Evaporative,572225.71
+61,43,61318,83,Mineral Wool,Radiant,None,3232645.43
+21,14,29481,145,Polyurethane,Forced Air,Window Units,1612646.21
+60,39,75778,390,Mineral Wool,Geothermal,None,2070427.4
+52,1,8137,491,Mineral Wool,Boiler,None,516097.13
+47,44,87238,119,Polyurethane,Heat Pump,Window Units,1530057.06
+7,32,80188,439,Polyurethane,Radiant,Heat Pump,3972644.09
+1,4,43955,106,Polyurethane,Forced Air,None,548944.63
+66,45,74839,196,Fiberglass,Radiant,Evaporative,2003931.1
+48,30,85155,398,Mineral Wool,Geothermal,Heat Pump,5017247.48
+39,20,22140,26,Fiberglass,Forced Air,Heat Pump,739412.06
+93,42,76472,77,Polyurethane,Geothermal,Evaporative,5285671.94
+2,7,77512,128,Cellulose,Radiant,Evaporative,2861473.23
+94,30,81087,190,Polyurethane,Geothermal,Central AC,6608043.75
+52,41,48280,275,Spray Foam,Radiant,Heat Pump,887373.29
+14,36,47356,132,Cellulose,Boiler,Heat Pump,2472861.34
+19,34,37507,439,Cellulose,Boiler,Evaporative,1710764.86
+94,17,30687,427,Cellulose,Boiler,Evaporative,1164091.68
+28,19,74311,125,Fiberglass,Forced Air,None,784522.98
+76,6,36094,163,Fiberglass,Boiler,Window Units,3112218.19
+85,40,50051,329,Mineral Wool,Heat Pump,Heat Pump,4420171.46
+43,10,22430,44,Spray Foam,Radiant,Evaporative,1478940.35
+10,45,41725,167,Fiberglass,Boiler,Central AC,637550.46
+74,43,11006,102,Mineral Wool,Heat Pump,Evaporative,883937.26
+44,47,27505,312,Cellulose,Heat Pump,Heat Pump,1613174.6
+89,7,21062,281,Cellulose,Boiler,Heat Pump,705493.0
+49,26,90634,463,Mineral Wool,Radiant,Heat Pump,2777283.78
+77,2,58451,68,Fiberglass,Forced Air,None,4558104.11
+38,16,66298,26,Fiberglass,Geothermal,Window Units,3185933.82
+10,7,40361,318,Spray Foam,Heat Pump,Heat Pump,1893762.76
+21,6,5969,106,Mineral Wool,Boiler,None,120372.9
+71,6,12686,347,Polyurethane,Geothermal,Evaporative,1023147.48
+75,24,95561,275,Spray Foam,Forced Air,Central AC,861124.38
+51,23,2471,454,Mineral Wool,Geothermal,Window Units,92491.73
+48,48,82962,409,Fiberglass,Boiler,Heat Pump,2393408.45
+66,44,84552,236,Polyurethane,Boiler,Window Units,3470149.38
+85,23,56174,500,Cellulose,Geothermal,None,2629263.17
+77,25,6496,153,Spray Foam,Radiant,Window Units,228691.61
+90,17,17819,358,Fiberglass,Geothermal,None,483184.06
+50,38,62760,107,Polyurethane,Boiler,Heat Pump,2318584.16
+50,35,34201,69,Polyurethane,Boiler,Central AC,869096.57
+85,21,51540,299,Fiberglass,Heat Pump,Heat Pump,1566654.32
+44,41,21471,331,Mineral Wool,Radiant,Evaporative,1216561.71
+71,43,37884,337,Cellulose,Geothermal,None,1400322.3
+45,28,52861,11,Polyurethane,Forced Air,Heat Pump,675882.46
+14,47,57592,404,Polyurethane,Boiler,None,2027133.46
+20,22,33412,156,Fiberglass,Geothermal,Evaporative,1257851.06
+79,39,62128,43,Mineral Wool,Forced Air,None,837149.81
+63,12,83000,208,Spray Foam,Boiler,Central AC,6507473.36
+1,44,62384,16,Spray Foam,Boiler,Heat Pump,818934.18
+94,46,73815,452,Cellulose,Forced Air,Window Units,3901469.55
+24,42,12438,280,Fiberglass,Forced Air,None,536278.73
+13,32,22039,168,Spray Foam,Forced Air,None,143776.48
+50,20,21724,252,Fiberglass,Boiler,Window Units,221301.48
+98,9,43601,57,Mineral Wool,Heat Pump,Central AC,2092623.82
+3,11,28011,124,Mineral Wool,Forced Air,None,395355.23
+18,26,69605,35,Fiberglass,Forced Air,Heat Pump,2139660.06
+90,42,13500,382,Mineral Wool,Heat Pump,Window Units,1280918.67
+33,18,46427,231,Fiberglass,Radiant,Window Units,976440.4
+14,16,96032,462,Polyurethane,Radiant,Central AC,4680315.03
+39,5,1957,320,Mineral Wool,Radiant,Central AC,64686.75
+63,40,54071,44,Fiberglass,Radiant,Central AC,3879453.91
+19,45,98554,500,Fiberglass,Boiler,Central AC,3051725.2
+49,24,32905,40,Spray Foam,Geothermal,Central AC,1680170.47
+61,49,69285,472,Polyurethane,Geothermal,Heat Pump,5574031.83
+17,36,33508,209,Spray Foam,Geothermal,None,1046988.74
+87,20,38904,144,Spray Foam,Boiler,None,2547019.4
+48,3,38731,440,Mineral Wool,Forced Air,Window Units,686495.24
+20,43,37189,467,Fiberglass,Radiant,Heat Pump,1923504.05
+28,3,74736,442,Polyurethane,Radiant,Heat Pump,596089.63
+47,13,67130,486,Fiberglass,Radiant,None,1834110.07
+38,48,92226,50,Polyurethane,Forced Air,Heat Pump,3515246.1
+61,7,76938,151,Cellulose,Geothermal,Evaporative,3960829.23
+26,37,57796,80,Fiberglass,Geothermal,Central AC,1221114.87
+24,10,55631,113,Mineral Wool,Heat Pump,Window Units,1537217.63
+37,23,94869,192,Mineral Wool,Geothermal,Central AC,1276041.19
+30,12,24764,455,Mineral Wool,Geothermal,Central AC,1545009.32
+52,19,76700,243,Polyurethane,Forced Air,Evaporative,1407847.55
+76,30,3422,333,Cellulose,Boiler,Evaporative,280016.44
+39,47,52976,465,Polyurethane,Heat Pump,Evaporative,3185824.3
+58,13,22384,455,Polyurethane,Radiant,Central AC,914962.11
+92,12,30724,417,Spray Foam,Heat Pump,Window Units,887109.13
+87,19,86114,438,Cellulose,Heat Pump,None,2277219.74
+89,16,78818,157,Cellulose,Geothermal,Heat Pump,1207137.98
+94,10,67961,12,Mineral Wool,Radiant,Central AC,2712965.45
+89,40,52515,214,Mineral Wool,Geothermal,Window Units,4940327.97
+7,11,39434,116,Mineral Wool,Geothermal,Window Units,1393294.93
+71,39,76572,205,Spray Foam,Geothermal,None,3600010.96
+53,40,39419,359,Cellulose,Forced Air,Heat Pump,2224436.15
+17,26,17018,95,Fiberglass,Geothermal,Window Units,867319.97
+91,18,81184,384,Spray Foam,Radiant,Central AC,1759202.31
+44,39,28425,163,Fiberglass,Geothermal,Evaporative,1452671.81
+26,10,93844,275,Mineral Wool,Heat Pump,Central AC,1919308.01
+42,44,34765,458,Spray Foam,Radiant,Central AC,1971272.76
+6,34,57143,200,Fiberglass,Forced Air,Central AC,2676758.14
+19,8,79841,240,Fiberglass,Forced Air,Window Units,4265650.2
+28,45,60828,321,Mineral Wool,Geothermal,None,2993160.47
+39,37,63555,247,Cellulose,Forced Air,Evaporative,3730829.26
+33,36,19423,305,Fiberglass,Geothermal,Window Units,504784.47
+92,31,3149,313,Fiberglass,Geothermal,Central AC,262975.72
+88,26,40410,375,Fiberglass,Geothermal,Evaporative,3669045.75
+77,20,51779,380,Spray Foam,Geothermal,Evaporative,1421660.98
+38,29,50735,364,Cellulose,Boiler,Central AC,1974080.47
+85,45,78648,48,Fiberglass,Heat Pump,None,3258939.26
+79,49,79750,345,Cellulose,Boiler,Central AC,6780628.76
+91,8,59834,239,Fiberglass,Boiler,Heat Pump,934865.34
+52,45,4287,469,Spray Foam,Radiant,Central AC,109810.27
+82,41,20848,244,Spray Foam,Heat Pump,Heat Pump,1232816.01
+67,12,51761,203,Polyurethane,Boiler,Window Units,2230983.16
+2,40,78671,303,Mineral Wool,Boiler,Heat Pump,1593965.55
+31,47,7217,304,Polyurethane,Boiler,Window Units,432988.17
+82,21,79110,69,Mineral Wool,Geothermal,None,6958567.66
+73,37,71173,206,Fiberglass,Radiant,Central AC,1574511.32
+72,38,92570,213,Fiberglass,Forced Air,None,2434739.02
+44,42,96112,454,Mineral Wool,Heat Pump,Window Units,4218266.78
+23,42,22447,301,Cellulose,Radiant,None,170506.72
+11,33,42102,187,Cellulose,Boiler,Evaporative,1368798.66
+83,42,34542,401,Fiberglass,Forced Air,Central AC,2773855.49
+20,18,60542,268,Fiberglass,Boiler,Central AC,535307.01
+45,22,78668,255,Polyurethane,Geothermal,Central AC,958850.63
+36,4,83420,17,Spray Foam,Heat Pump,Central AC,4985907.7
+36,44,93077,19,Cellulose,Radiant,Window Units,3340120.29
+31,50,23789,128,Spray Foam,Radiant,Central AC,1481923.05
+48,30,6498,475,Spray Foam,Geothermal,None,286575.15
+19,19,55727,235,Cellulose,Forced Air,Central AC,1638705.33
+1,40,24790,439,Fiberglass,Boiler,Window Units,665875.49
+77,1,70033,356,Fiberglass,Radiant,Heat Pump,2305400.53
+62,17,43330,83,Polyurethane,Heat Pump,Evaporative,1666484.61
+62,50,22118,154,Fiberglass,Heat Pump,Central AC,846262.46
+23,23,92030,395,Fiberglass,Geothermal,None,1708852.33
+50,26,35669,410,Mineral Wool,Boiler,Central AC,1669160.46
+77,42,73044,220,Cellulose,Forced Air,None,809794.13
+72,8,23458,451,Mineral Wool,Boiler,Heat Pump,1056896.87
+26,5,53530,130,Cellulose,Heat Pump,None,3249064.22
+78,27,97503,242,Polyurethane,Geothermal,None,3018235.5
+58,29,11867,355,Mineral Wool,Radiant,Window Units,169669.03
+24,32,33480,433,Fiberglass,Radiant,Heat Pump,766244.73
+3,41,91315,457,Spray Foam,Heat Pump,None,2948769.6
+49,13,99261,95,Cellulose,Forced Air,None,3771692.01
+53,32,74803,390,Spray Foam,Geothermal,Central AC,3463567.11
+85,7,93674,347,Spray Foam,Geothermal,Evaporative,8548530.73
+98,25,22836,416,Fiberglass,Geothermal,Evaporative,1162861.86
+96,35,30246,412,Fiberglass,Forced Air,None,2511524.86
+67,20,67576,290,Polyurethane,Boiler,None,5431270.78
+82,50,3892,251,Cellulose,Forced Air,Central AC,148557.56
+54,19,60284,287,Polyurethane,Geothermal,Heat Pump,2216518.41
+9,45,52724,496,Mineral Wool,Geothermal,Evaporative,1239767.59
+100,43,11366,310,Mineral Wool,Forced Air,Evaporative,173330.97
+30,33,92768,477,Fiberglass,Heat Pump,None,5428353.81
+3,23,71135,283,Mineral Wool,Radiant,Heat Pump,3490589.49
+95,9,24995,118,Fiberglass,Forced Air,Heat Pump,1806596.98
+84,50,3028,81,Polyurethane,Radiant,None,233169.81
+81,31,97412,408,Mineral Wool,Forced Air,Central AC,5121915.04
+51,11,37917,93,Fiberglass,Radiant,Evaporative,878365.1
+93,3,55565,248,Fiberglass,Boiler,Evaporative,1458652.33
+78,20,53995,400,Fiberglass,Boiler,Central AC,4054267.98
+53,30,68257,274,Mineral Wool,Geothermal,Heat Pump,3671109.66
+30,43,32105,443,Mineral Wool,Forced Air,Evaporative,277045.91
+85,41,82324,497,Spray Foam,Heat Pump,Evaporative,5153727.1
+51,24,19847,229,Mineral Wool,Heat Pump,Window Units,1197090.09
+54,13,65764,27,Polyurethane,Radiant,Evaporative,2005712.76
+15,44,64163,235,Spray Foam,Radiant,Heat Pump,1417498.31
+46,22,57140,405,Cellulose,Heat Pump,Heat Pump,1803778.06
+93,48,22964,460,Polyurethane,Geothermal,Heat Pump,299624.1
+5,48,28543,367,Fiberglass,Heat Pump,Window Units,1260205.12
+26,28,51454,353,Polyurethane,Forced Air,Evaporative,1750276.45
+44,4,59329,62,Mineral Wool,Forced Air,Window Units,2203242.54
+51,24,78322,90,Spray Foam,Radiant,Central AC,1166902.4
+29,2,61403,422,Spray Foam,Heat Pump,Heat Pump,1472238.74
+52,29,62564,142,Cellulose,Forced Air,Evaporative,4378118.69
+23,46,85782,143,Polyurethane,Forced Air,Evaporative,3202015.56
+5,31,81103,307,Polyurethane,Heat Pump,Evaporative,2712475.45
+25,43,90217,364,Polyurethane,Boiler,Evaporative,2407682.09
+16,21,42097,325,Spray Foam,Geothermal,Heat Pump,731078.46
+47,50,58818,496,Cellulose,Geothermal,Evaporative,1873404.84
+96,38,6671,269,Mineral Wool,Geothermal,Window Units,351784.07
+16,37,11446,313,Polyurethane,Geothermal,Window Units,261159.78
+62,13,73407,271,Polyurethane,Heat Pump,Window Units,1289196.93
+22,27,4091,84,Cellulose,Geothermal,Window Units,151703.42
+90,9,69939,191,Cellulose,Radiant,Heat Pump,3102787.79
+30,12,13971,150,Cellulose,Heat Pump,Heat Pump,230493.0
+87,24,49660,300,Mineral Wool,Radiant,None,808141.05
+3,18,23364,167,Mineral Wool,Boiler,Window Units,771989.74
+26,40,3709,396,Spray Foam,Geothermal,Window Units,178070.39
+52,12,37543,205,Polyurethane,Geothermal,Evaporative,869940.47
+62,17,38033,389,Cellulose,Heat Pump,None,2540505.32
+58,47,31370,277,Spray Foam,Geothermal,Window Units,2348585.22
+46,29,74714,105,Fiberglass,Forced Air,Window Units,4623830.9
+92,11,74646,386,Spray Foam,Forced Air,Heat Pump,6260046.12
+48,1,66640,172,Polyurethane,Forced Air,Central AC,4400765.47
+84,11,63005,194,Polyurethane,Geothermal,Heat Pump,5158441.13
+40,26,28839,160,Fiberglass,Boiler,Central AC,272933.04
+44,20,77553,57,Fiberglass,Forced Air,Heat Pump,4034377.36
+29,26,16416,143,Mineral Wool,Forced Air,Window Units,978286.91
+58,4,11698,402,Spray Foam,Heat Pump,Evaporative,863907.93
+93,1,85061,54,Spray Foam,Boiler,Heat Pump,5576613.31
+73,23,3617,425,Spray Foam,Geothermal,Heat Pump,289192.24
+9,42,38424,322,Mineral Wool,Heat Pump,Window Units,1180253.42
+67,10,75265,271,Mineral Wool,Geothermal,Window Units,5528886.94
+6,27,40834,424,Polyurethane,Boiler,Heat Pump,1349025.1
+66,20,51947,13,Fiberglass,Heat Pump,Evaporative,3963393.57
+5,29,14347,18,Spray Foam,Radiant,Window Units,228973.43
+58,17,63375,124,Cellulose,Heat Pump,None,3137979.37
+12,15,22472,421,Mineral Wool,Geothermal,Central AC,959284.17
+28,28,80350,374,Polyurethane,Radiant,Central AC,4269886.35
+69,29,85039,441,Polyurethane,Geothermal,Heat Pump,4526225.54
+52,47,8252,315,Cellulose,Radiant,Evaporative,161042.07
+97,39,8045,104,Fiberglass,Boiler,Central AC,618477.79
+92,28,79061,396,Spray Foam,Heat Pump,Window Units,966943.69
+15,33,93984,333,Spray Foam,Boiler,Window Units,2267539.55
+79,40,15786,418,Fiberglass,Radiant,Evaporative,1150724.92
+15,25,71622,48,Cellulose,Boiler,Window Units,2509203.55
+11,21,74039,401,Polyurethane,Boiler,Evaporative,1782014.52
+86,46,25803,359,Mineral Wool,Boiler,Evaporative,1078220.19
+75,24,7474,369,Spray Foam,Radiant,Central AC,327009.75
+10,24,1158,417,Polyurethane,Radiant,None,40869.38
+47,4,82142,282,Fiberglass,Heat Pump,Window Units,2600105.46
+85,13,40838,458,Cellulose,Boiler,Evaporative,2342043.5
+88,40,2692,471,Fiberglass,Heat Pump,Window Units,220357.66
+43,43,95416,357,Fiberglass,Heat Pump,Heat Pump,3440338.73
+20,35,89431,440,Spray Foam,Heat Pump,Evaporative,4304484.27
+52,15,17319,477,Spray Foam,Heat Pump,Central AC,687321.92
+59,44,47510,336,Polyurethane,Forced Air,Evaporative,3624813.56
+75,31,1002,449,Polyurethane,Boiler,None,43164.56
+90,19,15611,362,Cellulose,Heat Pump,Central AC,722747.02
+48,35,79219,486,Mineral Wool,Geothermal,Evaporative,5094801.07
+79,45,13179,276,Cellulose,Radiant,Central AC,970467.18
+34,13,4520,471,Spray Foam,Geothermal,Evaporative,197180.36
+18,16,1541,405,Fiberglass,Forced Air,Central AC,90203.09
+69,24,32275,176,Fiberglass,Heat Pump,Evaporative,686595.66
+68,26,73159,491,Spray Foam,Forced Air,Window Units,5550674.05
+33,42,24734,94,Fiberglass,Geothermal,Central AC,180026.91
+83,8,47283,176,Spray Foam,Radiant,Window Units,1465759.59
+89,39,90659,221,Polyurethane,Radiant,None,4850370.91
+17,15,31020,145,Fiberglass,Forced Air,Central AC,1517243.23
+9,49,88834,13,Polyurethane,Boiler,Heat Pump,4731633.77
+30,34,45256,308,Cellulose,Geothermal,Central AC,2807187.48
+61,22,76278,131,Cellulose,Forced Air,Window Units,4061313.62
+40,50,30865,404,Fiberglass,Radiant,Central AC,1260940.61
+64,9,61345,479,Polyurethane,Heat Pump,Heat Pump,2809933.35
+45,36,60724,337,Cellulose,Boiler,Central AC,1424084.23
+33,41,77996,442,Mineral Wool,Geothermal,None,3870630.67
+82,44,31359,397,Spray Foam,Heat Pump,Evaporative,1563046.51
+89,48,44283,216,Polyurethane,Boiler,Window Units,913007.81
+92,21,99723,183,Polyurethane,Geothermal,None,3962237.36
+23,46,50431,300,Cellulose,Boiler,Heat Pump,1158144.76
+14,3,9829,12,Fiberglass,Boiler,Evaporative,224701.25
+28,2,23844,86,Polyurethane,Radiant,Evaporative,692028.4
+56,46,27261,179,Fiberglass,Heat Pump,Evaporative,954900.34
+32,10,96551,168,Cellulose,Radiant,Window Units,1867333.17
+21,39,33639,265,Mineral Wool,Forced Air,Evaporative,404683.34
+91,17,20845,266,Mineral Wool,Radiant,Window Units,246179.38
+30,31,44194,425,Cellulose,Forced Air,Evaporative,1585778.19
+32,43,50127,413,Polyurethane,Forced Air,Evaporative,3132873.62
+8,20,64271,80,Cellulose,Geothermal,None,2519618.28
+89,50,13603,264,Polyurethane,Geothermal,Evaporative,763584.1
+60,41,98779,442,Mineral Wool,Heat Pump,Heat Pump,6588509.47
+87,16,8190,84,Spray Foam,Boiler,Central AC,654416.98
+71,39,27186,52,Spray Foam,Heat Pump,Central AC,677289.99
+31,3,1320,226,Mineral Wool,Radiant,Evaporative,10098.71
+65,18,90773,16,Mineral Wool,Boiler,Evaporative,6107515.52
+78,42,1915,211,Cellulose,Geothermal,Heat Pump,161315.01
+33,24,54374,360,Spray Foam,Forced Air,Window Units,1472213.73
+40,13,41612,479,Spray Foam,Forced Air,Heat Pump,2456936.14
+17,41,66733,259,Polyurethane,Radiant,Evaporative,2213660.19
+21,34,12390,270,Polyurethane,Boiler,None,250250.31
+24,49,26844,267,Mineral Wool,Forced Air,None,813121.54
+72,9,3828,281,Spray Foam,Radiant,Evaporative,126054.05
+87,36,41484,185,Cellulose,Boiler,Evaporative,789624.33
+68,48,2159,381,Spray Foam,Radiant,Heat Pump,82013.97
+96,31,74278,35,Spray Foam,Forced Air,Window Units,2073822.67
+95,10,63060,438,Spray Foam,Forced Air,Evaporative,4228879.54
+71,29,13432,373,Cellulose,Boiler,Heat Pump,854429.6
+96,14,79535,204,Cellulose,Radiant,Central AC,6009676.37
+3,47,76182,420,Mineral Wool,Radiant,Window Units,2106810.03
+29,37,20324,274,Spray Foam,Heat Pump,Evaporative,501126.89
+68,22,90662,165,Fiberglass,Geothermal,Heat Pump,2328962.44
+36,5,16375,192,Fiberglass,Geothermal,Central AC,697408.03
+42,44,65454,242,Fiberglass,Boiler,Window Units,2244499.25
+56,2,95311,60,Mineral Wool,Heat Pump,Evaporative,4586711.99
+11,2,21244,432,Cellulose,Radiant,Evaporative,784004.17
+11,29,65730,317,Mineral Wool,Boiler,Central AC,3528398.78
+54,24,94019,334,Polyurethane,Geothermal,Central AC,6304614.45
+83,9,72922,69,Fiberglass,Boiler,Window Units,2708746.34
+21,28,56797,428,Mineral Wool,Radiant,Central AC,2852720.26
+29,49,48628,355,Fiberglass,Heat Pump,None,2489844.31
+91,18,7003,405,Polyurethane,Forced Air,Evaporative,330478.4
+59,33,78289,223,Polyurethane,Radiant,Central AC,5854533.09
+16,22,42105,330,Mineral Wool,Heat Pump,Central AC,2204316.19
+88,22,79499,247,Cellulose,Heat Pump,None,3068810.91
+24,39,22533,391,Cellulose,Boiler,Evaporative,1278890.66
+95,31,75984,132,Polyurethane,Geothermal,Window Units,2539417.7
+3,5,15980,467,Spray Foam,Radiant,None,158392.1
+53,39,84683,128,Fiberglass,Radiant,Heat Pump,4070668.13
+98,21,58161,73,Mineral Wool,Boiler,Central AC,3275914.41
+60,27,77703,177,Mineral Wool,Geothermal,Heat Pump,1786032.25
+40,11,53805,497,Polyurethane,Radiant,Heat Pump,2172501.55
+42,30,55304,353,Mineral Wool,Boiler,None,2824920.17
+49,1,89887,422,Polyurethane,Boiler,Window Units,5033953.37
+28,29,30834,342,Spray Foam,Geothermal,Evaporative,1625311.42
+57,48,31708,317,Fiberglass,Forced Air,Evaporative,1747319.88
+10,48,37903,41,Spray Foam,Radiant,Central AC,1613476.11
+79,7,50494,344,Cellulose,Heat Pump,None,955307.83
+13,31,20156,194,Polyurethane,Geothermal,Heat Pump,580583.91
+17,24,85129,103,Spray Foam,Radiant,Heat Pump,3037111.2
+66,9,94586,14,Mineral Wool,Radiant,Heat Pump,5204687.36
+37,4,78646,116,Polyurethane,Heat Pump,Heat Pump,1537010.63
+20,4,38667,277,Cellulose,Radiant,Window Units,411944.61
+23,36,37850,123,Spray Foam,Geothermal,Evaporative,731119.42
+2,40,57489,436,Cellulose,Heat Pump,Window Units,2400026.29
+8,40,95334,303,Mineral Wool,Boiler,Central AC,2091778.2
+82,49,99367,458,Polyurethane,Heat Pump,Evaporative,6569668.37
+49,33,81835,206,Spray Foam,Heat Pump,None,5010090.19
+73,25,90622,302,Spray Foam,Forced Air,Central AC,7490393.07
+94,39,99304,455,Spray Foam,Forced Air,None,1490075.45
+51,42,49424,70,Cellulose,Radiant,Heat Pump,1361028.22
+22,29,45301,18,Polyurethane,Boiler,Window Units,2500958.69
+96,12,57682,292,Spray Foam,Heat Pump,Evaporative,4074011.37
+96,14,67870,374,Spray Foam,Radiant,Window Units,4068677.63
+5,37,25381,198,Mineral Wool,Forced Air,Evaporative,645481.4
+37,30,31797,186,Fiberglass,Heat Pump,Central AC,1323174.86
+1,25,65699,123,Cellulose,Radiant,Heat Pump,2494180.13
+55,9,13845,379,Fiberglass,Radiant,Evaporative,543529.87
+70,8,27641,201,Spray Foam,Geothermal,Central AC,1580331.29
+61,15,88283,439,Spray Foam,Heat Pump,Evaporative,3898014.02
+48,11,31583,56,Polyurethane,Heat Pump,Window Units,2244881.1
+11,39,84967,173,Mineral Wool,Forced Air,Evaporative,2040038.58
+9,48,11207,376,Spray Foam,Geothermal,Heat Pump,585502.66
+47,12,54670,336,Fiberglass,Heat Pump,Evaporative,1114895.33
+57,10,80458,281,Mineral Wool,Boiler,None,4053811.07
+17,15,25722,36,Spray Foam,Geothermal,Evaporative,1219945.64
+34,38,40628,303,Mineral Wool,Geothermal,Central AC,2355149.12
+11,22,25707,434,Fiberglass,Forced Air,None,883179.73
+67,21,27343,301,Fiberglass,Boiler,Central AC,1706209.92
+19,48,14446,123,Spray Foam,Geothermal,Central AC,112533.19
+58,3,94267,496,Polyurethane,Heat Pump,Window Units,4878413.51
+10,46,90082,421,Spray Foam,Forced Air,Window Units,1796237.2
+65,24,32778,471,Cellulose,Heat Pump,None,2272652.87
+37,20,65896,49,Cellulose,Geothermal,Central AC,2335704.67
+56,1,70818,27,Polyurethane,Forced Air,Evaporative,643427.9
+98,29,93277,177,Mineral Wool,Boiler,Heat Pump,3206773.65
+44,12,75212,282,Cellulose,Forced Air,Window Units,3727397.44
+60,40,78751,268,Polyurethane,Heat Pump,Window Units,3449353.44
+67,17,75046,22,Polyurethane,Radiant,Heat Pump,6098440.85
+21,41,87538,280,Cellulose,Radiant,Central AC,1196949.98
+68,7,96896,364,Mineral Wool,Geothermal,Window Units,4991399.86
+12,49,48010,73,Mineral Wool,Boiler,Heat Pump,2316406.1
+43,7,93121,128,Spray Foam,Forced Air,Window Units,5820636.0
+96,12,35153,194,Fiberglass,Forced Air,Central AC,2797916.41
+21,49,12922,409,Mineral Wool,Heat Pump,Evaporative,182526.13
+79,38,34546,105,Mineral Wool,Boiler,Heat Pump,2729771.38
+52,24,47555,432,Fiberglass,Heat Pump,Central AC,397510.85
+68,15,23584,422,Spray Foam,Heat Pump,None,1453432.31
+84,50,59100,321,Fiberglass,Forced Air,Evaporative,2122623.75
+45,10,36955,360,Spray Foam,Boiler,None,496341.12
+92,21,69566,235,Mineral Wool,Heat Pump,Central AC,3185126.47
+2,6,88048,476,Mineral Wool,Heat Pump,Evaporative,3868458.4
+73,11,86511,18,Spray Foam,Boiler,Evaporative,4399467.25
+78,48,26888,114,Mineral Wool,Radiant,Evaporative,1961668.88
+23,24,81373,430,Cellulose,Radiant,Evaporative,1526061.22
+17,44,60201,403,Polyurethane,Forced Air,Central AC,3396021.59
+18,46,36711,342,Cellulose,Forced Air,Central AC,1285448.75
+23,10,87922,196,Polyurethane,Heat Pump,Window Units,1681764.14
+29,13,44939,38,Cellulose,Boiler,Heat Pump,334675.82
+55,39,53409,416,Mineral Wool,Boiler,Evaporative,2076371.69
+25,31,52028,96,Cellulose,Boiler,Window Units,1124107.46
+27,33,89503,137,Mineral Wool,Boiler,None,2539287.36
+93,41,28024,221,Cellulose,Geothermal,Window Units,1562699.37
+69,18,13630,63,Spray Foam,Forced Air,Central AC,489627.95
+78,18,36886,357,Fiberglass,Forced Air,Evaporative,600040.4
+8,15,27302,94,Cellulose,Geothermal,Central AC,1222828.31
+99,21,62573,106,Spray Foam,Radiant,None,4741445.15
+76,25,50220,110,Polyurethane,Boiler,Window Units,916006.48
+48,39,73131,499,Cellulose,Forced Air,Window Units,5361042.23
+49,21,80599,193,Fiberglass,Radiant,Heat Pump,3714691.3
+25,1,98547,162,Mineral Wool,Boiler,Evaporative,976793.5
+56,5,28411,203,Mineral Wool,Radiant,None,1403629.58
+10,2,27297,57,Polyurethane,Heat Pump,Evaporative,179172.12
+78,36,26196,409,Mineral Wool,Forced Air,None,1936897.44
+97,4,50027,272,Cellulose,Forced Air,Heat Pump,4263445.49
+90,28,83927,199,Cellulose,Radiant,Evaporative,1561746.75
+97,41,61820,305,Mineral Wool,Heat Pump,Evaporative,1722880.87
+81,10,66084,18,Cellulose,Heat Pump,None,5808581.2
+39,6,94640,264,Mineral Wool,Boiler,Central AC,2622298.41
+20,18,55617,178,Cellulose,Forced Air,Window Units,2075789.92
+47,5,74904,113,Spray Foam,Geothermal,Window Units,3301440.95
+49,23,7227,114,Mineral Wool,Geothermal,Central AC,461862.49
+76,47,24640,413,Cellulose,Boiler,Central AC,1593438.08
+82,44,74729,377,Mineral Wool,Geothermal,Evaporative,5462434.63
+16,26,34988,311,Polyurethane,Geothermal,Window Units,1055006.87
+26,29,33686,280,Cellulose,Radiant,Evaporative,2105012.44
+70,29,55409,498,Spray Foam,Forced Air,Evaporative,3471908.58
+72,32,86486,408,Spray Foam,Radiant,Heat Pump,4954629.83
+38,8,60718,310,Polyurethane,Boiler,Window Units,1452216.7
+65,15,35421,54,Mineral Wool,Heat Pump,Window Units,1547294.07
+26,26,94048,44,Fiberglass,Boiler,Window Units,2186417.41
+10,42,54296,170,Cellulose,Radiant,Evaporative,944682.32
+99,16,34135,285,Mineral Wool,Heat Pump,Window Units,2337223.74
+97,12,77175,370,Cellulose,Radiant,Evaporative,4450109.97
+81,33,16555,331,Spray Foam,Forced Air,Evaporative,173227.74
+83,47,14731,69,Polyurethane,Boiler,None,848657.67
+15,48,82864,369,Spray Foam,Radiant,Window Units,3743484.67
+52,39,15833,113,Mineral Wool,Boiler,None,1170574.65
+30,26,50719,239,Polyurethane,Forced Air,Heat Pump,3138526.98
+41,11,79835,322,Cellulose,Boiler,None,4287341.36
+48,21,95712,350,Cellulose,Radiant,Window Units,4465673.02
+36,45,80807,59,Cellulose,Radiant,Evaporative,5291648.96
+27,35,78232,318,Spray Foam,Geothermal,None,4199433.54
+64,19,4233,492,Polyurethane,Heat Pump,Central AC,68423.27
+97,18,85384,92,Polyurethane,Geothermal,Evaporative,4715309.85
+19,15,30120,65,Spray Foam,Heat Pump,Central AC,1109474.7
+27,6,46681,263,Spray Foam,Heat Pump,Window Units,1055306.35
+98,49,17624,170,Spray Foam,Heat Pump,Window Units,1359121.41
+49,23,19837,167,Polyurethane,Geothermal,Evaporative,1359360.0
+8,21,77444,494,Polyurethane,Geothermal,Window Units,2647260.34
+23,39,82973,140,Mineral Wool,Boiler,Evaporative,3838291.25
+16,20,25815,138,Cellulose,Boiler,None,899403.46
+4,10,91507,371,Cellulose,Boiler,Evaporative,3272563.53
+15,43,95395,42,Fiberglass,Radiant,Window Units,4909772.79
+1,4,11815,393,Cellulose,Radiant,Evaporative,429444.22
+36,49,79597,127,Fiberglass,Heat Pump,Central AC,4484354.33
+14,7,49353,195,Cellulose,Forced Air,None,1747366.37
+68,15,76053,78,Cellulose,Radiant,Heat Pump,3483706.64
+83,45,43823,12,Fiberglass,Forced Air,Window Units,1114236.62
+14,14,70947,298,Spray Foam,Forced Air,Evaporative,2454490.81
+52,28,40439,463,Fiberglass,Boiler,None,1545059.01
+38,40,59086,252,Cellulose,Radiant,Central AC,1071405.23
+90,27,87931,39,Fiberglass,Heat Pump,Window Units,8150866.69
+89,26,10272,101,Polyurethane,Heat Pump,Central AC,710114.38
+40,27,49682,263,Fiberglass,Forced Air,None,2371450.16
+79,27,50686,449,Polyurethane,Forced Air,None,2371258.56
+35,29,27642,297,Cellulose,Heat Pump,Heat Pump,1433451.44
+57,25,93722,293,Polyurethane,Heat Pump,None,3723433.13
+93,7,59432,59,Cellulose,Heat Pump,Window Units,1287774.14
+76,26,56356,468,Polyurethane,Heat Pump,None,1560940.36
+62,32,79098,237,Fiberglass,Boiler,None,2419230.75
+6,18,75923,346,Cellulose,Geothermal,Heat Pump,1736171.38
+94,38,4540,156,Spray Foam,Radiant,Window Units,66636.82
+44,22,33199,69,Mineral Wool,Geothermal,Central AC,1552370.73
+65,44,84993,40,Fiberglass,Geothermal,Heat Pump,3756848.53
+29,40,73279,260,Spray Foam,Forced Air,Heat Pump,3757658.62
+35,47,17306,21,Cellulose,Heat Pump,Heat Pump,706237.76
+18,44,39230,385,Mineral Wool,Boiler,Heat Pump,501219.66
+74,40,26820,48,Fiberglass,Boiler,None,1636293.24
+99,44,46458,320,Fiberglass,Heat Pump,Evaporative,3983017.95
+67,35,83810,477,Polyurethane,Heat Pump,Central AC,3745880.11
+10,18,38823,334,Cellulose,Heat Pump,Heat Pump,1768367.87
+55,1,4778,202,Polyurethane,Boiler,Evaporative,119147.01
+94,50,85841,147,Spray Foam,Boiler,Window Units,4812539.19
+32,38,6073,345,Cellulose,Forced Air,Window Units,314687.78
+7,31,75400,428,Spray Foam,Radiant,Central AC,2991425.15
+29,8,11889,371,Fiberglass,Boiler,None,92832.21
+21,16,23342,175,Polyurethane,Geothermal,Evaporative,524336.41
+69,47,72078,235,Fiberglass,Boiler,None,3980461.01
+51,20,46797,438,Polyurethane,Radiant,Heat Pump,754745.57
+30,24,27597,236,Mineral Wool,Boiler,Heat Pump,1396709.24
+5,5,85334,211,Fiberglass,Boiler,Heat Pump,4310043.71
+89,48,79496,338,Polyurethane,Forced Air,None,4152174.46
+20,19,74311,205,Fiberglass,Boiler,Heat Pump,2710482.39
+72,27,13700,355,Fiberglass,Forced Air,Central AC,303907.05
+7,47,27433,368,Polyurethane,Geothermal,Heat Pump,463166.55
+97,50,4112,485,Polyurethane,Boiler,None,171456.18
+4,50,62314,417,Spray Foam,Heat Pump,Evaporative,2871435.66
+63,48,65015,166,Mineral Wool,Radiant,Heat Pump,3158541.17
+54,42,39871,500,Fiberglass,Heat Pump,Central AC,1953500.24
+56,33,97907,330,Spray Foam,Radiant,Window Units,6576787.69
+38,5,96071,176,Polyurethane,Geothermal,None,6344157.09
+100,4,10386,222,Spray Foam,Boiler,Heat Pump,269157.72
+63,6,39218,180,Fiberglass,Heat Pump,Evaporative,1803817.29
+25,7,47956,441,Spray Foam,Boiler,Window Units,1158389.89
+82,21,20511,481,Cellulose,Boiler,Heat Pump,659856.38
+71,25,32122,443,Polyurethane,Radiant,Evaporative,793319.87
+58,11,74368,34,Cellulose,Boiler,Window Units,4654820.48
+17,22,47399,493,Fiberglass,Heat Pump,None,2064881.26
+57,5,85572,245,Spray Foam,Geothermal,Window Units,6408645.72
+68,16,72554,109,Spray Foam,Forced Air,Central AC,5837563.77
+98,31,25230,164,Spray Foam,Geothermal,None,2341171.12
+45,15,63480,53,Spray Foam,Boiler,Window Units,2710151.9
+50,30,86645,303,Cellulose,Radiant,None,1192831.84
+9,8,37174,70,Polyurethane,Heat Pump,Heat Pump,674164.11
+71,19,5123,472,Mineral Wool,Radiant,Heat Pump,69838.84
+4,4,25794,185,Spray Foam,Heat Pump,None,710505.61
+3,44,4226,190,Mineral Wool,Heat Pump,Window Units,57976.31
+70,18,19718,472,Fiberglass,Boiler,Evaporative,842396.11
+28,9,58597,61,Polyurethane,Forced Air,None,848958.96
+23,7,76562,446,Mineral Wool,Heat Pump,Central AC,1269487.88
+59,3,58755,113,Polyurethane,Forced Air,Central AC,1198187.55
+43,35,84282,223,Polyurethane,Forced Air,Window Units,4760550.0
+24,2,68522,12,Cellulose,Heat Pump,Heat Pump,3909484.08
+90,28,77791,272,Fiberglass,Boiler,Evaporative,5641520.28
+91,41,4237,421,Spray Foam,Forced Air,Window Units,306536.96
+43,44,66821,382,Cellulose,Boiler,None,4741452.42
+10,38,42292,105,Mineral Wool,Radiant,Evaporative,1282476.83
+89,6,86412,352,Fiberglass,Heat Pump,Heat Pump,5937124.69
+23,34,57181,384,Mineral Wool,Heat Pump,Heat Pump,2094877.4
+62,31,33693,211,Cellulose,Geothermal,None,1889413.66
+38,35,27825,413,Cellulose,Geothermal,Window Units,518181.91
+94,24,11621,181,Cellulose,Radiant,Window Units,831005.82
+64,23,58597,219,Polyurethane,Forced Air,None,1764144.68
+8,26,81969,121,Spray Foam,Geothermal,Central AC,1533054.37
+81,12,73695,17,Mineral Wool,Forced Air,Evaporative,1120988.01
+76,10,57674,178,Spray Foam,Radiant,Heat Pump,1619495.92
+7,9,4867,399,Cellulose,Boiler,Central AC,148925.3
+73,7,11669,22,Spray Foam,Boiler,Evaporative,389592.34
+32,8,27072,356,Spray Foam,Heat Pump,Central AC,379535.56
+28,37,17275,149,Spray Foam,Heat Pump,None,647588.87
+57,12,89541,318,Mineral Wool,Heat Pump,Heat Pump,5196958.15
+41,7,86431,369,Spray Foam,Radiant,Window Units,1084129.73
+84,4,2979,152,Spray Foam,Boiler,Heat Pump,57601.28
+47,28,99869,50,Polyurethane,Boiler,Evaporative,5978901.73
+55,44,77616,64,Spray Foam,Boiler,Central AC,5732309.67
+97,48,39071,150,Fiberglass,Heat Pump,Window Units,2499168.01
+34,5,72845,213,Cellulose,Boiler,Evaporative,1103530.95
+5,29,54192,262,Fiberglass,Radiant,Central AC,1151824.52
+32,18,21207,313,Fiberglass,Heat Pump,None,608101.89
+15,20,32396,35,Mineral Wool,Radiant,None,954297.1
+99,21,21471,323,Fiberglass,Geothermal,None,407450.14
+54,14,66717,478,Mineral Wool,Heat Pump,Window Units,4094762.36
+9,19,40954,486,Cellulose,Heat Pump,None,1269167.26
+3,5,50711,442,Mineral Wool,Forced Air,Heat Pump,2546632.21
+21,29,31107,302,Spray Foam,Radiant,None,1768700.21
+32,36,99500,213,Fiberglass,Boiler,Window Units,3446336.88
+96,13,72391,100,Spray Foam,Geothermal,Central AC,4770251.57
+6,37,3520,180,Fiberglass,Radiant,Evaporative,118136.02
+44,7,41855,349,Mineral Wool,Radiant,Window Units,2931921.56
+47,36,78780,420,Cellulose,Heat Pump,Central AC,1441040.1
+48,11,91997,302,Mineral Wool,Geothermal,None,3724159.9
+50,31,69546,248,Mineral Wool,Radiant,None,3969919.81
+5,13,89352,169,Spray Foam,Boiler,Window Units,763465.89
+88,25,62687,286,Cellulose,Radiant,None,5342305.78
+9,35,19599,239,Mineral Wool,Heat Pump,None,868885.27
+39,25,93166,138,Fiberglass,Forced Air,Central AC,4290526.87
+80,33,5502,42,Cellulose,Boiler,None,357162.48
+9,39,89791,142,Spray Foam,Geothermal,Window Units,1043284.05
+72,8,74118,267,Mineral Wool,Heat Pump,Central AC,2399770.14
+32,4,72442,294,Cellulose,Heat Pump,Heat Pump,2553694.78
+4,18,48948,322,Polyurethane,Radiant,Central AC,1688994.54
+26,1,54937,385,Fiberglass,Geothermal,Evaporative,2145274.85
+88,26,21310,397,Fiberglass,Forced Air,Central AC,279909.99
+21,16,39059,136,Spray Foam,Geothermal,Heat Pump,2256051.04
+76,40,48174,170,Spray Foam,Geothermal,Window Units,1061251.71
+75,47,16966,466,Fiberglass,Geothermal,Heat Pump,1191601.24
+2,40,17821,94,Mineral Wool,Forced Air,Central AC,303410.04
+99,13,48116,304,Mineral Wool,Heat Pump,Window Units,3140264.59
+25,10,69394,231,Fiberglass,Forced Air,Window Units,1723930.35
+56,39,99991,177,Fiberglass,Geothermal,Evaporative,3524028.01
+90,15,76238,19,Spray Foam,Boiler,Window Units,6000010.11
+22,4,56743,33,Polyurethane,Radiant,Heat Pump,1044892.66
+61,13,44571,340,Mineral Wool,Boiler,Evaporative,1863352.78
+81,24,86896,116,Fiberglass,Forced Air,Heat Pump,2973200.38
+6,34,31187,215,Polyurethane,Boiler,None,1177047.04
+100,28,71744,176,Polyurethane,Boiler,None,5017361.07
+40,25,69696,161,Cellulose,Forced Air,Evaporative,3568963.84
+48,36,29135,27,Fiberglass,Forced Air,Central AC,1482059.43
+57,41,9684,85,Mineral Wool,Geothermal,None,715141.7
+98,9,46132,267,Spray Foam,Radiant,Heat Pump,3345881.11
+57,28,66903,210,Mineral Wool,Boiler,Window Units,1338423.59
+90,1,26704,290,Fiberglass,Geothermal,None,2259430.05
+45,21,11507,47,Cellulose,Forced Air,Heat Pump,704674.4
+49,1,53352,427,Mineral Wool,Heat Pump,Heat Pump,460407.89
+27,6,72902,109,Spray Foam,Geothermal,Central AC,3650404.48
+25,17,9353,296,Cellulose,Geothermal,Evaporative,270956.93
+80,16,24256,148,Mineral Wool,Heat Pump,Window Units,726256.7
+76,3,14932,257,Fiberglass,Radiant,Heat Pump,457133.7
+13,1,3622,469,Fiberglass,Geothermal,Heat Pump,133761.76
+2,16,63414,17,Cellulose,Geothermal,None,436624.68
+15,1,95507,359,Fiberglass,Geothermal,Central AC,4674006.43
+82,46,60035,369,Mineral Wool,Heat Pump,Evaporative,3657715.38
+20,16,92941,248,Cellulose,Geothermal,None,1061320.47
+85,42,52055,198,Fiberglass,Boiler,Central AC,2110649.0
+55,36,74404,30,Mineral Wool,Geothermal,Heat Pump,3968533.5
+89,48,54653,342,Polyurethane,Geothermal,Window Units,4624180.13
+41,31,63050,21,Fiberglass,Geothermal,Evaporative,4427601.21
+98,26,43666,207,Polyurethane,Geothermal,Window Units,1784230.51
+80,25,21989,31,Cellulose,Radiant,None,1457247.51
+73,11,12254,267,Mineral Wool,Heat Pump,Evaporative,602754.91
+77,36,3269,208,Spray Foam,Geothermal,Window Units,196899.31
+22,22,89993,89,Polyurethane,Forced Air,Central AC,1850393.28
+49,32,43142,331,Fiberglass,Heat Pump,Window Units,649864.29
+11,7,86650,361,Spray Foam,Forced Air,None,3064867.42
+55,22,3224,401,Polyurethane,Heat Pump,Heat Pump,222392.64
+60,12,11014,185,Mineral Wool,Forced Air,Window Units,375831.13
+50,36,8706,93,Polyurethane,Radiant,Heat Pump,345164.39
+18,41,26874,136,Cellulose,Heat Pump,None,1072728.05
+1,5,90598,315,Fiberglass,Boiler,None,1279621.74
+59,10,49651,193,Cellulose,Geothermal,Heat Pump,3411589.51
+94,18,52954,47,Mineral Wool,Radiant,Evaporative,2710802.25
+63,11,41135,401,Spray Foam,Heat Pump,None,2963988.81
+24,16,62254,417,Cellulose,Geothermal,Evaporative,3835496.08
+18,36,74635,305,Spray Foam,Forced Air,Central AC,2830583.83
+25,16,61839,294,Polyurethane,Radiant,None,1730256.83
+43,44,91335,278,Fiberglass,Boiler,None,6476838.51
+60,12,34681,482,Mineral Wool,Geothermal,Heat Pump,677869.13
+94,4,28833,308,Spray Foam,Heat Pump,Heat Pump,1495687.35
+87,43,19347,294,Fiberglass,Heat Pump,Central AC,1345569.19
+28,47,72365,274,Fiberglass,Heat Pump,Heat Pump,2901876.83
+9,4,90184,395,Polyurethane,Boiler,Window Units,1793459.47
+72,34,33120,418,Cellulose,Heat Pump,Evaporative,1751691.27
+23,23,63988,147,Mineral Wool,Geothermal,Evaporative,2414219.17
+78,11,2998,321,Polyurethane,Forced Air,Heat Pump,78151.11
+38,13,37894,264,Polyurethane,Geothermal,Window Units,2032695.06
+6,27,98365,394,Fiberglass,Geothermal,None,2739037.37
+90,39,97289,123,Spray Foam,Geothermal,Central AC,3295910.53
+45,19,28986,219,Spray Foam,Forced Air,Window Units,381075.77
+87,50,3288,438,Fiberglass,Geothermal,Evaporative,160156.39
+23,20,66092,221,Polyurethane,Heat Pump,Central AC,1338388.59
+37,41,30388,252,Polyurethane,Geothermal,Evaporative,918197.81
+50,41,97404,311,Fiberglass,Forced Air,Evaporative,2618207.4
+91,25,60318,144,Polyurethane,Heat Pump,Central AC,5035782.76
+90,19,73023,426,Spray Foam,Boiler,Heat Pump,4452289.95
+18,16,37553,313,Polyurethane,Heat Pump,Evaporative,1121412.33
+26,16,8450,232,Fiberglass,Heat Pump,Evaporative,426246.94
+63,48,2905,408,Fiberglass,Geothermal,Central AC,148497.15
+82,33,85122,372,Mineral Wool,Radiant,None,4245061.39
+52,41,28536,377,Polyurethane,Radiant,Evaporative,333692.38
+71,1,10969,395,Cellulose,Geothermal,Central AC,779749.05
+2,16,28266,409,Mineral Wool,Forced Air,Window Units,446644.19
+70,45,47224,234,Mineral Wool,Boiler,Evaporative,2472204.76
+84,8,37737,12,Spray Foam,Heat Pump,Central AC,1499646.4
+1,11,21867,347,Cellulose,Radiant,None,402668.39
+25,18,63225,46,Mineral Wool,Geothermal,None,1574287.46
+91,27,99054,311,Mineral Wool,Forced Air,Heat Pump,6014362.47
+83,39,53765,467,Mineral Wool,Geothermal,Evaporative,3005495.99
+15,30,15585,462,Fiberglass,Heat Pump,Window Units,769437.65
+33,31,95750,247,Fiberglass,Heat Pump,Window Units,4682587.8
+86,5,63887,260,Polyurethane,Forced Air,None,4616055.85
+25,2,73117,97,Spray Foam,Radiant,Heat Pump,4023733.99
+80,39,3230,221,Fiberglass,Boiler,Heat Pump,43557.23
+80,13,9300,233,Spray Foam,Heat Pump,None,519309.84
+86,33,37654,339,Cellulose,Forced Air,Central AC,619921.31
+47,14,67217,130,Mineral Wool,Heat Pump,Heat Pump,2522195.95
+68,40,25771,274,Mineral Wool,Forced Air,Evaporative,1188712.44
+40,9,69089,142,Fiberglass,Boiler,None,1599410.0
+42,41,52410,196,Spray Foam,Forced Air,Window Units,3223191.81
+47,40,24971,154,Fiberglass,Heat Pump,Central AC,1814674.56
+34,7,8777,255,Polyurethane,Radiant,Central AC,348393.71
+12,11,85962,380,Fiberglass,Forced Air,Central AC,755966.12
+6,16,67772,11,Polyurethane,Radiant,Evaporative,1164721.15
+29,36,6253,140,Cellulose,Geothermal,Central AC,44529.68
+10,28,34793,316,Polyurethane,Geothermal,None,1046850.56
+89,7,24855,21,Polyurethane,Boiler,Heat Pump,532557.72
+73,44,54016,194,Cellulose,Radiant,None,2000470.08
+65,37,88178,446,Fiberglass,Boiler,Window Units,6601963.8
+55,37,87345,113,Fiberglass,Forced Air,Evaporative,6164837.98
+32,47,79354,466,Mineral Wool,Geothermal,Central AC,1087719.77
+57,29,75155,158,Spray Foam,Geothermal,Evaporative,4005009.47
+45,21,28570,132,Spray Foam,Heat Pump,Central AC,1214909.72
+33,9,65416,101,Mineral Wool,Radiant,Window Units,2249428.23
+77,22,25110,396,Mineral Wool,Boiler,Heat Pump,1909132.38
+58,50,89417,282,Mineral Wool,Boiler,Evaporative,3792518.91
+82,41,73713,83,Mineral Wool,Radiant,Heat Pump,6340086.72
+22,26,79340,411,Cellulose,Radiant,Window Units,3346944.4
+74,19,22364,441,Fiberglass,Geothermal,None,1391539.9
+93,34,41665,346,Fiberglass,Geothermal,Evaporative,952674.61
+84,22,44704,18,Cellulose,Forced Air,Window Units,1914824.38
+36,47,89910,469,Cellulose,Forced Air,Window Units,3629926.54
+32,34,3542,344,Mineral Wool,Geothermal,Evaporative,210816.46
+24,2,9814,135,Polyurethane,Forced Air,Heat Pump,85483.46
+66,48,98563,119,Fiberglass,Radiant,Heat Pump,6390677.95
+67,1,98231,447,Cellulose,Heat Pump,None,5768266.43
+76,32,83282,490,Cellulose,Geothermal,Window Units,5306823.95
+86,27,26526,317,Cellulose,Radiant,None,653252.97
+66,8,74750,496,Fiberglass,Geothermal,Window Units,3709957.24
+23,26,55595,251,Fiberglass,Forced Air,Window Units,1560874.2
+48,21,15608,78,Polyurethane,Geothermal,Central AC,339816.66
+86,10,17598,141,Spray Foam,Radiant,Window Units,1476300.96
+17,6,75471,346,Mineral Wool,Radiant,Central AC,2215876.54
+92,36,38425,317,Mineral Wool,Forced Air,None,1747155.3
+25,16,49038,150,Cellulose,Geothermal,Window Units,1063455.08
+9,23,3356,427,Fiberglass,Forced Air,Heat Pump,104285.71
+97,19,6149,494,Spray Foam,Geothermal,Evaporative,527376.63
+84,35,11745,65,Spray Foam,Radiant,Window Units,1064385.17
+28,3,6114,111,Fiberglass,Geothermal,Window Units,318802.62
+2,30,59493,298,Polyurethane,Heat Pump,Central AC,1899955.18
+100,4,13608,481,Cellulose,Heat Pump,Central AC,216164.13
+93,10,26390,118,Fiberglass,Geothermal,None,1734828.51
+69,23,61055,446,Spray Foam,Radiant,Central AC,522065.43
+67,50,32967,57,Polyurethane,Heat Pump,None,1652786.55
+39,45,21280,100,Polyurethane,Boiler,Evaporative,478389.18
+68,49,79120,101,Polyurethane,Boiler,None,2655310.75
+25,22,77769,412,Spray Foam,Radiant,None,2848783.8
+35,14,78155,37,Mineral Wool,Forced Air,None,4000703.79
+79,8,22457,342,Spray Foam,Forced Air,Heat Pump,707882.28
+92,48,16634,475,Spray Foam,Boiler,Heat Pump,968839.89
+20,8,46967,76,Polyurethane,Geothermal,Central AC,607899.08
+98,8,98997,119,Mineral Wool,Heat Pump,Window Units,1668574.71
+72,8,44766,50,Mineral Wool,Radiant,None,3470059.81
+81,2,85380,482,Polyurethane,Radiant,None,2371330.26
+78,42,82516,381,Fiberglass,Forced Air,Evaporative,3931308.67
+75,6,72663,478,Fiberglass,Radiant,Evaporative,4402370.1
+92,31,81119,257,Mineral Wool,Forced Air,Central AC,2915838.71
+94,19,3908,279,Spray Foam,Radiant,Heat Pump,44501.83
+91,34,76252,216,Cellulose,Geothermal,Central AC,3171507.3
+57,48,65293,51,Spray Foam,Geothermal,Heat Pump,3811647.89
+16,13,78460,258,Polyurethane,Forced Air,Central AC,1848218.62
+36,17,26847,111,Fiberglass,Heat Pump,Evaporative,643878.56
+22,14,45172,343,Cellulose,Radiant,Evaporative,1175252.17
+73,17,98846,83,Spray Foam,Boiler,Evaporative,6986431.29
+81,45,51956,141,Fiberglass,Forced Air,Heat Pump,3716705.66
+10,26,82133,458,Polyurethane,Heat Pump,Central AC,3741856.39
+94,17,21989,317,Spray Foam,Boiler,Window Units,731242.95
+100,5,15220,23,Fiberglass,Forced Air,Evaporative,409009.65
+76,50,19915,480,Polyurethane,Forced Air,Window Units,871319.72
+50,19,42581,374,Mineral Wool,Geothermal,Heat Pump,2809086.24
+85,12,92138,129,Fiberglass,Heat Pump,Central AC,7363075.2
+66,48,38913,26,Spray Foam,Boiler,None,737967.6
+98,20,99250,393,Fiberglass,Forced Air,Central AC,8228664.88
+39,46,28922,447,Spray Foam,Heat Pump,Evaporative,1941245.81
+63,13,55670,288,Polyurethane,Boiler,Heat Pump,2699566.23
+6,28,91732,285,Fiberglass,Boiler,Heat Pump,4523788.18
+9,2,12709,399,Spray Foam,Heat Pump,Evaporative,651125.73
+62,17,6908,448,Mineral Wool,Boiler,Heat Pump,145078.28
+44,24,51463,490,Polyurethane,Geothermal,Central AC,2562753.24
+77,6,96260,225,Cellulose,Geothermal,Heat Pump,8257592.54
+30,4,34095,111,Spray Foam,Heat Pump,Heat Pump,380789.43
+23,23,16619,183,Spray Foam,Heat Pump,Evaporative,658374.3
+32,36,35566,280,Fiberglass,Radiant,Heat Pump,734661.98
+59,27,56347,322,Polyurethane,Forced Air,Central AC,485372.26
+13,49,56544,19,Cellulose,Forced Air,Heat Pump,1602506.38
+91,40,7933,130,Fiberglass,Geothermal,Central AC,477815.95
+18,41,78447,239,Cellulose,Forced Air,Heat Pump,4389533.93
+42,10,49340,335,Mineral Wool,Boiler,Heat Pump,1415858.4
+54,50,10381,231,Mineral Wool,Radiant,Heat Pump,280832.17
+52,33,12380,160,Fiberglass,Heat Pump,Evaporative,796941.35
+14,13,34747,148,Polyurethane,Geothermal,Window Units,1321367.34
+36,43,62473,221,Polyurethane,Boiler,None,2027958.31
+80,32,48423,327,Fiberglass,Forced Air,Window Units,1974638.48
+2,11,10374,71,Mineral Wool,Heat Pump,None,319441.43
+57,10,78158,52,Fiberglass,Heat Pump,None,2563815.78
+38,34,15021,387,Mineral Wool,Heat Pump,Window Units,868755.09
+76,20,55587,182,Fiberglass,Heat Pump,Evaporative,4490983.17
+34,43,61466,167,Polyurethane,Forced Air,Window Units,1160304.75
+88,25,81434,284,Cellulose,Heat Pump,Central AC,996562.96
+39,20,9162,192,Cellulose,Geothermal,Window Units,116376.82
+41,7,53586,444,Mineral Wool,Radiant,None,2290621.47
+3,29,83731,268,Mineral Wool,Boiler,Window Units,3763553.8
+24,34,32851,15,Fiberglass,Radiant,None,725363.09
+93,14,90380,320,Polyurethane,Radiant,Evaporative,1921591.3
+60,36,18420,272,Cellulose,Radiant,Evaporative,398917.99
+9,31,68838,325,Cellulose,Radiant,Central AC,2599712.48
+15,33,34973,384,Fiberglass,Forced Air,Window Units,1990893.84
+16,18,78293,140,Spray Foam,Forced Air,Central AC,1121249.18
+97,1,39392,443,Spray Foam,Boiler,Central AC,1482196.54
+9,15,30777,293,Fiberglass,Forced Air,Window Units,852895.76
+62,2,47048,277,Fiberglass,Geothermal,None,1805166.67
+8,5,91123,187,Fiberglass,Geothermal,Evaporative,3196276.44
+12,35,21197,325,Cellulose,Radiant,Heat Pump,233740.47
+12,44,90965,421,Cellulose,Boiler,None,1393928.17
+7,50,62168,74,Fiberglass,Boiler,Evaporative,3118011.48
+60,44,1872,142,Cellulose,Heat Pump,None,78082.31
+83,32,7300,101,Fiberglass,Geothermal,Evaporative,267751.18
+62,45,47859,243,Polyurethane,Forced Air,Window Units,1979932.92
+8,47,13833,415,Cellulose,Heat Pump,None,625701.96
+67,45,55787,237,Polyurethane,Boiler,Window Units,554317.79
+19,34,94693,375,Fiberglass,Boiler,Central AC,3643922.56
+56,28,82229,435,Mineral Wool,Geothermal,Heat Pump,1723629.46
+32,30,51775,423,Fiberglass,Heat Pump,Window Units,3071427.15
+44,35,5004,385,Mineral Wool,Radiant,None,180601.9
+26,17,84760,407,Fiberglass,Radiant,Central AC,2726424.91
+43,11,22190,107,Fiberglass,Forced Air,Window Units,222290.16
+43,11,31823,34,Polyurethane,Boiler,Central AC,1300627.13
+79,30,50421,194,Mineral Wool,Boiler,None,4395547.7
+27,40,20392,194,Mineral Wool,Forced Air,Heat Pump,1231467.19
+28,21,79339,166,Polyurethane,Forced Air,Evaporative,3573469.01
+18,24,40241,438,Polyurethane,Boiler,None,558603.98
+61,42,47593,299,Spray Foam,Radiant,Window Units,2538123.87
+63,8,66819,273,Polyurethane,Forced Air,Heat Pump,5388558.36
+99,9,36918,119,Fiberglass,Heat Pump,None,1369711.74
+7,22,94544,104,Polyurethane,Heat Pump,Heat Pump,4922231.07
+39,45,74822,185,Cellulose,Radiant,Central AC,3616880.62
+89,46,94623,225,Spray Foam,Boiler,Heat Pump,8555984.39
+39,33,42018,91,Polyurethane,Boiler,Evaporative,513407.73
+64,15,51523,160,Polyurethane,Radiant,None,2273364.26
+40,20,69084,394,Spray Foam,Boiler,Central AC,1305467.03
+39,5,56208,474,Polyurethane,Boiler,Evaporative,851768.83
+39,47,25573,348,Fiberglass,Heat Pump,Window Units,665878.44
+11,27,89783,369,Polyurethane,Forced Air,Central AC,1015726.1
+41,35,41646,418,Fiberglass,Forced Air,Window Units,340675.67
+78,17,28507,325,Spray Foam,Geothermal,Heat Pump,1386760.08
+22,26,1759,460,Mineral Wool,Heat Pump,None,70762.51
+9,27,80391,146,Fiberglass,Heat Pump,Window Units,890575.28
+68,43,82099,79,Spray Foam,Radiant,None,4517382.07
+99,8,96574,276,Polyurethane,Geothermal,None,7327485.64
+23,41,20765,492,Mineral Wool,Heat Pump,None,1103674.93
+31,8,91925,432,Fiberglass,Boiler,None,4399864.22
+100,6,17327,249,Polyurethane,Forced Air,None,1500790.42
+32,42,76558,382,Cellulose,Boiler,Heat Pump,3856672.19
+42,30,81601,223,Spray Foam,Radiant,Heat Pump,3968452.5
+95,4,87248,365,Spray Foam,Radiant,Heat Pump,1199570.63
+55,34,26185,13,Cellulose,Forced Air,Evaporative,386315.96
+62,14,90663,183,Cellulose,Geothermal,Evaporative,1170242.89
+15,8,23489,246,Cellulose,Heat Pump,Central AC,1287335.89
+57,1,49800,491,Cellulose,Forced Air,Evaporative,3842145.93
+88,24,62986,378,Cellulose,Forced Air,Evaporative,4039485.7
+72,46,40138,56,Mineral Wool,Geothermal,None,1050980.19
+94,19,65133,284,Fiberglass,Heat Pump,Window Units,3701572.33
+58,22,60857,277,Fiberglass,Geothermal,Window Units,1042646.32
+1,43,64214,192,Spray Foam,Boiler,Window Units,1961563.48
+9,37,77649,69,Mineral Wool,Radiant,Window Units,4149355.76
+65,13,71241,141,Mineral Wool,Boiler,None,2010533.58
+94,36,74210,192,Polyurethane,Boiler,Window Units,2095291.73
+18,29,74683,332,Polyurethane,Boiler,Central AC,2151140.29
+1,44,73084,368,Mineral Wool,Boiler,None,2768207.64
+38,14,51056,247,Polyurethane,Boiler,Central AC,3336475.34
+36,32,49640,137,Polyurethane,Boiler,Heat Pump,1914825.96
+73,50,34696,401,Mineral Wool,Forced Air,Central AC,1204853.97
+52,36,43445,453,Spray Foam,Boiler,Central AC,1713896.46
+77,15,80109,85,Cellulose,Boiler,Central AC,4266103.31
+60,24,80672,65,Spray Foam,Boiler,Evaporative,4568437.37
+73,22,70246,363,Polyurethane,Heat Pump,Heat Pump,2826210.87
+40,38,51230,290,Spray Foam,Forced Air,Central AC,2832080.76
+59,12,19714,36,Cellulose,Forced Air,Window Units,1247448.34
+32,29,62306,317,Polyurethane,Heat Pump,Central AC,1161239.38
+72,48,22344,283,Spray Foam,Geothermal,Window Units,1305957.7
+10,35,7175,29,Fiberglass,Radiant,Heat Pump,213551.49
+74,37,51217,259,Cellulose,Heat Pump,Heat Pump,4297605.21
+61,7,55250,368,Mineral Wool,Geothermal,None,1162126.02
+16,36,51889,306,Spray Foam,Heat Pump,Heat Pump,2569136.49
+1,17,64987,420,Fiberglass,Forced Air,Evaporative,1286501.46
+77,43,58126,325,Mineral Wool,Geothermal,Central AC,4834315.83
+43,20,41268,202,Spray Foam,Geothermal,Evaporative,722826.83
+93,4,34320,179,Spray Foam,Boiler,None,471259.55
+68,49,39097,284,Cellulose,Heat Pump,Central AC,933860.94
+94,45,16485,360,Fiberglass,Geothermal,Window Units,1261583.77
+52,19,85198,331,Mineral Wool,Radiant,Evaporative,2489132.48
+73,43,14096,34,Spray Foam,Forced Air,Evaporative,704649.74
+11,47,45255,329,Mineral Wool,Forced Air,Window Units,1576361.47
+2,12,80998,20,Polyurethane,Geothermal,Window Units,2648620.31
+41,7,23376,132,Polyurethane,Forced Air,Window Units,348861.87
+53,43,83719,460,Polyurethane,Forced Air,Window Units,2284905.1
+90,12,57438,325,Spray Foam,Heat Pump,Heat Pump,3881045.4
+27,25,89412,277,Polyurethane,Radiant,Central AC,3736633.88
+86,26,63692,166,Fiberglass,Forced Air,Central AC,2488599.45
+12,39,87882,472,Spray Foam,Forced Air,Evaporative,2646606.19
+15,14,74983,215,Mineral Wool,Radiant,Window Units,521552.99
+20,50,87035,350,Fiberglass,Boiler,Central AC,2816870.91
+64,5,89434,26,Fiberglass,Forced Air,Evaporative,5128891.61
+35,4,78859,421,Mineral Wool,Forced Air,Evaporative,1961378.38
+23,22,82321,387,Spray Foam,Heat Pump,Heat Pump,1767991.41
+95,32,85930,245,Cellulose,Radiant,None,3422500.77
+41,40,24278,28,Spray Foam,Heat Pump,Evaporative,1565528.42
+90,6,65832,274,Cellulose,Heat Pump,None,4469281.14
+60,44,65240,459,Mineral Wool,Radiant,None,2790825.31
+46,35,10635,222,Mineral Wool,Radiant,None,568429.99
+72,2,42249,212,Mineral Wool,Boiler,Window Units,2226157.05
+87,9,46001,278,Cellulose,Heat Pump,None,2076969.15
+61,25,23765,12,Mineral Wool,Boiler,Central AC,1109703.85
+93,24,49825,166,Mineral Wool,Boiler,Evaporative,1719668.29
+1,5,29196,241,Spray Foam,Radiant,Evaporative,1375795.14
+63,27,26242,441,Cellulose,Geothermal,Central AC,1723255.71
+46,1,2482,333,Cellulose,Geothermal,Window Units,39145.94
+2,41,33361,167,Fiberglass,Radiant,Window Units,558639.39
+75,15,15624,294,Spray Foam,Boiler,Evaporative,274032.29
+86,36,98995,324,Cellulose,Forced Air,Heat Pump,9022005.68
+44,4,96465,359,Mineral Wool,Heat Pump,Evaporative,2934008.28
+67,34,94406,421,Fiberglass,Forced Air,None,3852689.99
+45,22,67192,79,Spray Foam,Boiler,Central AC,2025389.86
+40,6,54209,56,Spray Foam,Geothermal,Heat Pump,406181.46
+92,23,21803,280,Mineral Wool,Geothermal,Window Units,1940777.96
+55,41,64720,455,Fiberglass,Geothermal,None,1414840.85
+11,14,83767,149,Mineral Wool,Boiler,Window Units,2144310.25
+39,27,41349,138,Mineral Wool,Heat Pump,None,2648938.16
+48,2,56972,316,Spray Foam,Heat Pump,Window Units,1713204.89
+22,20,40023,62,Spray Foam,Heat Pump,Evaporative,1409917.27
+46,33,24489,313,Mineral Wool,Radiant,Window Units,1488054.63
+62,6,51859,168,Cellulose,Radiant,Heat Pump,2437722.72
+100,32,34384,498,Polyurethane,Radiant,Heat Pump,1548003.66
+26,13,13119,464,Polyurethane,Boiler,Window Units,340591.78
+100,15,79070,166,Cellulose,Radiant,Central AC,3416662.79
+4,5,10826,340,Spray Foam,Geothermal,Central AC,444772.15
+2,22,91449,288,Polyurethane,Geothermal,Evaporative,1451616.94
+5,33,17544,70,Mineral Wool,Boiler,None,186466.33
+53,22,42259,43,Polyurethane,Forced Air,Evaporative,2668969.76
+29,2,87293,312,Fiberglass,Heat Pump,None,2184358.29
+3,17,37167,44,Cellulose,Radiant,None,1613472.72
+94,14,48688,142,Spray Foam,Heat Pump,Evaporative,2244788.96
+100,2,53221,227,Spray Foam,Forced Air,None,2484345.81
+81,14,30107,295,Polyurethane,Forced Air,Heat Pump,734916.95
+7,26,85987,443,Spray Foam,Boiler,Evaporative,1422744.05
+49,31,3084,276,Spray Foam,Forced Air,Heat Pump,200208.18
+62,13,55027,426,Fiberglass,Forced Air,Central AC,4001408.86
+77,2,31849,297,Cellulose,Heat Pump,Window Units,914187.02
+82,48,93990,89,Polyurethane,Boiler,None,2327385.04
+25,41,24470,460,Mineral Wool,Boiler,Central AC,517822.21
+59,5,28089,331,Polyurethane,Boiler,Evaporative,2122449.34
+78,28,50013,172,Mineral Wool,Forced Air,Heat Pump,3679106.93
+96,49,46478,172,Polyurethane,Forced Air,Window Units,2389248.58
+5,40,28523,440,Cellulose,Geothermal,Evaporative,515092.86
+46,43,98172,456,Mineral Wool,Heat Pump,Evaporative,6965377.47
+65,21,27437,498,Cellulose,Heat Pump,None,408979.3
+5,46,3976,35,Spray Foam,Forced Air,None,99681.91
+95,48,34445,172,Spray Foam,Heat Pump,Window Units,3337199.11
+85,17,2620,396,Cellulose,Forced Air,Heat Pump,26051.82
+54,20,74422,375,Fiberglass,Heat Pump,Central AC,4083251.41
+80,27,10330,470,Polyurethane,Heat Pump,None,143738.39
+30,45,9314,431,Spray Foam,Heat Pump,Evaporative,511086.38
+20,44,94877,298,Mineral Wool,Heat Pump,Central AC,676296.79
+35,16,18113,201,Cellulose,Geothermal,Evaporative,136711.71
+42,30,35029,127,Polyurethane,Radiant,None,364866.14
+88,3,71982,388,Cellulose,Heat Pump,Central AC,2374329.2
+52,29,48895,367,Cellulose,Boiler,None,2641024.5
+89,5,68158,168,Fiberglass,Geothermal,Window Units,4487819.32
+44,4,18201,130,Mineral Wool,Radiant,None,1080781.15
+68,36,80969,435,Polyurethane,Boiler,Window Units,6763103.88
+78,31,81458,68,Polyurethane,Forced Air,Evaporative,1268197.77
+43,50,6976,17,Fiberglass,Radiant,Central AC,157069.16
+93,9,94662,283,Spray Foam,Forced Air,Evaporative,2961157.91
+30,40,95680,128,Fiberglass,Forced Air,Central AC,5831063.55
+43,9,54218,110,Polyurethane,Radiant,Evaporative,2626133.05
+13,33,96756,486,Mineral Wool,Radiant,Heat Pump,2797208.47
+57,34,50941,159,Fiberglass,Radiant,Evaporative,3143379.79
+78,32,29653,239,Mineral Wool,Boiler,None,378182.9
+98,25,71941,454,Spray Foam,Forced Air,Heat Pump,6722800.68
+78,42,73786,214,Fiberglass,Radiant,Evaporative,5363414.08
+9,43,11757,414,Polyurethane,Forced Air,None,104898.1
+7,23,18705,97,Polyurethane,Heat Pump,None,157659.71
+87,30,10647,39,Polyurethane,Radiant,Heat Pump,196977.31
+28,47,84543,205,Fiberglass,Boiler,Heat Pump,2487210.88
+94,44,96221,362,Cellulose,Forced Air,Central AC,3293168.26
+73,38,85726,381,Spray Foam,Heat Pump,Evaporative,4280107.0
+52,6,11018,483,Spray Foam,Forced Air,Heat Pump,640343.28
+98,4,21025,486,Spray Foam,Forced Air,Evaporative,1617266.83
+53,36,49350,414,Spray Foam,Geothermal,Central AC,2963482.39
+18,50,77448,406,Cellulose,Heat Pump,Heat Pump,2600553.63
+99,31,11965,267,Fiberglass,Heat Pump,None,730427.32
+20,42,70032,118,Fiberglass,Geothermal,None,1516274.18
+54,34,86498,200,Polyurethane,Geothermal,Window Units,903325.98
+58,15,4564,65,Mineral Wool,Forced Air,Window Units,70185.77
+94,23,92677,110,Spray Foam,Geothermal,Heat Pump,2121402.74
+43,46,75586,171,Fiberglass,Geothermal,Central AC,1798701.33
+63,10,53821,113,Mineral Wool,Geothermal,None,1913922.8
+97,2,35240,15,Spray Foam,Heat Pump,Evaporative,1436397.48
+47,13,17971,386,Fiberglass,Geothermal,Central AC,1024767.02
+35,6,31773,309,Fiberglass,Geothermal,Evaporative,2010702.06
+39,10,67058,229,Cellulose,Boiler,Heat Pump,505373.77
+12,28,85204,167,Fiberglass,Geothermal,None,3137072.34
+42,49,92643,333,Mineral Wool,Heat Pump,Heat Pump,5254015.53
+3,4,47650,436,Spray Foam,Forced Air,Central AC,661429.4
+94,3,97888,83,Spray Foam,Forced Air,Window Units,998600.24
+11,44,20801,206,Spray Foam,Forced Air,Window Units,547452.7
+18,21,86817,495,Polyurethane,Heat Pump,Central AC,1716194.77
+80,11,2260,473,Fiberglass,Heat Pump,Evaporative,69802.58
+2,28,16928,187,Fiberglass,Boiler,Window Units,630236.54
+13,5,64227,327,Spray Foam,Forced Air,Central AC,1652544.16
+86,42,34664,441,Cellulose,Radiant,Heat Pump,1655063.61
+78,26,95809,202,Polyurethane,Radiant,Window Units,3848218.31
+8,49,13721,324,Fiberglass,Radiant,Window Units,82487.8
+16,41,14642,272,Mineral Wool,Forced Air,None,820288.65
+66,43,1827,287,Spray Foam,Forced Air,None,51342.94
+64,28,10553,346,Spray Foam,Radiant,Window Units,623818.9
+100,31,88489,376,Fiberglass,Geothermal,Evaporative,3032742.13
+89,36,73580,416,Spray Foam,Forced Air,Window Units,1815573.67
+66,37,19365,445,Fiberglass,Boiler,Central AC,336345.62
+10,43,90234,452,Cellulose,Geothermal,Evaporative,775733.62
+23,41,62011,16,Cellulose,Radiant,None,2316412.35
+46,47,53444,75,Mineral Wool,Radiant,Evaporative,1793955.88
+36,28,4816,91,Cellulose,Heat Pump,None,242319.57
+11,44,3423,131,Cellulose,Heat Pump,None,125313.55
+98,18,12377,160,Mineral Wool,Radiant,Evaporative,845459.44
+2,39,52674,122,Spray Foam,Boiler,None,522014.96
+81,23,16122,408,Polyurethane,Geothermal,Window Units,302347.45
+15,41,16729,53,Spray Foam,Heat Pump,Evaporative,596569.74
+29,19,4525,490,Mineral Wool,Heat Pump,Evaporative,147127.41
+81,29,72243,387,Spray Foam,Heat Pump,Central AC,1539906.99
+85,37,23795,173,Polyurethane,Radiant,Central AC,822728.05
+23,8,91117,248,Fiberglass,Boiler,Evaporative,2087404.13
+5,47,27384,255,Mineral Wool,Boiler,Window Units,779568.73
+59,1,21854,457,Mineral Wool,Geothermal,Evaporative,1524194.37
+74,21,98584,139,Spray Foam,Heat Pump,Window Units,7753405.94
+4,1,25315,374,Polyurethane,Heat Pump,Heat Pump,384732.48
+73,37,85334,138,Fiberglass,Geothermal,Central AC,2087322.82
+9,35,17192,56,Cellulose,Forced Air,Evaporative,851707.47
+51,42,66166,474,Fiberglass,Heat Pump,None,2151064.58
+90,22,43825,180,Mineral Wool,Heat Pump,None,3663654.99
+16,22,28638,319,Polyurethane,Boiler,Window Units,823237.11
+67,6,52638,440,Polyurethane,Heat Pump,None,2495605.79
+33,41,89119,10,Fiberglass,Forced Air,Evaporative,5623858.45
+6,5,19587,442,Fiberglass,Heat Pump,Window Units,948692.25
+34,16,21228,28,Mineral Wool,Forced Air,Heat Pump,1278641.44
+15,38,47992,16,Fiberglass,Boiler,Heat Pump,711778.29
+11,37,56758,249,Polyurethane,Boiler,None,1501637.07
+53,11,66952,248,Fiberglass,Forced Air,Evaporative,1712313.78
+84,33,19489,410,Cellulose,Heat Pump,Central AC,1242930.82
+35,9,64713,467,Polyurethane,Geothermal,Heat Pump,620481.2
+30,28,72086,333,Cellulose,Geothermal,Heat Pump,2277603.01
+94,39,27342,324,Fiberglass,Heat Pump,Evaporative,725122.98
+67,22,53422,423,Mineral Wool,Heat Pump,None,3462139.91
+86,47,10103,310,Mineral Wool,Radiant,Heat Pump,156222.61
+25,46,2675,149,Spray Foam,Boiler,None,160186.14
+15,23,30018,325,Cellulose,Boiler,Window Units,672277.39
+66,13,41093,82,Spray Foam,Radiant,Heat Pump,1541989.99
+50,41,51240,137,Cellulose,Radiant,None,3178849.42
+2,43,86849,120,Mineral Wool,Forced Air,Evaporative,4249618.23
+61,12,49295,491,Spray Foam,Heat Pump,Central AC,3847510.32
+30,23,93945,263,Mineral Wool,Radiant,Window Units,3344493.12
+86,8,58109,61,Mineral Wool,Boiler,Heat Pump,1322688.39
+70,28,80076,406,Fiberglass,Heat Pump,Window Units,5948583.78
+61,44,14747,31,Fiberglass,Heat Pump,Heat Pump,828484.29
+16,21,72514,291,Mineral Wool,Geothermal,Central AC,1561321.3
+99,24,42936,471,Spray Foam,Radiant,None,2709980.32
+28,49,54324,480,Cellulose,Forced Air,Central AC,3151852.57
+7,27,63036,211,Spray Foam,Forced Air,Evaporative,2008849.99
+84,12,47204,59,Cellulose,Forced Air,Heat Pump,2592071.94
+99,50,89192,211,Cellulose,Forced Air,None,2016480.66
+76,16,33933,182,Fiberglass,Heat Pump,Heat Pump,2026095.75
+7,45,22955,230,Spray Foam,Geothermal,Central AC,710320.7
+43,3,6617,331,Spray Foam,Forced Air,Central AC,122116.82
+18,11,66092,149,Polyurethane,Geothermal,Evaporative,3170134.97
+73,16,47925,247,Cellulose,Geothermal,None,2282499.71
+30,23,6913,305,Mineral Wool,Boiler,Evaporative,62261.78
+6,1,9391,316,Cellulose,Heat Pump,Heat Pump,200609.97
+50,3,27649,196,Spray Foam,Forced Air,Central AC,1340748.2
+25,26,16915,374,Cellulose,Forced Air,Evaporative,405323.93
+30,43,78319,45,Cellulose,Geothermal,Window Units,2212078.5
+6,28,69747,375,Cellulose,Radiant,Evaporative,2773781.88
+25,14,14758,65,Fiberglass,Forced Air,Window Units,199736.82
+63,49,37187,479,Cellulose,Radiant,None,609167.0
+56,3,72979,57,Fiberglass,Radiant,Window Units,1436568.81
+97,39,16079,497,Cellulose,Radiant,Central AC,1423328.26
+45,33,33310,96,Polyurethane,Forced Air,None,2085048.74
+34,37,49185,123,Spray Foam,Forced Air,Heat Pump,3229414.47
+66,8,29029,158,Cellulose,Radiant,Central AC,2355424.9
+94,11,75553,500,Spray Foam,Geothermal,Central AC,7235353.38
+44,36,4413,389,Cellulose,Heat Pump,Central AC,150417.71
+13,20,73155,325,Mineral Wool,Radiant,Heat Pump,2422326.02
+90,44,79040,395,Mineral Wool,Forced Air,Evaporative,3449422.21
+59,33,51164,389,Spray Foam,Radiant,Window Units,866410.15
+43,40,27897,254,Spray Foam,Boiler,None,634051.72
+61,16,15593,17,Mineral Wool,Heat Pump,Evaporative,565160.35
+44,9,95687,196,Spray Foam,Boiler,None,1315935.45
+62,20,5837,201,Cellulose,Radiant,Window Units,92557.75
+20,50,9613,338,Mineral Wool,Boiler,None,142852.17
+23,17,46032,12,Spray Foam,Radiant,Heat Pump,2798840.66
+35,25,53093,435,Fiberglass,Heat Pump,Central AC,3099609.49
+77,44,27452,250,Polyurethane,Boiler,None,1645992.17
+3,15,98590,396,Fiberglass,Heat Pump,Evaporative,4886093.63
+68,44,52712,191,Spray Foam,Boiler,Central AC,1396759.87
+54,33,4939,441,Polyurethane,Geothermal,Heat Pump,236009.33
+27,34,31229,110,Cellulose,Geothermal,Central AC,440668.09
+27,44,75844,333,Cellulose,Geothermal,None,658654.66
+14,6,43414,413,Polyurethane,Heat Pump,Heat Pump,308552.38
+57,26,76844,202,Spray Foam,Radiant,Heat Pump,1988406.93
+83,19,96277,163,Mineral Wool,Forced Air,None,5145069.61
+80,49,69194,373,Mineral Wool,Radiant,Heat Pump,4259162.86
+79,28,72449,455,Spray Foam,Boiler,Heat Pump,3587274.64
+23,30,67412,35,Mineral Wool,Heat Pump,Evaporative,2762198.12
+54,34,51588,301,Fiberglass,Heat Pump,None,2877774.74
+97,21,43818,363,Fiberglass,Radiant,Window Units,2888209.76
+20,9,30736,15,Cellulose,Heat Pump,None,1126285.22
+44,36,86397,221,Cellulose,Geothermal,Window Units,4302932.62
+5,49,64315,249,Fiberglass,Heat Pump,Evaporative,1902977.41
+94,40,58986,336,Fiberglass,Heat Pump,Heat Pump,4094306.14
+51,20,27052,121,Spray Foam,Forced Air,Heat Pump,1628678.39
+68,44,68930,328,Mineral Wool,Forced Air,None,1167946.72
+37,45,80633,439,Cellulose,Geothermal,Central AC,3553400.36
+9,5,60126,259,Spray Foam,Forced Air,Evaporative,2939112.3
+86,39,61051,127,Mineral Wool,Heat Pump,Heat Pump,4146796.59
+36,38,60710,460,Fiberglass,Forced Air,Heat Pump,1790384.97
+19,30,48668,93,Spray Foam,Forced Air,Window Units,2369339.92
+39,42,59495,47,Mineral Wool,Heat Pump,None,2208015.77
+91,32,38811,43,Mineral Wool,Boiler,Window Units,2809374.39
+45,23,23582,462,Polyurethane,Geothermal,Evaporative,211463.33
+16,44,18168,348,Mineral Wool,Radiant,None,1000116.1
+29,30,85920,75,Cellulose,Forced Air,Evaporative,1724451.12
+80,50,40257,418,Polyurethane,Heat Pump,Heat Pump,2952379.47
+68,11,55899,381,Fiberglass,Geothermal,Heat Pump,4572447.73
+75,32,1367,237,Fiberglass,Radiant,Window Units,19266.2
+25,40,28519,144,Polyurethane,Forced Air,None,1297646.39
+77,11,97706,292,Spray Foam,Boiler,Evaporative,7851508.72
+10,25,95367,294,Spray Foam,Radiant,Central AC,4105665.36
+30,21,73842,103,Polyurethane,Boiler,Evaporative,3248385.32
+76,37,37288,468,Polyurethane,Forced Air,Central AC,1269507.73
+67,10,81304,356,Fiberglass,Radiant,Heat Pump,2229222.3
+29,8,3338,393,Polyurethane,Forced Air,Evaporative,156999.01
+19,17,28796,296,Spray Foam,Forced Air,Window Units,1127532.02
+41,7,67566,44,Mineral Wool,Boiler,Central AC,3975570.05
+2,6,84489,129,Mineral Wool,Radiant,Window Units,3898652.47
+24,44,50679,403,Polyurethane,Forced Air,Central AC,1204479.69
+41,24,7795,106,Spray Foam,Boiler,Evaporative,101960.07
+60,46,74488,126,Mineral Wool,Radiant,Window Units,3059687.41
+23,4,61079,300,Mineral Wool,Radiant,None,1362858.3
+10,46,91535,163,Polyurethane,Boiler,Evaporative,1884540.08
+72,13,72105,48,Mineral Wool,Boiler,Central AC,4860914.66
+77,27,81132,310,Spray Foam,Geothermal,Evaporative,1392615.72
+67,36,49458,241,Cellulose,Geothermal,None,961191.78
+68,7,25037,44,Polyurethane,Heat Pump,Evaporative,1384516.31
+99,18,86988,389,Polyurethane,Radiant,None,1594187.13
+14,40,95811,212,Cellulose,Forced Air,Heat Pump,4772829.62
+21,11,12099,274,Spray Foam,Heat Pump,None,718422.51
+20,10,82819,477,Cellulose,Heat Pump,Heat Pump,4144204.39
+68,26,33500,153,Spray Foam,Geothermal,None,2166933.29
+63,18,79725,455,Cellulose,Forced Air,Central AC,1739869.05
+7,1,89070,37,Fiberglass,Radiant,Evaporative,1664875.04
+32,49,13384,280,Mineral Wool,Radiant,Window Units,387856.97
+81,15,85257,232,Spray Foam,Heat Pump,Heat Pump,3285434.81
+68,21,66434,119,Cellulose,Radiant,Central AC,2652053.4
+97,3,83391,235,Fiberglass,Radiant,Central AC,3678752.71
+48,6,95099,263,Spray Foam,Heat Pump,Heat Pump,6004016.42
+98,13,69229,257,Mineral Wool,Heat Pump,Window Units,6829539.22
+5,22,7427,475,Fiberglass,Forced Air,Evaporative,290150.59
+72,42,29210,104,Polyurethane,Heat Pump,Window Units,2363202.63
+96,23,70503,331,Cellulose,Forced Air,Central AC,1033916.19
+60,22,33251,88,Cellulose,Geothermal,Evaporative,2000528.61
+18,34,21099,255,Polyurethane,Geothermal,Window Units,638117.5
+55,6,21220,32,Spray Foam,Forced Air,Window Units,1037812.17
+74,27,22041,27,Mineral Wool,Heat Pump,Evaporative,604990.77
+55,8,19478,448,Mineral Wool,Boiler,Central AC,610413.96
+84,26,92374,415,Cellulose,Forced Air,Central AC,2150065.71
+68,14,49836,284,Fiberglass,Radiant,Evaporative,871967.63
+83,47,34572,375,Cellulose,Heat Pump,Heat Pump,1331554.2
+14,47,21553,456,Spray Foam,Boiler,Evaporative,712970.74
+59,36,68270,381,Cellulose,Geothermal,Heat Pump,2304760.43
+35,36,90338,339,Polyurethane,Radiant,Window Units,2180696.74
+55,50,66497,51,Mineral Wool,Radiant,Evaporative,4602533.11
+42,46,63956,160,Polyurethane,Heat Pump,Central AC,2547012.87
+58,6,44770,110,Fiberglass,Geothermal,Evaporative,1659780.97
+91,16,31038,328,Cellulose,Heat Pump,Window Units,2392002.75
+77,7,95734,153,Spray Foam,Heat Pump,Evaporative,8352930.96
+87,4,62240,364,Spray Foam,Radiant,Window Units,3779407.01
+30,46,31368,277,Polyurethane,Heat Pump,Window Units,780407.51
+39,1,77609,220,Polyurethane,Forced Air,Evaporative,2971280.03
+8,33,68454,379,Mineral Wool,Radiant,Window Units,699095.62
+31,29,4453,174,Spray Foam,Geothermal,Window Units,206307.33
+39,9,48063,57,Fiberglass,Radiant,Window Units,801835.2
+52,16,10950,452,Spray Foam,Geothermal,Central AC,806249.01
+84,19,29561,83,Polyurethane,Boiler,Evaporative,1121617.84
+35,8,23566,155,Spray Foam,Geothermal,Evaporative,1417483.05
+36,41,24953,233,Polyurethane,Heat Pump,Central AC,1236491.8
+8,40,36710,247,Spray Foam,Heat Pump,Evaporative,1007962.63
+23,43,49143,353,Mineral Wool,Radiant,Heat Pump,764237.46
+37,40,73371,422,Polyurethane,Boiler,Evaporative,2464784.37
+59,7,28719,84,Mineral Wool,Forced Air,Heat Pump,280104.78
+30,23,2789,271,Cellulose,Radiant,None,143677.96
+79,50,39105,275,Fiberglass,Radiant,Heat Pump,3229631.25
+63,34,21886,469,Mineral Wool,Forced Air,Heat Pump,1108792.26
+54,29,28798,124,Polyurethane,Boiler,Central AC,395306.84
+42,19,78208,315,Polyurethane,Heat Pump,Window Units,4129534.37
+57,8,82325,335,Polyurethane,Heat Pump,Central AC,4478077.39
+10,16,96106,424,Cellulose,Forced Air,Window Units,5075738.43
+95,42,10406,327,Fiberglass,Heat Pump,Central AC,705364.49
+16,28,17421,335,Fiberglass,Geothermal,None,131105.79
+30,24,61808,290,Fiberglass,Geothermal,Evaporative,1785221.29
+17,41,88529,392,Fiberglass,Heat Pump,Central AC,4541455.58
+28,50,96810,303,Mineral Wool,Boiler,Heat Pump,2054862.1
+76,42,81231,107,Fiberglass,Boiler,Window Units,6288844.01
+6,27,72317,330,Polyurethane,Heat Pump,Central AC,2026418.03
+48,6,9885,44,Polyurethane,Heat Pump,None,94624.83
+23,14,33633,191,Mineral Wool,Heat Pump,Central AC,343104.57
+72,1,39743,308,Fiberglass,Heat Pump,None,1350134.38
+17,29,51186,427,Mineral Wool,Radiant,Central AC,2374848.48
+63,5,91732,280,Spray Foam,Geothermal,Central AC,2455664.45
+76,4,44452,481,Polyurethane,Boiler,Heat Pump,1023013.47
+31,47,11121,96,Polyurethane,Heat Pump,Heat Pump,399305.75
+26,36,43441,181,Mineral Wool,Geothermal,Heat Pump,514997.4
+62,32,16544,459,Spray Foam,Forced Air,None,1079564.72
+26,31,28955,263,Polyurethane,Radiant,Heat Pump,882772.11
+79,6,75683,286,Mineral Wool,Forced Air,None,5875461.27
+67,30,4899,478,Mineral Wool,Heat Pump,None,339372.67
+56,3,3390,448,Cellulose,Geothermal,None,166093.58
+97,37,88846,126,Fiberglass,Forced Air,Window Units,8518544.95
+2,6,53851,403,Polyurethane,Boiler,Heat Pump,513513.16
+72,1,64768,191,Spray Foam,Forced Air,Evaporative,3651255.68
+99,24,7135,163,Spray Foam,Boiler,None,657844.52
+76,36,68035,415,Mineral Wool,Boiler,Evaporative,3408866.67
+69,1,96933,163,Fiberglass,Forced Air,Central AC,7374906.06
+71,23,54056,146,Mineral Wool,Radiant,Central AC,3536235.94
+2,34,48931,383,Cellulose,Heat Pump,Window Units,1022167.43
+75,34,52284,56,Polyurethane,Heat Pump,Central AC,3820892.08
+59,44,90219,198,Cellulose,Heat Pump,Evaporative,2116638.45
+51,6,83165,234,Polyurethane,Geothermal,Heat Pump,3062233.26
+89,13,2150,466,Cellulose,Heat Pump,Central AC,46060.99
+71,25,55761,19,Fiberglass,Geothermal,Window Units,3676196.9
+81,17,45912,87,Polyurethane,Forced Air,None,2792971.4
+8,16,32222,152,Fiberglass,Heat Pump,Central AC,1658989.8
+4,5,80456,29,Fiberglass,Geothermal,Central AC,3875985.63
+23,45,92694,205,Polyurethane,Forced Air,None,1128643.47
+87,41,76730,474,Cellulose,Heat Pump,Heat Pump,2443000.2
+74,29,53237,347,Polyurethane,Radiant,Window Units,2879220.19
+52,5,83099,152,Spray Foam,Forced Air,Central AC,1467135.03
+51,41,72358,250,Mineral Wool,Boiler,Window Units,3159479.68
+16,39,75605,257,Polyurethane,Forced Air,Evaporative,2080606.99
+95,43,42373,113,Spray Foam,Forced Air,Heat Pump,829802.48
+95,7,15060,404,Mineral Wool,Heat Pump,Central AC,512100.06
+60,29,74364,443,Spray Foam,Radiant,None,4499044.17
+94,8,18069,210,Cellulose,Boiler,Evaporative,828105.38
+99,6,54428,349,Spray Foam,Forced Air,Heat Pump,854739.0
+9,25,85948,470,Cellulose,Heat Pump,Central AC,1086165.52
+24,4,35287,438,Spray Foam,Heat Pump,Window Units,697183.51
+26,49,70261,23,Polyurethane,Forced Air,None,2046594.73
+76,46,34752,123,Spray Foam,Geothermal,Central AC,2236383.23
+8,2,40688,403,Mineral Wool,Heat Pump,None,1990401.53
+63,26,99329,471,Spray Foam,Radiant,Central AC,2895144.75
+50,27,11189,482,Mineral Wool,Geothermal,None,430852.8
+63,8,24615,479,Mineral Wool,Radiant,None,412389.41
+98,29,37778,161,Fiberglass,Geothermal,None,2050371.27
+5,33,64604,229,Fiberglass,Heat Pump,Evaporative,867686.5
+22,4,54546,105,Mineral Wool,Geothermal,Evaporative,2868426.64
+28,8,44745,218,Cellulose,Boiler,Heat Pump,2479824.1
+32,21,48218,56,Mineral Wool,Radiant,Window Units,560771.55
+74,40,54128,73,Spray Foam,Heat Pump,Central AC,2256135.77
+100,46,6003,239,Polyurethane,Radiant,None,486701.5
+45,7,46193,168,Fiberglass,Radiant,None,2285546.2
+67,32,19543,167,Mineral Wool,Boiler,Central AC,454920.85
+91,25,45840,298,Spray Foam,Geothermal,Heat Pump,3413453.58
+9,16,11982,284,Fiberglass,Geothermal,Central AC,292112.77
+76,9,50380,354,Polyurethane,Geothermal,Evaporative,1189757.37
+97,19,64646,142,Fiberglass,Geothermal,Central AC,3514981.54
+63,13,8529,388,Polyurethane,Heat Pump,Heat Pump,208508.24
+95,11,94055,348,Fiberglass,Boiler,Window Units,5284306.02
+79,24,45440,369,Fiberglass,Geothermal,Evaporative,1878411.84
+27,47,38428,499,Spray Foam,Geothermal,Heat Pump,1245277.55
+68,24,1236,415,Mineral Wool,Radiant,Window Units,30272.18
+34,4,25825,308,Mineral Wool,Forced Air,Evaporative,1649484.42
+45,18,13063,224,Spray Foam,Radiant,Central AC,909405.93
+56,22,59616,220,Fiberglass,Boiler,Evaporative,1785644.66
+59,46,35127,170,Cellulose,Heat Pump,Evaporative,1212241.02
+69,26,26380,58,Spray Foam,Geothermal,Evaporative,1288838.42
+94,2,86450,475,Polyurethane,Forced Air,Evaporative,7752149.75
+73,2,34673,262,Cellulose,Heat Pump,Central AC,2747349.17
+87,49,57382,188,Fiberglass,Radiant,None,4647872.38
+94,34,46103,495,Cellulose,Forced Air,Heat Pump,4000206.4
+100,8,12648,384,Mineral Wool,Geothermal,Window Units,1206791.94
+26,50,20466,54,Polyurethane,Geothermal,Central AC,1017581.05
+70,14,58067,324,Fiberglass,Radiant,None,1969793.93
+57,42,74050,188,Polyurethane,Heat Pump,None,2255075.77
+21,11,36021,458,Fiberglass,Geothermal,Central AC,1496337.94
+45,28,58690,399,Cellulose,Boiler,Evaporative,1686713.26
+16,50,11043,135,Cellulose,Heat Pump,Window Units,199897.73
+58,30,43557,404,Fiberglass,Boiler,Central AC,2162622.85
+90,32,9280,69,Polyurethane,Forced Air,Evaporative,574479.75
+15,14,81298,360,Spray Foam,Geothermal,None,2387575.31
+35,11,90461,36,Mineral Wool,Geothermal,Evaporative,3977242.06
+40,39,12299,25,Fiberglass,Radiant,Window Units,322270.06
+57,46,8449,230,Fiberglass,Radiant,Evaporative,496646.06
+7,5,99767,444,Mineral Wool,Heat Pump,None,653251.64
+48,30,20210,338,Cellulose,Radiant,Central AC,905143.32
+60,44,50290,239,Fiberglass,Geothermal,None,1919181.66
+5,6,89199,350,Fiberglass,Geothermal,Central AC,929811.77
+95,8,90279,415,Cellulose,Boiler,Window Units,6860763.95
+3,27,43945,396,Mineral Wool,Heat Pump,Central AC,2171255.5
+41,11,27652,406,Spray Foam,Radiant,Window Units,1555626.76
+30,22,65377,370,Cellulose,Radiant,Evaporative,3502781.67
+1,41,30471,252,Polyurethane,Geothermal,Central AC,1466519.52
+82,25,65891,151,Mineral Wool,Boiler,Central AC,1983491.99
+62,6,8600,494,Mineral Wool,Boiler,Window Units,84637.56
+3,35,84030,414,Fiberglass,Heat Pump,Heat Pump,2496978.83
+47,7,95317,75,Polyurethane,Forced Air,Evaporative,2790693.87
+69,50,10838,363,Polyurethane,Heat Pump,Heat Pump,782709.15
+63,23,60741,366,Spray Foam,Radiant,Window Units,3310969.04
+28,27,25746,346,Polyurethane,Forced Air,Heat Pump,828508.3
+47,14,97302,403,Cellulose,Boiler,Evaporative,1391249.55
+22,38,12123,410,Spray Foam,Boiler,Evaporative,175554.24
+15,25,96908,34,Spray Foam,Boiler,Evaporative,1897364.28
+44,5,27134,479,Fiberglass,Forced Air,Window Units,1241037.43
+63,35,11259,101,Fiberglass,Geothermal,Window Units,472421.66
+76,43,84676,390,Spray Foam,Boiler,Heat Pump,4433324.05
+78,5,74694,278,Polyurethane,Heat Pump,Window Units,2044153.26
+3,34,94408,424,Spray Foam,Radiant,Window Units,3793399.66
+84,12,25978,194,Cellulose,Geothermal,Evaporative,1989159.9
+5,6,7080,89,Spray Foam,Heat Pump,Window Units,68295.24
+41,16,79255,206,Fiberglass,Forced Air,None,1284532.93
+62,29,80287,436,Mineral Wool,Geothermal,Window Units,3604082.59
+5,25,54944,44,Spray Foam,Boiler,None,340228.76
+32,33,6408,341,Spray Foam,Heat Pump,Heat Pump,55174.22
+54,18,22269,392,Spray Foam,Geothermal,Window Units,1166155.21
+95,38,82843,413,Spray Foam,Forced Air,Evaporative,4096724.55
+18,47,40304,259,Spray Foam,Forced Air,Heat Pump,2280794.41
+57,18,78611,161,Polyurethane,Heat Pump,Evaporative,2379847.84
+84,4,58817,438,Spray Foam,Forced Air,Window Units,761025.36
+44,47,28284,149,Mineral Wool,Radiant,Heat Pump,1213246.95
+69,23,98166,162,Mineral Wool,Heat Pump,Window Units,5197718.29
+93,40,94798,239,Fiberglass,Boiler,None,3256875.79
+51,35,93745,424,Spray Foam,Forced Air,None,3053323.64
+46,17,32704,342,Polyurethane,Heat Pump,Evaporative,650746.47
+67,38,96482,270,Spray Foam,Heat Pump,Heat Pump,3098499.31
+68,23,71370,488,Cellulose,Heat Pump,Window Units,5967953.61
+33,7,98013,369,Cellulose,Boiler,Evaporative,6031473.72
+21,23,87678,149,Fiberglass,Boiler,Heat Pump,3179093.37
+68,24,1642,272,Mineral Wool,Boiler,Evaporative,115131.25
+32,29,35502,292,Polyurethane,Heat Pump,Evaporative,1971687.3
+23,25,34381,302,Fiberglass,Geothermal,Heat Pump,416609.37
+24,3,21443,27,Spray Foam,Radiant,Heat Pump,262646.31
+36,5,29030,68,Fiberglass,Radiant,Central AC,970636.0
+35,40,4293,198,Fiberglass,Geothermal,Central AC,122991.05
+72,19,96398,106,Fiberglass,Geothermal,Evaporative,2182358.39
+5,42,69027,61,Mineral Wool,Geothermal,Central AC,3609164.88
+67,35,59715,71,Mineral Wool,Radiant,Central AC,4801182.11
+44,2,33705,233,Polyurethane,Geothermal,Window Units,959096.28
+50,25,35870,88,Polyurethane,Radiant,Heat Pump,369803.14
+57,29,67043,10,Polyurethane,Geothermal,Heat Pump,4985922.36
+50,21,59574,338,Polyurethane,Forced Air,None,2437500.78
+71,44,30741,321,Cellulose,Radiant,Evaporative,1944200.41
+84,34,94647,403,Fiberglass,Forced Air,Heat Pump,6951273.47
+4,37,57533,185,Spray Foam,Boiler,Central AC,1861077.05
+16,49,51377,99,Spray Foam,Radiant,None,1787086.18
+78,48,52846,35,Polyurethane,Forced Air,Heat Pump,3319796.06
+97,13,90890,427,Fiberglass,Radiant,Window Units,3614788.47
+89,23,87270,231,Fiberglass,Forced Air,Central AC,7072357.86
+2,8,41880,434,Mineral Wool,Boiler,Window Units,507792.56
+84,36,91716,167,Cellulose,Forced Air,Evaporative,7910853.44
+42,8,66976,157,Spray Foam,Boiler,None,1118082.7
+14,23,27340,72,Fiberglass,Heat Pump,Heat Pump,432827.6
+70,9,34623,19,Cellulose,Geothermal,Evaporative,1149895.28
+54,9,82972,388,Mineral Wool,Boiler,Window Units,3251835.99
+81,37,48783,420,Fiberglass,Heat Pump,Window Units,3365619.09
+68,10,77347,376,Mineral Wool,Forced Air,Evaporative,6380026.1
+17,41,7769,498,Spray Foam,Heat Pump,Heat Pump,170732.49
+39,27,77318,369,Polyurethane,Heat Pump,None,4297491.5
+40,2,17960,388,Cellulose,Geothermal,Heat Pump,1194539.08
+3,5,30394,493,Spray Foam,Forced Air,Evaporative,186195.52
+63,6,45804,133,Fiberglass,Heat Pump,Central AC,570384.65
+95,24,5302,480,Cellulose,Radiant,Evaporative,291466.64
+2,50,36139,312,Polyurethane,Boiler,Evaporative,193700.9
+23,43,7378,370,Cellulose,Radiant,Evaporative,359726.87
+39,26,11013,214,Mineral Wool,Geothermal,None,648723.69
+61,37,2641,499,Cellulose,Forced Air,Evaporative,125723.24
+12,43,77354,183,Spray Foam,Boiler,None,4163568.49
+79,19,1788,346,Mineral Wool,Radiant,Heat Pump,71031.3
+67,46,99321,345,Fiberglass,Heat Pump,None,6307181.45
+6,8,17078,451,Mineral Wool,Forced Air,None,883745.46
+64,46,79544,102,Fiberglass,Forced Air,Central AC,1771891.84
+79,39,12984,461,Mineral Wool,Radiant,Central AC,128080.82
+21,20,1664,62,Spray Foam,Radiant,None,24298.03
+2,28,50178,21,Cellulose,Heat Pump,Evaporative,903231.09
+80,1,30733,338,Polyurethane,Radiant,Heat Pump,459434.08
+12,13,14398,396,Spray Foam,Boiler,Heat Pump,207424.39
+68,18,84261,299,Spray Foam,Geothermal,Central AC,3461215.93
+98,44,58924,231,Mineral Wool,Heat Pump,Central AC,5251935.61
+50,40,72933,251,Polyurethane,Boiler,Heat Pump,4477281.83
+95,41,25432,13,Mineral Wool,Geothermal,Evaporative,915246.99
+24,2,18015,89,Cellulose,Radiant,Heat Pump,1041162.7
+21,36,29349,55,Spray Foam,Heat Pump,Window Units,347307.52
+28,13,20546,329,Fiberglass,Heat Pump,None,327342.68
+16,30,51773,267,Spray Foam,Heat Pump,Heat Pump,2145565.66
+19,48,33203,62,Polyurethane,Boiler,Central AC,197713.44
+32,10,62975,262,Mineral Wool,Boiler,None,3549737.38
+19,2,5674,166,Fiberglass,Forced Air,None,292154.29
+36,10,2572,41,Cellulose,Forced Air,None,101353.92
+95,34,23620,356,Spray Foam,Forced Air,None,2108411.5
+74,5,63084,387,Polyurethane,Boiler,Central AC,3718928.87
+24,30,4187,34,Fiberglass,Forced Air,Window Units,71299.81
+80,42,31164,125,Mineral Wool,Radiant,Central AC,814917.05
+59,40,38992,49,Cellulose,Radiant,Heat Pump,2719228.81
+47,27,23735,279,Spray Foam,Heat Pump,None,1452082.49
+26,19,59774,94,Fiberglass,Boiler,None,2724752.66
+43,41,8807,499,Fiberglass,Boiler,Central AC,341893.89
+65,47,37945,246,Fiberglass,Heat Pump,Central AC,1973531.51
+94,1,67637,453,Polyurethane,Geothermal,Evaporative,3940474.68
+42,17,99277,430,Mineral Wool,Forced Air,Heat Pump,4750958.57
+96,16,42233,176,Fiberglass,Forced Air,Central AC,2834768.07
+8,40,25554,152,Fiberglass,Geothermal,Evaporative,721739.24
+11,45,13250,303,Mineral Wool,Forced Air,Heat Pump,137452.36
+77,8,79605,286,Fiberglass,Heat Pump,Evaporative,2094234.99
+8,21,49963,301,Fiberglass,Heat Pump,Central AC,683636.78
+5,44,11137,99,Mineral Wool,Forced Air,Heat Pump,117825.3
+70,49,47558,115,Cellulose,Radiant,Central AC,3951511.35
+95,49,77658,236,Spray Foam,Boiler,Evaporative,6774276.91
+59,43,18909,170,Cellulose,Radiant,Central AC,1015228.49
+32,35,11718,155,Fiberglass,Forced Air,None,713038.39
+85,45,74344,274,Mineral Wool,Heat Pump,Central AC,5025622.34
+87,8,65840,189,Mineral Wool,Boiler,Window Units,3633192.28
+44,32,67139,343,Fiberglass,Boiler,Central AC,1540437.08
+54,39,71662,193,Spray Foam,Boiler,Evaporative,2795076.89
+79,25,31985,294,Mineral Wool,Geothermal,Heat Pump,618273.86
+47,33,25490,424,Spray Foam,Geothermal,None,369108.49
+77,40,24434,362,Fiberglass,Boiler,Evaporative,1603108.52
+93,33,92518,321,Mineral Wool,Boiler,Heat Pump,4016894.61
+81,35,21479,31,Cellulose,Geothermal,Heat Pump,757525.13
+4,8,69204,54,Cellulose,Radiant,Window Units,476128.18
+58,32,55745,317,Spray Foam,Radiant,Window Units,1451626.31
+8,50,51408,173,Cellulose,Radiant,Heat Pump,2389185.9
+4,27,76421,396,Cellulose,Heat Pump,None,1064432.14
+64,30,33253,306,Fiberglass,Radiant,Heat Pump,1275665.11
+34,3,85829,432,Fiberglass,Geothermal,Heat Pump,2479065.94
+38,11,84073,114,Spray Foam,Geothermal,None,3377010.62
+59,41,51194,155,Polyurethane,Boiler,Evaporative,2372735.75
+15,44,33306,371,Mineral Wool,Geothermal,Evaporative,334195.25
+76,7,5592,488,Spray Foam,Boiler,Heat Pump,166638.56
+62,46,74100,386,Spray Foam,Heat Pump,Central AC,4695899.91
+94,49,89571,305,Fiberglass,Boiler,Evaporative,2178128.61
+7,47,16403,99,Cellulose,Heat Pump,Central AC,771604.23
+73,29,47524,58,Mineral Wool,Radiant,None,3686138.1
+37,23,80541,246,Spray Foam,Geothermal,Heat Pump,3378146.65
+10,16,89739,66,Fiberglass,Heat Pump,Central AC,2418135.63
+20,34,45165,121,Fiberglass,Geothermal,Heat Pump,2028512.99
+73,7,42118,94,Spray Foam,Heat Pump,Evaporative,2227707.86
+84,22,85852,97,Mineral Wool,Boiler,Evaporative,4706634.89
+32,21,50847,328,Spray Foam,Radiant,Central AC,402153.76
+89,23,27218,332,Mineral Wool,Geothermal,Window Units,2018093.85
+5,18,79909,167,Fiberglass,Forced Air,Central AC,3651311.5
+98,18,26421,217,Polyurethane,Heat Pump,Window Units,2129713.09
+52,16,88366,366,Mineral Wool,Geothermal,None,4529046.07
+86,23,47848,316,Polyurethane,Radiant,None,3221503.07
+62,5,21314,375,Polyurethane,Boiler,Window Units,280924.04
+49,4,57396,490,Polyurethane,Geothermal,Window Units,552078.5
+97,20,70907,23,Cellulose,Forced Air,None,6194465.54
+12,22,90359,279,Fiberglass,Radiant,Evaporative,3782019.16
+74,32,97515,415,Spray Foam,Geothermal,None,4799327.3
+99,29,36048,225,Spray Foam,Geothermal,Central AC,2336741.34
+87,28,61322,297,Polyurethane,Geothermal,None,789205.65
+45,4,34636,185,Spray Foam,Radiant,Window Units,780945.09
+68,13,30069,337,Cellulose,Forced Air,None,1744635.2
+3,45,74761,337,Spray Foam,Forced Air,Central AC,1307400.31
+63,18,69583,393,Polyurethane,Radiant,None,1125959.52
+46,34,34941,458,Fiberglass,Heat Pump,None,2156882.72
+62,50,91610,74,Mineral Wool,Radiant,Evaporative,1025120.2
+51,38,48946,231,Fiberglass,Radiant,Heat Pump,1335555.97
+25,25,52170,442,Cellulose,Boiler,Evaporative,804048.78
+42,45,41576,121,Cellulose,Heat Pump,Evaporative,2287009.03
+23,3,64797,476,Mineral Wool,Heat Pump,Evaporative,1278768.18
+58,1,6907,255,Polyurethane,Geothermal,None,243469.27
+67,18,19143,178,Cellulose,Radiant,None,163896.04
+40,23,24601,256,Polyurethane,Radiant,Central AC,667366.32
+77,11,84663,23,Fiberglass,Heat Pump,Window Units,1923409.54
+22,41,61189,141,Fiberglass,Boiler,Heat Pump,765714.45
+44,50,2218,127,Polyurethane,Heat Pump,Evaporative,145298.71
+28,4,79652,169,Spray Foam,Radiant,Central AC,4273088.27
+14,40,71645,362,Polyurethane,Forced Air,Central AC,712047.5
+48,48,76818,471,Mineral Wool,Geothermal,Central AC,5341533.39
+12,32,38811,191,Spray Foam,Radiant,Central AC,686397.49
+82,18,57779,183,Mineral Wool,Forced Air,Central AC,5141125.13
+8,47,38315,442,Polyurethane,Boiler,Window Units,1118773.15
+87,44,42958,451,Mineral Wool,Boiler,Evaporative,4009757.34
+5,50,96811,17,Cellulose,Heat Pump,Heat Pump,4438650.69
+12,2,73286,11,Mineral Wool,Geothermal,Heat Pump,3036659.34
+89,7,93746,303,Fiberglass,Heat Pump,Heat Pump,2678775.17
+69,31,27054,463,Cellulose,Boiler,Heat Pump,1361977.41
+17,2,82151,179,Mineral Wool,Forced Air,Central AC,4697552.25
+62,9,92650,79,Cellulose,Radiant,Window Units,3195779.56
+32,35,50054,490,Mineral Wool,Forced Air,None,1304380.25
+93,6,97094,101,Fiberglass,Boiler,Heat Pump,4196229.28
+14,40,7328,469,Fiberglass,Radiant,Central AC,85419.49
+81,30,69005,225,Spray Foam,Radiant,Central AC,2767289.94
+26,28,36730,36,Spray Foam,Forced Air,None,1326347.26
+41,49,20866,183,Polyurethane,Radiant,None,880650.25
+40,12,5818,383,Fiberglass,Forced Air,Central AC,350071.71
+63,12,89274,80,Spray Foam,Geothermal,None,2131118.51
+7,25,2584,299,Mineral Wool,Radiant,Evaporative,31889.35
+87,12,90370,182,Cellulose,Geothermal,Heat Pump,4112643.5
+17,33,23493,475,Spray Foam,Geothermal,Heat Pump,1306382.68
+36,22,42466,440,Polyurethane,Boiler,Window Units,1872593.85
+83,32,11114,444,Cellulose,Heat Pump,Evaporative,463402.74
+86,36,74334,458,Polyurethane,Forced Air,Evaporative,1436778.28
+21,27,30211,146,Fiberglass,Forced Air,Heat Pump,714029.32
+29,24,65184,231,Fiberglass,Forced Air,None,3198508.13
+49,6,69784,349,Mineral Wool,Forced Air,None,1122705.43
+61,26,14485,271,Fiberglass,Heat Pump,Central AC,320373.8
+33,16,24417,384,Cellulose,Radiant,Heat Pump,1297429.96
+32,40,39841,417,Fiberglass,Radiant,Window Units,2578674.78
+19,34,75337,282,Spray Foam,Heat Pump,None,2377017.18
+82,1,95764,215,Spray Foam,Geothermal,Evaporative,2313401.5
+19,14,43980,293,Polyurethane,Geothermal,Central AC,2259237.18
+38,17,87968,72,Mineral Wool,Radiant,Heat Pump,2418078.92
+56,17,49567,62,Spray Foam,Heat Pump,Window Units,1485688.23
+80,47,49526,474,Spray Foam,Forced Air,Central AC,490212.47
+41,42,1383,304,Mineral Wool,Forced Air,Window Units,67414.65
+21,38,69831,444,Spray Foam,Boiler,Central AC,3848209.19
+40,1,85665,354,Mineral Wool,Radiant,Heat Pump,1609442.65
+45,25,6245,266,Mineral Wool,Radiant,Heat Pump,247948.57
+36,27,65437,38,Cellulose,Geothermal,Window Units,4301300.42
+4,15,34867,247,Polyurethane,Boiler,Evaporative,189256.5
+90,1,86848,454,Cellulose,Heat Pump,Window Units,962065.2
+6,44,48524,447,Cellulose,Geothermal,Heat Pump,593719.42
+65,8,88517,202,Polyurethane,Heat Pump,None,3026394.09
+93,42,85338,78,Cellulose,Radiant,None,3416899.36
+53,44,51610,192,Polyurethane,Boiler,Heat Pump,3735179.6
+39,20,21949,382,Fiberglass,Boiler,Window Units,475069.61
+72,18,45826,122,Fiberglass,Geothermal,Evaporative,3316143.2
+15,4,40125,292,Fiberglass,Boiler,Central AC,749036.18
+40,40,58665,456,Cellulose,Radiant,None,2356925.7
+3,21,93615,172,Cellulose,Heat Pump,Central AC,4001319.14
+1,30,21497,158,Fiberglass,Radiant,Evaporative,908892.74
+32,25,66652,323,Spray Foam,Geothermal,Window Units,3768597.54
+91,28,10664,69,Polyurethane,Forced Air,Heat Pump,593066.1
+15,25,56207,82,Spray Foam,Heat Pump,Evaporative,2759111.49
+13,1,35406,325,Spray Foam,Heat Pump,Heat Pump,881217.98
+95,17,97288,226,Mineral Wool,Boiler,Window Units,6533939.88
+94,20,8112,352,Spray Foam,Radiant,Evaporative,474621.93
+35,35,71962,467,Mineral Wool,Heat Pump,Central AC,4845121.07
