@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 
 app = Flask(__name__)
-CORS(app, resources={r"/predict": {"origins": "https://66e81ded0c425124fd00aed9--darling-peony-261113.netlify.app"}})
+CORS(app)  # This allows all origins
 
 # Load the saved model, scaler, and encoder
 model = joblib.load('model.joblib')
