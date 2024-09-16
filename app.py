@@ -1,9 +1,11 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import joblib
 import pandas as pd
 import numpy as np
 
 app = Flask(__name__)
+CORS(app, resources={r"/predict": {"origins": "http://127.0.0.1:5500"}})
 
 # Load the saved model, scaler, and encoder
 model = joblib.load('model.joblib')
@@ -18,7 +20,7 @@ categorical_features = ['Insulation_Type', 'Heating_System', 'Cooling_System']
 @app.route('/predict', methods=['POST'])
 def predict():
     # Get JSON data from request
-    data = request.get_json(force=True) # ua kia kr rha ha body sa values la rha ha api ki
+    data = request.get_json(force=True)
 
     # Convert to DataFrame
     input_data = pd.DataFrame([data])
@@ -59,4 +61,3 @@ if __name__ == '__main__':
     import os
     port = int(os.environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port)
-
